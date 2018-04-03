@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-bayer-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-bayer-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />German drugs firm <Node id="18" />Bayer<Node id="23" /> is shedding 1,800 jobs worldwide, with the possibility of more cuts ahead following the shock withdrawal of its cholesterol-lowering drug Baycol.
+<Node id="170" />The failure of Baycol, also known as Lipobay, has caused the European medicines evaluation agency to mount a safety review of similar heart drugs, known as statins.<Node id="334" />
+
+<Node id="336" />Bayer<Node id="341" />'s shares fell a further <Node id="366" />4%<Node id="368" /> <Node id="369" />yesterday<Node id="378" /> in response to a <Node id="396" />45%<Node id="399" /> plunge in <Node id="410" />second-quarter<Node id="424" /> profits to <Node id="436" />508m euros<Node id="446" /> (<Node id="448" />318m pounds<Node id="459" />).<Node id="461" />
+
+<Node id="463" />Bayer<Node id="468" />'s chairman, <Node id="481" />Manfred Schneider<Node id="498" />, said it would take time to reshape the business's strategy: "We are currently analysing the situation and will then draw the necessary conclusions, but hasty reactions will not get us anywhere at this stage."<Node id="708" />
+
+<Node id="710" />The 1,800 redundancies will be in <Node id="744" />Bayer<Node id="749" />'s polymers business, as part of a restructuring planned before <Node id="813" />this week<Node id="822" />'s events. Some 15 factories are to shut, with <Node id="869" />US<Node id="871" /> sites bearing the brunt, in an attempt to save <Node id="919" />700m euros<Node id="929" /> by <Node id="933" />2005<Node id="937" />.<Node id="938" />
+
+<Node id="940" />Further ahead, the firm wants to save <Node id="978" />600m euros<Node id="988" /> in its healthcare business, partly through plant closures - although these have not yet been identified.<Node id="1093" />
+
+<Node id="1095" />Bayer<Node id="1100" /> has 2,300 staff in <Node id="1120" />Britain<Node id="1127" />, none of whom are involved in making polymers. Most work in sales and marketing, with the largest sites in <Node id="1235" />Newbury<Node id="1242" /> and <Node id="1247" />Bury St Edmunds<Node id="1262" />.<Node id="1263" />
+
+<Node id="1265" />Mr Schneider<Node id="1277" /> admitted the failure of Baycol "obviously" had implications for development of the group. "The economic consequences are severe, but the safety and health of patients had to come first."<Node id="1464" />
+
+<Node id="1466" />Bayer<Node id="1471" /> withdrew Baycol amid concerns that it could cause potentially lethal muscle weakness, with patients reporting tiredness, spasms, nausea and fevers. The drug was taken by 6m people world wide and its failure will cost <Node id="1689" />600m euros<Node id="1699" />.<Node id="1700" />
+
+<Node id="1702" />The firm has set up helplines to counsel patients. Doctors urged users of other statins not to worry, pointing out that problems only occurred when Baycol was taken with gemfibrozil, another cardiology drug.<Node id="1909" />
+
+<Node id="1911" />Europe<Node id="1917" />'s medicines regulator said 480 cases of muscular side effects had been reported worldwide. <Node id="2009" />Noel Wathion<Node id="2021" />, head of the <Node id="2035" />London<Node id="2041" />-based agency's drug evaluation unit, said a working party would examine statins: "There is a need to look at the whole class of these products to see if there is a need for further action."<Node id="2231" />
+<Node id="2232" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="369" EndNode="378">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Location" StartNode="2035" EndNode="2041">
+</Annotation>
+<Annotation Id="2" Type="Person" StartNode="2009" EndNode="2021">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Location" StartNode="1247" EndNode="1262">
+</Annotation>
+<Annotation Id="4" Type="Location" StartNode="1235" EndNode="1242">
+</Annotation>
+<Annotation Id="5" Type="Location" StartNode="1911" EndNode="1917">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="1466" EndNode="1471">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Person" StartNode="1265" EndNode="1277">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Location" StartNode="1120" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="1095" EndNode="1100">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Date" StartNode="933" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Location" StartNode="869" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="744" EndNode="749">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Person" StartNode="481" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">13</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="463" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Organization" StartNode="336" EndNode="341">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Money" StartNode="1689" EndNode="1699">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="18" EndNode="23">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Money" StartNode="919" EndNode="929">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Money" StartNode="978" EndNode="988">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Money" StartNode="436" EndNode="446">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Money" StartNode="448" EndNode="459">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Percent" StartNode="366" EndNode="368">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Percent" StartNode="396" EndNode="399">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Date" StartNode="813" EndNode="822">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Date" StartNode="410" EndNode="424">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4501" Type="RelationClass" StartNode="463" EndNode="498">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">13</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">14</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="34" Type="p" StartNode="940" EndNode="1093">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="710" EndNode="938">
+</Annotation>
+<Annotation Id="32" Type="p" StartNode="1265" EndNode="1464">
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="1095" EndNode="1263">
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="170" EndNode="334">
+</Annotation>
+<Annotation Id="39" Type="font" StartNode="0" EndNode="2232">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="p" StartNode="463" EndNode="708">
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="336" EndNode="461">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="0" EndNode="2232">
+</Annotation>
+<Annotation Id="54" Type="font" StartNode="0" EndNode="2232">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="body" StartNode="0" EndNode="2232">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="p" StartNode="1911" EndNode="2231">
+</Annotation>
+<Annotation Id="31" Type="p" StartNode="1466" EndNode="1700">
+</Annotation>
+<Annotation Id="61" Type="TEXT" StartNode="0" EndNode="2232">
+</Annotation>
+<Annotation Id="30" Type="p" StartNode="1702" EndNode="1909">
+</Annotation>
+<Annotation Id="60" Type="html" StartNode="0" EndNode="2232">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

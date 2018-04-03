@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-synergie-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-synergie-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />It is still possible to get an <Node id="31" />IPO<Node id="34" /> away and <Node id="44" />Synergy Healthcare<Node id="62" /> proved the point <Node id="80" />yesterday<Node id="89" /> when it revealed that its AIM listing, which values the company at <Node id="157" />£21m<Node id="161" />, has been three times oversubscribed.
+<Node id="200" />Shares in the firm, which provides waste management, theatre management, non-sterile and sterile services mainly to <Node id="316" />NHS<Node id="319" /> trusts, are priced at <Node id="342" />128p<Node id="346" /> and start trading on <Node id="368" />August 20<Node id="377" />. The company said it had raised <Node id="410" />£8.7m<Node id="415" /> from institutional placings. It will use the proceeds to fund on-site technical service support units and as additional working capital.<Node id="552" />
+
+<Node id="554" />The company made operating profits of <Node id="592" />£1.3m<Node id="597" /> in the year to the <Node id="617" />end of March<Node id="629" /> on sales of <Node id="642" />£10.7m<Node id="648" />, representing growth of <Node id="673" />185%<Node id="677" /> and <Node id="682" />90%<Node id="685" /> respectively over the <Node id="708" />past three years<Node id="724" />.<Node id="725" />
+
+<Node id="727" />Chief executive <Node id="743" />Richard Streeves<Node id="759" /> had believed he would net only <Node id="791" />£4m-£8m<Node id="798" /> from the listing.<Node id="816" />
+<Node id="817" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="708" EndNode="724">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="617" EndNode="629">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="80" EndNode="89">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Money" StartNode="157" EndNode="161">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Money" StartNode="342" EndNode="346">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="410" EndNode="415">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="592" EndNode="597">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="642" EndNode="648">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Percent" StartNode="673" EndNode="677">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Percent" StartNode="682" EndNode="685">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="316" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Date" StartNode="368" EndNode="377">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">DateName</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Person" StartNode="743" EndNode="759">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonJobTitle</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="44" EndNode="62">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">13</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="31" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">14</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Money" StartNode="791" EndNode="798">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="19" Type="p" StartNode="727" EndNode="816">
+</Annotation>
+<Annotation Id="33" Type="body" StartNode="0" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="p" StartNode="200" EndNode="552">
+</Annotation>
+<Annotation Id="20" Type="p" StartNode="554" EndNode="725">
+</Annotation>
+<Annotation Id="23" Type="p" StartNode="0" EndNode="817">
+</Annotation>
+<Annotation Id="36" Type="html" StartNode="0" EndNode="817">
+</Annotation>
+<Annotation Id="37" Type="TEXT" StartNode="0" EndNode="817">
+</Annotation>
+<Annotation Id="22" Type="font" StartNode="0" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="font" StartNode="0" EndNode="817">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,8 @@
+84 #numTrainingDocs
+1 #numClasses
+144 #numNullLabelInstances
+268 #totalFeatures
+C:\Users\obinnao2\Documents\GATE_TUTORIALS\MODULE11\relation-exercise\savedFiles\learnedModels.save #modelFile
+SVMLibSvmJava #learnerName
+null #learnerExecutable
+ -c 0.7 -t 0 -m 100 -tau 0.6 #learnerParams

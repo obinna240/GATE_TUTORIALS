@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-commerzbank-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-commerzbank-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Commerzbank<Node id="11" />, <Node id="13" />Germany<Node id="20" />'s third biggest listed bank, on <Node id="53" />Thursday<Node id="61" /> struggled to quell takeover rumours, as investors drove the bank's stock sharply higher despite a big drop in <Node id="172" />second quarter<Node id="186" /> profits.
+
+The bank blamed weak global stock markets and high operating costs for the poor <Node id="277" />second quarter<Node id="291" />, which saw pre-tax profits fall <Node id="324" />40 per cent<Node id="335" /> quarter on quarter to <Node id="358" />E186m<Node id="363" /> (<Node id="365" />$161.8m<Node id="372" />).
+
+It vowed to contain soaring costs and said management had approved a recruitment freeze and the cancellation of several IT projects as part of a drive to save <Node id="535" />E240m<Node id="540" /> by the <Node id="548" />end of the year<Node id="563" />.
+
+The market largely disregarded the bank's poor performance, pushing the stock 3 per higher to around E27 as takeover speculation continued to gain momentum.
+
+Analysts said the weak results would boost the bid speculation surrounding the stock, which has been driven by takeover rumours rather than fundamentals for most of the <Node id="893" />past year<Node id="902" />.
+
+In a conference call for analysts, executives dismissed reports that <Node id="974" />Commerzbank<Node id="985" /> was in takeover talks with <Node id="1013" />Unicredito Italiano<Node id="1032" />, <Node id="1034" />Italy<Node id="1039" />'s second largest bank.
+
+They also denied that the bank's largest shareholder, <Node id="1118" />Assicurazioni Generali<Node id="1140" />, the Italian insurer, had increased its stake from <Node id="1192" />10 per cent<Node id="1203" /> to <Node id="1207" />19 per cent<Node id="1218" />.
+
+But officials admitted the bank, long seen as vulnerable to a takeover, was in talks with several European banks, some of which lie outside its extensive network of partnerships. "We have had contact with <Node id="1426" />Unicredito<Node id="1436" />, <Node id="1438" />Soci�©t�© G�©n�©rale<Node id="1458" />, the <Node id="1464" />Royal Bank of Scotland<Node id="1486" />, <Node id="1488" />ABN Amro<Node id="1496" />, <Node id="1498" />Den Danske Bank<Node id="1513" />, <Node id="1515" />BSCH of <Node id="1523" />Spain<Node id="1528" /> and <Node id="1533" />HSBC<Node id="1537" />," said an official.
+
+Bankers said the talks were understood to have centred on the possibility of partners taking stakes in specific businesses, such as asset management, which is being restructured, or <Node id="1741" />Comdirect<Node id="1750" />, the bank's troubled online broking subsidiary. In return potential partners might gain seats on the bank's supervisory board, the bankers said.
+
+Analysts said the bank's poor underlying performance for the <Node id="1958" />third quarter<Node id="1971" /> in a row had put it under renewed pressure to boost profitability.
+
+The bank said costs, which shot up <Node id="2075" />18 per cent<Node id="2086" /> in the <Node id="2094" />first half<Node id="2104" /> to <Node id="2108" />E2.909bn<Node id="2116" /> from <Node id="2122" />E2.47bn<Node id="2129" /> a year earlier, remained a "cause for concern".
+
+It said it planned to save <Node id="2206" />E240m<Node id="2211" /> in the <Node id="2219" />second half of this year<Node id="2243" />. About <Node id="2251" />E100m<Node id="2256" /> would come from a recruitment freeze, with a further <Node id="2310" />E140m<Node id="2315" /> coming from cuts in information technology investments.
+
+<Node id="2373" />Fox-Pitt, Kelton<Node id="2389" />, the investment bank, said a big jump in non-staff costs was behind the increase in operating expenses. These included costs linked to the restructuring of businesses, euro conversion costs and expenditure on consultancies and other projects, it said.
+<Node id="2642" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="2094" EndNode="2104">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="2373" EndNode="2389">
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="1741" EndNode="1750">
+</Annotation>
+<Annotation Id="3" Type="Money" StartNode="2310" EndNode="2315">
+</Annotation>
+<Annotation Id="4" Type="Money" StartNode="2251" EndNode="2256">
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="2206" EndNode="2211">
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="2122" EndNode="2129">
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="2108" EndNode="2116">
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="1533" EndNode="1537">
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="1515" EndNode="1528">
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1488" EndNode="1496">
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1426" EndNode="1436">
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="1118" EndNode="1140">
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="1013" EndNode="1032">
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="974" EndNode="985">
+</Annotation>
+<Annotation Id="15" Type="Money" StartNode="535" EndNode="540">
+</Annotation>
+<Annotation Id="17" Type="Organization" StartNode="0" EndNode="11">
+</Annotation>
+<Annotation Id="16" Type="Money" StartNode="358" EndNode="363">
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="1464" EndNode="1486">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="1498" EndNode="1513">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Location" StartNode="1034" EndNode="1039">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Organization" StartNode="1438" EndNode="1458">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="13" EndNode="20">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Date" StartNode="53" EndNode="61">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Percent" StartNode="1207" EndNode="1218">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">ercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Percent" StartNode="2075" EndNode="2086">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Money" StartNode="365" EndNode="372">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Percent" StartNode="1192" EndNode="1203">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Date" StartNode="172" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Percent" StartNode="324" EndNode="335">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Date" StartNode="548" EndNode="563">
+</Annotation>
+<Annotation Id="30" Type="Date" StartNode="277" EndNode="291">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Date" StartNode="2219" EndNode="2243">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Location" StartNode="1523" EndNode="1528">
+</Annotation>
+<Annotation Id="32" Type="Date" StartNode="893" EndNode="902">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Date" StartNode="1958" EndNode="1971">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="36" Type="TEXT" StartNode="0" EndNode="2642">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

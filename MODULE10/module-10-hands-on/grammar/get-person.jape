@@ -1,0 +1,12 @@
+Phase: GetPeople
+Input: Sentence bold
+Options: control = appelt
+
+
+Rule: GetPerson
+(
+({bold})+
+({Sentence, !bold})+
+):stuff
+-->
+:stuff.Content = {rule = "GetPerson"}

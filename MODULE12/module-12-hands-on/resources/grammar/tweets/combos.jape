@@ -1,0 +1,167 @@
+Phase:	Combos
+Input: Vote Party Not Person Organization Affect
+Options: control = appelt
+
+
+Rule: PronounVoteParty
+Priority:100
+
+(
+ ({Person.ENTITY_MENTION_TYPE==PRONOUN}|
+  {Organization.ENTITY_MENTION_TYPE==PRONOUN}
+ ):person
+ {Vote}
+)
+(
+ {Party}
+):tag
+-->
+{
+
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+
+gate.AnnotationSet personSet = (gate.AnnotationSet)bindings.get("person");
+gate.Annotation personAnn = (gate.Annotation)personSet.iterator().next();
+
+FeatureMap features = Factory.newFeatureMap();
+
+features.put("kind", "pro-" + tagAnn.getFeatures().get("kind"));
+features.put("opinion_holder", personAnn.getFeatures().get("antecedent_string"));
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}
+
+
+Rule: PersonOrgVoteParty
+Priority: 50
+
+(
+ ({Person}|{Organization}
+ ):person
+ {Vote}
+)
+(
+ {Party}
+):tag
+-->
+{
+
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+
+gate.AnnotationSet personSet = (gate.AnnotationSet)bindings.get("person");
+gate.Annotation personAnn = (gate.Annotation)personSet.iterator().next();
+
+FeatureMap features = Factory.newFeatureMap();
+features.put("kind", "pro-" + tagAnn.getFeatures().get("kind"));
+
+try{
+String content = doc.getContent().getContent(personAnn.getStartNode().getOffset(),
+                 personAnn.getEndNode().getOffset()).toString();
+
+features.put("opinion_holder", content);
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}catch(InvalidOffsetException ioe){
+      //this should never happen
+      throw new GateRuntimeException(ioe);
+    }
+
+
+}
+
+
+Rule: NotVoteParty
+(
+ {Not}
+ {Vote}
+)
+ ({Party}):tag
+-->
+
+{
+
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+FeatureMap features = Factory.newFeatureMap();
+features.put("kind", "anti-" + tagAnn.getFeatures().get("kind"));
+features.put("opinion_holder", "author");
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}
+
+ 
+  
+
+Rule: VoteParty
+
+(
+ {Vote}
+)
+({Party}
+):tag
+-->
+
+{
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+FeatureMap features = Factory.newFeatureMap();
+features.put("kind", "pro-" + tagAnn.getFeatures().get("kind"));
+features.put("opinion_holder", "author");
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}
+
+
+Rule: PartyBad
+(
+ {Vote}
+)?
+(
+ {Party}
+):tag
+( 
+ {Affect.kind == bad}|
+ {Affect.kind == sadness}
+)
+-->
+{
+
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+FeatureMap features = Factory.newFeatureMap();
+features.put("kind", "anti-" + tagAnn.getFeatures().get("kind"));
+features.put("opinion_holder", "author");
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}
+
+
+Rule: PartyGood
+(
+ {Vote}
+)?
+(
+ {Party}
+):tag
+( 
+ {Affect.kind == good}
+)
+-->
+{
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+FeatureMap features = Factory.newFeatureMap();
+features.put("kind", "pro-" + tagAnn.getFeatures().get("kind"));
+features.put("opinion_holder", "author");
+outputAS.add(tagAnn.getStartNode(), tagAnn.getEndNode(), "Sentiment",
+ features);
+
+}
+

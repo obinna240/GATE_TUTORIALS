@@ -1,0 +1,18 @@
+Phase:	Preprocess
+Input: Token
+Options: control = appelt
+
+//Rule: Number
+//(
+// {Token.category == CD, Token.length == 14}
+//):tag
+//-->
+//:tag.TweetID = {rule = "number"}
+
+Rule: Question
+(
+ {Token.string == "?"}
+):tag
+-->
+:tag.Question = {rule = "Question"}
+

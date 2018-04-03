@@ -1,0 +1,19 @@
+Phase:	DocumentInit
+Input: Token
+Options: control = once
+
+Rule: Annotate
+Priority: 100
+
+/* Annotate all documents with feature "sport" and value "no" to start with
+*/
+
+(
+{Token}
+)
+-->
+ {
+ doc.getFeatures().put("sport", "no");
+ }
+
+

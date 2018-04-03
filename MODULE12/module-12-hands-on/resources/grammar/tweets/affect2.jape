@@ -1,0 +1,35 @@
+Phase:	Affect
+Input: AffectLookup Token
+Options: control = appelt
+
+
+
+Rule: AffectAdjective
+(
+ {AffectLookup.category == adjective, Token.category == VBN}|
+ {AffectLookup.category == adjective, Token.category == JJ}
+):tag
+-->
+:tag.Affect = {kind = :tag.AffectLookup.kind, category = :tag.AffectLookup.category, rule = "AffectAdjective"}
+
+Rule: AffectNoun
+(
+ {AffectLookup.category == noun, Token.category == NN}|
+ {AffectLookup.category == noun, Token.category == NNS}
+):tag
+-->
+:tag.Affect = {kind = :tag.AffectLookup.kind, category = :tag.AffectLookup.category, rule = "AffectNoun"}
+
+Rule: AffectVerb
+(
+ {AffectLookup.category == verb, Token.category == "VB[ZPG]"}
+):tag
+-->
+:tag.Affect = {kind = :tag.AffectLookup.kind, category = :tag.AffectLookup.category, rule = "AffectVerb"}
+
+Rule: AffectSmiley
+(
+ {AffectLookup.category == smiley}
+):tag
+-->
+:tag.Affect = {kind = :tag.AffectLookup.kind, category = :tag.AffectLookup.category, rule = "AffectSmiley"}

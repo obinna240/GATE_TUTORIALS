@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-fsa-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-fsa-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The <Node id="4" />Financial Services Authority<Node id="32" /> is understood to be conducting an investigation into whether investors were misled into buying into the <Node id="137" />650m pounds<Node id="148" /> flotation of recruitment company <Node id="182" />Michael Page International<Node id="208" />.
+<Node id="210" />The <Node id="214" />City<Node id="218" /> regulator is believed to have informed the company about the initiation of an in-depth investigation into the prospectus it published to lure potential investors in <Node id="384" />March<Node id="389" />, when it was sold off by its American owner <Node id="434" />Spherion<Node id="442" />.<Node id="443" />
+
+<Node id="445" />While the regulator's suspi cions were aroused in <Node id="495" />June<Node id="499" /> when the company issued an unexpected profits warning, the initial investigation has been put on to a more official footing in recent days, it is understood.<Node id="657" />
+
+<Node id="659" />The <Node id="663" />FSA<Node id="666" />, which recently took over the responsibility for policing the rules with which stock market companies must comply, is understood to have begun a wide-ranging investigation into the information provided to investors, to establish whether the detail in the financial accounts was misleading.<Node id="956" />
+
+<Node id="958" />Yesterday<Node id="967" />, growing concern about the prospects for the company, which specialises in recruiting middle managers, sent its shares to a new low of <Node id="1103" />128p<Node id="1107" /> - well below the <Node id="1125" />175p<Node id="1129" /> at which they were sold to investors in <Node id="1170" />March<Node id="1175" />.<Node id="1176" />
+
+<Node id="1178" />The flotation price of <Node id="1201" />175p<Node id="1205" /> was already a knock-down on the original estimate by the advisers <Node id="1272" />Credit Suisse First Boston<Node id="1298" />, which had set a target of <Node id="1326" />190p<Node id="1330" /> to <Node id="1334" />250p<Node id="1338" />. But, to ensure the flotation was successful in difficult market conditions, the price was reduced.<Node id="1438" />
+
+<Node id="1440" />The <Node id="1444" />FSA<Node id="1447" />'s inquiries team is thought to be looking for evidence that the company failed to warn investors about an impending downturn in its fortunes at the time of the flotation.<Node id="1618" />
+
+<Node id="1620" />The <Node id="1624" />City<Node id="1628" /> interpreted the detail provided in the prospectus as providing reassurance that it could withstand any continued slowdown in the global economy. In <Node id="1777" />May<Node id="1780" />, comments by the company were said to provide similar reassurance but at the <Node id="1858" />end of June<Node id="1869" /> the <Node id="1874" />City<Node id="1878" /> was shocked by the profits warning.<Node id="1914" />
+
+<Node id="1916" />It said that its interim profits would not show any growth on the <Node id="1982" />42.5m pounds<Node id="1994" /> it made <Node id="2003" />last year<Node id="2012" />.<Node id="2013" />
+
+<Node id="2015" />The prospectus for its <Node id="2038" />March<Node id="2043" /> flotation referred to "more challenging conditions in certain markets and the nature of the current macro-economic environment introduces a measure of uncertainty".<Node id="2208" />
+
+<Node id="2210" />"However, the broad diversity and strength of the group's businesses in terms of sectors, disciplines and geography give management confidence, at this early stage, in the outlook for the full year," it continued.<Node id="2423" />
+
+<Node id="2425" />By <Node id="2428" />June<Node id="2432" />, the company was warning that a slowdown in demand in financial services, IT and telecoms and a weakness in the <Node id="2545" />US<Node id="2547" /> and Australian economies was having an impact across all its business sectors and geographic markets.<Node id="2649" />
+
+<Node id="2651" />At the time of the warning, <Node id="2679" />Terry Benson<Node id="2691" />, the chief executive who, along with the rest of the management, owns a <Node id="2764" />6%<Node id="2766" /> stake that cannot be sold for three years, responded to criticism that the company was slow to communicate with investors by explaining that the recruitment industry could not predict its business more than two months in advance.<Node id="2996" />
+
+<Node id="2998" />Last night<Node id="3008" />, the regulator declined to comment as did the company and <Node id="3067" />Credit Suisse First Boston<Node id="3093" />.<Node id="3094" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="2998" EndNode="3008">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="2428" EndNode="2432">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="2003" EndNode="2012">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="1858" EndNode="1869">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Date" StartNode="958" EndNode="967">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="137" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="1103" EndNode="1107">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="1125" EndNode="1129">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Money" StartNode="1201" EndNode="1205">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Money" StartNode="1326" EndNode="1330">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Money" StartNode="1334" EndNode="1338">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Money" StartNode="1982" EndNode="1994">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Percent" StartNode="2764" EndNode="2766">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Date" StartNode="384" EndNode="389">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Date" StartNode="1170" EndNode="1175">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Organization" StartNode="1272" EndNode="1298">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="2545" EndNode="2547">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Date" StartNode="2038" EndNode="2043">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Date" StartNode="495" EndNode="499">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="3067" EndNode="3093">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">18</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="4" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">21</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Date" StartNode="1777" EndNode="1780">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Organization" StartNode="434" EndNode="442">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">23</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Organization" StartNode="182" EndNode="208">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">22</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="1444" EndNode="1447">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">25</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Organization" StartNode="663" EndNode="666">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">24</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Location" StartNode="214" EndNode="218">
+</Annotation>
+<Annotation Id="26" Type="Person" StartNode="2679" EndNode="2691">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">26</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Location" StartNode="1874" EndNode="1878">
+</Annotation>
+<Annotation Id="28" Type="Location" StartNode="1624" EndNode="1628">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="34" Type="p" StartNode="445" EndNode="657">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="210" EndNode="443">
+</Annotation>
+<Annotation Id="32" Type="p" StartNode="958" EndNode="1176">
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="659" EndNode="956">
+</Annotation>
+<Annotation Id="64" Type="p" StartNode="1916" EndNode="2013">
+</Annotation>
+<Annotation Id="65" Type="p" StartNode="1620" EndNode="1914">
+</Annotation>
+<Annotation Id="66" Type="TEXT" StartNode="0" EndNode="3094">
+</Annotation>
+<Annotation Id="36" Type="font" StartNode="0" EndNode="3094">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="0" EndNode="3094">
+</Annotation>
+<Annotation Id="49" Type="font" StartNode="0" EndNode="3094">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="html" StartNode="0" EndNode="3094">
+</Annotation>
+<Annotation Id="52" Type="body" StartNode="0" EndNode="3094">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="2998" EndNode="3094">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="2015" EndNode="2208">
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="2210" EndNode="2423">
+</Annotation>
+<Annotation Id="31" Type="p" StartNode="1178" EndNode="1438">
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="2425" EndNode="2649">
+</Annotation>
+<Annotation Id="30" Type="p" StartNode="1440" EndNode="1618">
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="2651" EndNode="2996">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

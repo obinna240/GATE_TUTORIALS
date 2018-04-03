@@ -1,0 +1,16 @@
+Phase:	DocumentType
+Input: Lookup
+Options: control = once
+
+Rule: AnnotateWithSport
+Priority: 100
+
+(
+{Lookup.majorType == sport}
+)
+-->
+ {
+ doc.getFeatures().put("sport", "yes");
+ }
+
+

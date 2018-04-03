@@ -1,0 +1,26 @@
+Phase:	TweetContent
+Input: FromTwit TweetMethod Link
+Options: control = appelt
+
+/* Note: if you don't want the user name to be included, then use "FromTwit" instead of "TweetID" in the rule
+*/
+
+Rule: TweetContent
+(
+ ({FromTwit}):left
+ ({Link}|
+  {TweetMethod}):right
+)
+-->
+{
+  Node start = ((AnnotationSet) bindings.get("left"))
+               .lastNode();
+  Node end   = ((AnnotationSet) bindings.get("right"))
+               .firstNode();
+
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("rule", "TweetContent");
+
+  outputAS.add(start, end, "TweetContent", features);
+}
+

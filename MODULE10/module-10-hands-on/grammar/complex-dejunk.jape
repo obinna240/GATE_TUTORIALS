@@ -1,0 +1,24 @@
+
+Phase:	DeJunk
+Input: a h3 h4 li span Sentence
+Options: control = appelt
+
+
+Rule: Junk
+Priority: 100
+
+(
+ ({a}|{h3}|{h4}|{li}|{span})+
+):tag
+-->
+:tag.Junk = {rule = "Junk"}
+
+
+Rule: Other
+Priority: 20
+
+(
+ ({Sentence})+
+):tag
+-->
+:tag.Interesting = {rule = "Other"}

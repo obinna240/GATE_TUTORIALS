@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/in-german-bank-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/in-german-bank-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Germany<Node id="7"/>&apos;s <Node id="10"/>commerzbank<Node id="21"/> <Node id="22"/>yesterday<Node id="31"/> added to the gloom in the depressed investment banking sector after it announced a hiring freeze and a sharp fall in <Node id="149"/>second-quarter<Node id="163"/> earnings following the continuing slump in the equity markets.<Node id="226"/>
+
+<Node id="228"/>The bank, <Node id="238"/>Germany<Node id="245"/>&apos;s third largest by market capitalisation, expects to save <Node id="304"/>240m euros<Node id="314"/> (<Node id="316"/>£160m<Node id="322"/>) a year by cutting recruitment, information technology spending and closing about 150 bank branches.<Node id="423"/>
+
+<Node id="425"/>Net profits tumbled <Node id="445"/>44 per cent<Node id="456"/> between the <Node id="469"/>end of the first and second quarters<Node id="505"/> to <Node id="509"/>94m euros<Node id="518"/>, a year-on-year fall of some <Node id="548"/>87 per cent<Node id="559"/>. The effects of sluggish equity markets were compounded by weakness in retail banking, <Node id="647"/>Commerzbank<Node id="658"/> said. The fund management unit, which includes <Node id="706"/>Jupiter Asset Management<Node id="730"/>, lost <Node id="737"/>58m euros<Node id="746"/> in the <Node id="754"/>first half<Node id="764"/>.<Node id="765"/>
+
+<Node id="767"/>Even stripping out <Node id="786"/>last year<Node id="795"/>&apos;s gains from the sale of a stake in Comdirect, the online share dealing platform, <Node id="878"/>second quarter<Node id="892"/> profits were down <Node id="911"/>61 per cent<Node id="922"/>. Provisions against bad debts were up <Node id="961"/>53 per cent<Node id="972"/> at <Node id="976"/>177m euros<Node id="986"/> as the economic slowdown increased the likelihood of default among corporate borrowers.<Node id="1074"/>
+
+<Node id="1076"/>However, the bank&apos;s administration costs were <Node id="1122"/>16 per cent<Node id="1133"/> higher in the <Node id="1148"/>second quarter<Node id="1162"/> than they were in the same period the <Node id="1201"/>previous year<Node id="1214"/>. It was the sixth consecutive quarter that the bank&apos;s costs have risen by <Node id="1289"/>15 per cent<Node id="1300"/> or more.<Node id="1309"/>
+
+<Node id="1311"/>The poor performance further increases the likelihood of a fresh round of job cuts in investment banking <Node id="1416"/>this year<Node id="1425"/>. <Node id="1427"/>Dresdner Kleinwort Wasserstein<Node id="1457"/>, which recently announced 1,500 job cuts, confirmed <Node id="1510"/>yesterday<Node id="1519"/> that it is closing its equities operation in <Node id="1565"/>Asia<Node id="1569"/> altogether. <Node id="1582"/>John Mack<Node id="1591"/>, the new head of <Node id="1609"/>Credit Suisse First Boston<Node id="1635"/>, has invited staff to agree to pay cuts and is thought to be considering making sizeable lay-offs.<Node id="1734"/>
+
+<Node id="1736"/>Commerzbank<Node id="1747"/>&apos;s woes have made it the subject of fevered takeover speculation, with domestic rival <Node id="1833"/>Deutsche Bank<Node id="1846"/> and <Node id="1851"/>Italy<Node id="1856"/>&apos;s <Node id="1859"/>Unicredito<Node id="1869"/> tipped as likely buyers. It has already indicated it is seeking partners in asset management. However, <Node id="1973"/>Deutsche Bank<Node id="1986"/> and another German peer, <Node id="2012"/>HypoVereinsbank<Node id="2027"/>, have posted similar falls in profits.<Node id="2066"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Percent" StartNode="1289" EndNode="1300">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Organization" StartNode="2012" EndNode="2027">
+</Annotation>
+<Annotation Id="8" Type="Money" StartNode="509" EndNode="518">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="1851" EndNode="1856">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Date" StartNode="1416" EndNode="1425">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Location" StartNode="0" EndNode="7">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Date" StartNode="469" EndNode="505">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Percent" StartNode="445" EndNode="456">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Organization" StartNode="1833" EndNode="1846">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Date" StartNode="1510" EndNode="1519">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Date" StartNode="1148" EndNode="1162">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Percent" StartNode="548" EndNode="559">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">centBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Date" StartNode="1201" EndNode="1214">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="1609" EndNode="1635">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="316" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="786" EndNode="795">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="1859" EndNode="1869">
+</Annotation>
+<Annotation Id="14" Type="Percent" StartNode="1122" EndNode="1133">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Organization" StartNode="1973" EndNode="1986">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Date" StartNode="22" EndNode="31">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="1565" EndNode="1569">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Organization" StartNode="10" EndNode="21">
+</Annotation>
+<Annotation Id="11" Type="Percent" StartNode="911" EndNode="922">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="706" EndNode="730">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="149" EndNode="163">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Percent" StartNode="961" EndNode="972">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Organization" StartNode="1427" EndNode="1457">
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="238" EndNode="245">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="754" EndNode="764">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Money" StartNode="976" EndNode="986">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="1736" EndNode="1747">
+</Annotation>
+<Annotation Id="20" Type="Person" StartNode="1582" EndNode="1591">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="647" EndNode="658">
+</Annotation>
+<Annotation Id="10" Type="Money" StartNode="737" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="304" EndNode="314">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="878" EndNode="892">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="80" Type="body" StartNode="0" EndNode="2066">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">text</Name>
+  <Value className="java.lang.String">#000000</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="0" EndNode="226">
+</Annotation>
+<Annotation Id="83" Type="html" StartNode="0" EndNode="2066">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="228" EndNode="423">
+</Annotation>
+<Annotation Id="84" Type="TEXT" StartNode="0" EndNode="2066">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="425" EndNode="765">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="1311" EndNode="1734">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="1736" EndNode="2066">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="1076" EndNode="1309">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="767" EndNode="1074">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

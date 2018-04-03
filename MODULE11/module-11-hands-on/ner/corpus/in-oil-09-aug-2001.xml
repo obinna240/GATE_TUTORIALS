@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/in-oil-09-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/in-oil-09-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The Government sent shockwaves through the <Node id="43"/>United Kingdom<Node id="57"/> oil industry <Node id="71"/>yesterday<Node id="80"/> by warning that it was considering a &quot;windfall tax&quot; to defray any excess profits being made on petrol forecourts.<Node id="194"/>
+
+<Node id="196"/>This is not the first time such a tax has been proposed, and it comes in the wake of bumper profits posted by <Node id="306"/>BP<Node id="308"/> on <Node id="312"/>Tuesday<Node id="319"/>. But could such a tax work, and if so, how?<Node id="363"/>
+
+<Node id="365"/>Windfall taxes are large one-off levies. The last was made in <Node id="427"/>1997<Node id="431"/> when the Government billed the privatised utilities some <Node id="489"/>£5bn<Node id="494"/> in the belief that it had sold them off to private investors too cheaply. If there is a justification for repeating the trick in the oil industry, it is that oil companies are benefiting unfairly from high oil prices.<Node id="712"/>
+
+<Node id="714"/>However, the Government&apos;s use of the dreaded &quot;w&quot; word <Node id="768"/>yesterday<Node id="777"/> appeared to relate specifically to petrol retailing, the oil firms&apos; &quot;downstream&quot; operations. Here, a windfall tax runs into difficulties. Prices may seem high to drivers, but that is because about <Node id="975"/>76p<Node id="978"/> per pound spent on petrol goes to the <Node id="1017"/>Treasury<Node id="1025"/>. Indeed, <Node id="1035"/>BP<Node id="1037"/> and <Node id="1042"/>Shell<Node id="1047"/>, the <Node id="1053"/>UK<Node id="1055"/>&apos;s principal oil producers, complain that their domestic downstream businesses are loss-making.<Node id="1150"/>
+
+<Node id="1152"/>So why do companies bother with petrol retailing at all? Could it be that it only appears loss-making, because the companies hide the profits in the &quot;upstream&quot; exploration production operations? In reality, modern accounting regulations make it hard to pull off any such stunt. It seems reasonable to accept the oil companies&apos; explanation, that they are holding out in the hope that they can persuade drivers to make forecourts profitable again by purchasing more ready-meals, cuddly toys, CDs and the like.<Node id="1659"/>
+
+<Node id="1661"/>But the <Node id="1669"/>Treasury<Node id="1677"/> is worried, fearing that cuts to duty announced in the <Node id="1733"/>November<Node id="1741"/> Budget after the fuel protests are not being passed on to drivers. &quot;The Chancellor would hope that those duty cuts would be passed on to the consumer,&quot; a <Node id="1896"/>Treasury<Node id="1904"/> spokeswoman said. &quot;Obviously if those cuts have not been passed onto the consumer and people complain ... the <Node id="2015"/>Treasury<Node id="2023"/> will consider action such as a windfall tax.&quot;<Node id="2069"/>
+
+<Node id="2071"/>The companies reject any such allegations. But the argument does not end there.<Node id="2150"/>
+
+<Node id="2152"/>There is mounting concern over what industry observers call the &quot;supernormal&quot; profits being made in the <Node id="2256"/>North Sea<Node id="2265"/> amid the continuing strength of the oil price. For oil explorers, the <Node id="2336"/>North Sea<Node id="2345"/> is among the world&apos;s most benign tax regimes, not least because the first <Node id="2420"/>Thatcher<Node id="2428"/> administration abolished special royalties and upped exploration allowances. The aim was to encourage companies to throw more investment into the fields to keep them flowing as they matured.<Node id="2619"/>
+
+<Node id="2621"/>The biggest levy on <Node id="2641"/>North Sea<Node id="2650"/> oil production  the petroleum revenue tax  remained in full force until <Node id="2727"/>1993<Node id="2731"/>, when it was abolished on new fields and slashed from <Node id="2786"/>75 to 50 per cent<Node id="2803"/> on existing fields.<Node id="2823"/>
+
+<Node id="2825"/>Academics say this has left the <Node id="2857"/>UK<Node id="2859"/> as an oddity among oil-producing nations. <Node id="2902"/>Ian Rutledge<Node id="2914"/>, an upstream oil expert at <Node id="2942"/>Sheffield University<Node id="2962"/>, says citizens are missing out on their fair share of profits from <Node id="3030"/>North Sea<Node id="3039"/> oil, which is the property of the state in the first place.<Node id="3099"/>
+
+<Node id="3101"/>&quot;The oil companies can&apos;t have it both ways and say they need support when the oil price is <Node id="3192"/>$13<Node id="3195"/> [<Node id="3197"/>£9<Node id="3200"/>], but resist taxes when it is <Node id="3231"/>$28<Node id="3234"/>,&quot; he said. &quot;Other companies pay for raw materials, or at least pay rent. Oil companies get them for free [in the <Node id="3348"/>UK<Node id="3350"/>]. They should pay for them as they do elsewhere in the world.&quot;<Node id="3413"/>
+
+<Node id="3415"/>He rejects the idea of a windfall tax on bumper <Node id="3463"/>North Sea<Node id="3472"/> profits, preferring instead the reintroduction of royalties in the form of a supplementary corporation tax. &quot;A windfall implies something one-off. But this is not about recouping money from privatised utilities. The only sense in which &apos;windfall&apos; is appropriate is that the oil companies are benefiting from the strong oil price, which is not their own doing.&quot;<Node id="3833"/>
+
+<Node id="3835"/>The oil firms say a stricter fiscal regime would force them to take their investment elsewhere, with catastrophic consequences for employment in <Node id="3980"/>Scotland<Node id="3988"/>. There is no shortage of glamorous locations in the world providing new drilling opportunities, whether they be offshore <Node id="4110"/>Vietnam<Node id="4117"/>, the deep waters around the <Node id="4146"/>Gulf of Mexico<Node id="4160"/>, or, politics permitting, <Node id="4187"/>Iran<Node id="4191"/>.<Node id="4192"/>
+
+<Node id="4194"/>It is arguable that the benign regime in the <Node id="4239"/>North Sea<Node id="4248"/> is simply a product of market forces, and reflects the quality of the ore body there. Moreover, while the oil price appears stable following <Node id="4390"/>Opec<Node id="4394"/>&apos;s commitment to sustaining it between <Node id="4433"/>$22<Node id="4436"/> and <Node id="4441"/>$28<Node id="4444"/> a barrel, and there will always be the risk of a return to the <Node id="4508"/>$10<Node id="4511"/> level of <Node id="4521"/>four years ago<Node id="4535"/>.<Node id="4536"/>
+
+<Node id="4538"/>Yet it is debatable if the big oil firms would quit the <Node id="4594"/>North Sea<Node id="4603"/>. One <Node id="4609"/>City<Node id="4613"/> analyst said: &quot;[The oil majors] threaten to take their investment elsewhere, but they&apos;re not doing much exploration. It can&apos;t be hard for someone to come up with a tax on supernormal profits when the price is high.&quot;<Node id="4829"/>
+
+<Node id="4831"/>Mr Rutledge<Node id="4842"/> said: &quot;If any company walked off in a huff, there would be plenty of others to take their place.&quot;<Node id="4940"/>
+
+<Node id="4942"/>The question remains as to why the <Node id="4977"/>Government<Node id="4987"/> would risk upsetting the industry. The <Node id="5027"/>Treasury<Node id="5035"/>&apos;s coffers are amply stocked, and it would go against the environmental policy to pass on profits to drivers. Still, with <Node id="5157"/>March 2002<Node id="5167"/> the earliest point at which <Node id="5196"/>Gordon Brown<Node id="5208"/>, the Chancellor, could introduce a windfall or supplementary corporation tax, there is plenty of time for him to find a use for the revenue it would raise.<Node id="5364"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Person" StartNode="2902" EndNode="2914">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Organization" StartNode="1896" EndNode="1904">
+</Annotation>
+<Annotation Id="8" Type="Date" StartNode="427" EndNode="431">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Organization" StartNode="4390" EndNode="4394">
+</Annotation>
+<Annotation Id="23" Type="Date" StartNode="5157" EndNode="5167">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">DateName</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Date" StartNode="71" EndNode="80">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Organization" StartNode="2015" EndNode="2023">
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="2942" EndNode="2962">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Person" StartNode="2420" EndNode="2428">
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="306" EndNode="308">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Person" StartNode="4831" EndNode="4842">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Location" StartNode="2336" EndNode="2345">
+</Annotation>
+<Annotation Id="32" Type="Location" StartNode="2256" EndNode="2265">
+</Annotation>
+<Annotation Id="41" Type="Location" StartNode="4594" EndNode="4603">
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="1035" EndNode="1037">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Organization" StartNode="4977" EndNode="4987">
+</Annotation>
+<Annotation Id="21" Type="Location" StartNode="4187" EndNode="4191">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Location" StartNode="43" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Money" StartNode="489" EndNode="494">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="1669" EndNode="1677">
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="2857" EndNode="2859">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Organization" StartNode="5027" EndNode="5035">
+</Annotation>
+<Annotation Id="24" Type="Person" StartNode="5196" EndNode="5208">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Money" StartNode="4508" EndNode="4511">
+</Annotation>
+<Annotation Id="4" Type="Money" StartNode="3197" EndNode="3200">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Location" StartNode="2641" EndNode="2650">
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="4110" EndNode="4117">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Date" StartNode="768" EndNode="777">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Location" StartNode="1053" EndNode="1055">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Location" StartNode="3980" EndNode="3988">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Percent" StartNode="2786" EndNode="2803">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentSpan</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Location" StartNode="4239" EndNode="4248">
+</Annotation>
+<Annotation Id="12" Type="Date" StartNode="1733" EndNode="1741">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Money" StartNode="3192" EndNode="3195">
+</Annotation>
+<Annotation Id="27" Type="Date" StartNode="312" EndNode="319">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Money" StartNode="4433" EndNode="4436">
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="3348" EndNode="3350">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Money" StartNode="975" EndNode="978">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Date" StartNode="2727" EndNode="2731">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Location" StartNode="3463" EndNode="3472">
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="1017" EndNode="1025">
+</Annotation>
+<Annotation Id="46" Type="Money" StartNode="4441" EndNode="4444">
+</Annotation>
+<Annotation Id="20" Type="Location" StartNode="4146" EndNode="4160">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Location" StartNode="3030" EndNode="3039">
+</Annotation>
+<Annotation Id="25" Type="Date" StartNode="4521" EndNode="4535">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1042" EndNode="1047">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="3231" EndNode="3234">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Location" StartNode="4609" EndNode="4613">
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="107" Type="TEXT" StartNode="0" EndNode="5364">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="3101" EndNode="3413">
+</Annotation>
+<Annotation Id="80" Type="body" StartNode="0" EndNode="5364">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">text</Name>
+  <Value className="java.lang.String">#000000</Value>
+</Feature>
+</Annotation>
+<Annotation Id="106" Type="p" StartNode="3415" EndNode="3833">
+</Annotation>
+<Annotation Id="83" Type="html" StartNode="0" EndNode="5364">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="0" EndNode="194">
+</Annotation>
+<Annotation Id="103" Type="p" StartNode="4538" EndNode="4829">
+</Annotation>
+<Annotation Id="102" Type="p" StartNode="4831" EndNode="4940">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="196" EndNode="363">
+</Annotation>
+<Annotation Id="101" Type="p" StartNode="4942" EndNode="5364">
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="2152" EndNode="2619">
+</Annotation>
+<Annotation Id="104" Type="p" StartNode="4194" EndNode="4536">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="2825" EndNode="3099">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="1152" EndNode="1659">
+</Annotation>
+<Annotation Id="105" Type="p" StartNode="3835" EndNode="4192">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="1661" EndNode="2069">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="2071" EndNode="2150">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="714" EndNode="1150">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="2621" EndNode="2823">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="365" EndNode="712">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

@@ -1,0 +1,8 @@
+1 #numTrainingDocs
+0 #numClasses
+120 #numNullLabelInstances
+7200052 #totalFeatures
+C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles\learnedModels.save #modelFile
+PAUM #learnerName
+null #learnerExecutable
+-p 50 -n 5 -optB 0.3 #learnerParams

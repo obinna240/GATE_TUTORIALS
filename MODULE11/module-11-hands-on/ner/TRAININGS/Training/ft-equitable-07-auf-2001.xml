@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-equitable-07-auf-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-equitable-07-auf-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The <Node id="4"/>Financial Services Authority<Node id="32"/> is seeking independent legal advice on whether <Node id="80"/>Equitable Life<Node id="94"/> members who did not have guaranteed annuity policies were victims of mis-selling.<Node id="176"/>
+
+<Node id="178"/>This move by the City watchdog could affect other pension companies that are reeling from the cost to the industry of honouring guaranteed annuity liabilities, estimated at up to <Node id="357"/>£10bn<Node id="363"/> (<Node id="365"/>$14bn<Node id="370"/>).<Node id="372"/>
+
+<Node id="374"/>The <Node id="378"/>FSA<Node id="381"/> announced in <Node id="395"/>February<Node id="403"/> it was examining whether <Node id="429"/>Equitable<Node id="438"/> policyholders who bought policies <Node id="473"/>last year<Node id="482"/> could claim they had been mis-sold - particularly those who bought policies after the Law Lords ruled in <Node id="588"/>July<Node id="592"/> against the mutual&apos;s stance on guaranteed annuities.<Node id="645"/>
+
+<Node id="647"/>Depending on its legal advice, the <Node id="682"/>FSA<Node id="685"/>&apos;s could affect other pension groups. If the regulator decides these policyholders were misled and suffered a loss, they could be eligible for compensation.<Node id="841"/>
+
+<Node id="843"/>More than 50 life assurers had some exposure to guaranteed annuity-type products. However, most have dealt with the problem by drawing on their &quot;orphan assets&quot; of surplus capital in their with-profits funds, or by receiving capital injections from shareholders.<Node id="1104"/>
+
+<Node id="1106"/>Analysts said it would not be easy for other policyholders to prove they had suffered a loss as a result of the existence of the guaranteed annuity policies - a must if they are to claim compensation.<Node id="1306"/>
+
+<Node id="1308"/>Equitable<Node id="1317"/> has asked <Node id="1328"/>Nicholas Warren QC<Node id="1346"/> to advise whether customers sold pension policies without annuity guarantees should have been told about the troubled mutual&apos;s exposure to guaranteed annuity liabilities - now put at <Node id="1530"/>£2.6bn<Node id="1537"/>.<Node id="1538"/>
+
+<Node id="1540"/>Vanni Treves<Node id="1552"/>, <Node id="1554"/>Equitable<Node id="1563"/>&apos;s chairman, has acknowledged that any liability arising from mis-selling could be &quot;a substantial amount&quot;, though he said it would not be of the same scale as the guaranteed annuity liability.<Node id="1755"/>
+
+<Node id="1757"/>He said quantification of any mis-selling claims would have to be from part of the forthcoming compromise deal between the 90,000 <Node id="1887"/>Equitable<Node id="1896"/> policyholders with guaranteed annuity policies and the majority who do not have guarantees.<Node id="1988"/>
+
+<Node id="1990"/>Of <Node id="1993"/>Mr Warren<Node id="2002"/>&apos;s report, <Node id="2013"/>Mr Treves<Node id="2022"/> said: &quot;I think it will be a very, very important piece of work for the industry as a whole, which is one reason why the <Node id="2143"/>FSA<Node id="2146"/> is taking its own independent advice upon it&quot;.<Node id="2193"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Money" StartNode="1530" EndNode="1537">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="429" EndNode="438">
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="378" EndNode="381">
+</Annotation>
+<Annotation Id="11" Type="Person" StartNode="1540" EndNode="1552">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Money" StartNode="365" EndNode="370">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Person" StartNode="1328" EndNode="1346">
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="1308" EndNode="1317">
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="682" EndNode="685">
+</Annotation>
+<Annotation Id="12" Type="Date" StartNode="588" EndNode="592">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Money" StartNode="357" EndNode="363">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="1554" EndNode="1563">
+</Annotation>
+<Annotation Id="13" Type="Date" StartNode="395" EndNode="403">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Person" StartNode="2013" EndNode="2022">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="2143" EndNode="2146">
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="1887" EndNode="1896">
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="4" EndNode="32">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Person" StartNode="1993" EndNode="2002">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFirstTitle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="80" EndNode="94">
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="473" EndNode="482">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="43" Type="p" StartNode="647" EndNode="841">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="0" EndNode="2193">
+</Annotation>
+<Annotation Id="59" Type="tr" StartNode="0" EndNode="2193">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="1106" EndNode="1306">
+</Annotation>
+<Annotation Id="70" Type="html" StartNode="0" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="68" Type="body" StartNode="0" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="font" StartNode="0" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="td" StartNode="0" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="TEXT" StartNode="0" EndNode="2193">
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="374" EndNode="645">
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="1757" EndNode="1988">
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="1990" EndNode="2193">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="1308" EndNode="1538">
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="843" EndNode="1104">
+</Annotation>
+<Annotation Id="67" Type="table" StartNode="0" EndNode="2193">
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="1540" EndNode="1755">
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="178" EndNode="372">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="0" EndNode="176">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-recession-6-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-recession-6-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The <Node id="4"/>Bank of England<Node id="19"/> will be forced to cut interest rates to their lowest levels since <Node id="86"/>the early 60s<Node id="99"/> as it seeks to ward off the impact of the global economic slowdown, analysts warn <Node id="182"/>today<Node id="187"/>.
+<Node id="189"/>A further cut to borrowing costs will be good news for <Node id="244"/>Britain<Node id="251"/>&apos;s 11m mortgage payers, and is likely to push up property prices, already rising at more than <Node id="345"/>10%<Node id="348"/> a year. But while homeowners are still celebrating <Node id="400"/>last week<Node id="409"/>&apos;s unexpected cut in rates, new data suggests the economic outlook is darkening.<Node id="489"/>
+
+<Node id="491"/>Government figures re leased <Node id="520"/>this morning<Node id="532"/> are expected to confirm that manufacturing has suffered two quarters of falling output - the accepted definition of a recession. <Node id="662"/>City<Node id="666"/> analysts believe there is more pain to come for exporters as the world downturn gathers pace.<Node id="760"/>
+
+<Node id="762"/>&quot;We still think the worst of the industrial slowdown is yet to come as manufactured exports - which have held up surprisingly well so far - finally start to give way,&quot; said <Node id="935"/>Jonathan Loynes<Node id="950"/>, from <Node id="957"/>Capital Economics<Node id="974"/>.<Node id="975"/>
+
+<Node id="977"/>The global slowdown is no longer just a problem for manufacturing but has spread to the services sector which had been keeping the economy afloat, according to a business survey published <Node id="1165"/>last week<Node id="1174"/>. Service sector firms account for two-thirds of economic output.<Node id="1239"/>
+
+<Node id="1241"/>&quot;If [this] survey is right about services output, there is a good chance that overall GDP actually falls in the <Node id="1353"/>third quarter<Node id="1366"/>,&quot; said <Node id="1374"/>Mr Loynes<Node id="1383"/>. He predicts rates, which were cut <Node id="1419"/>last week<Node id="1428"/> to <Node id="1432"/>5%<Node id="1434"/>, will reach <Node id="1447"/>4.5%<Node id="1451"/> by the <Node id="1459"/>end of the year<Node id="1474"/>, their lowest level since <Node id="1501"/>1963<Node id="1505"/>.<Node id="1506"/>
+
+<Node id="1508"/>The nine-year decline in unemployment which has taken the jobless figures to a 25-year low, could be ending, another survey published <Node id="1642"/>today<Node id="1647"/> suggests.<Node id="1657"/>
+
+<Node id="1659"/>Recruitment advertising is sliding at its fastest pace since the last recession, a sign that unemployment could be on its way up, according to figures from the <Node id="1819"/>Recruitment and Employment Confederation<Node id="1859"/>. Its advertising index has fallen by nearly <Node id="1904"/>20%<Node id="1907"/> over the <Node id="1917"/>past year<Node id="1926"/>, the fastest rate of decline since <Node id="1962"/>September 1991<Node id="1976"/>.<Node id="1977"/>
+
+<Node id="1979"/>Analysts watch the survey closely as the number of job advertisements is a leading indicator of the state of the labour market, and in the past similar slumps in recruitment have quickly been followed by rising unemployment.<Node id="2203"/>
+
+<Node id="2205"/>&quot;Forward looking indicators of unemployment do not make encouraging reading,&quot; said <Node id="2288"/>Ciarán Barr<Node id="2300"/>, chief <Node id="2308"/>UK<Node id="2310"/> economist at <Node id="2324"/>Deutsche Bank<Node id="2337"/>. &quot;Any hint that a deteriorating labour market is eroding consumer demand will result in further monetary policy easing.&quot;<Node id="2458"/>
+
+<Node id="2460"/>A rise in unemployment could also threaten the property boom currently being fuelled by lower rates. House sales have dropped by more than a third over the <Node id="2616"/>past year<Node id="2625"/>, according to information group <Node id="2658"/>Experien<Node id="2666"/>, suggesting the housing market is about to run out of steam.<Node id="2727"/>
+
+<Node id="2729"/>The number of houses sold has declined during the <Node id="2779"/>past 12 months<Node id="2793"/> from 270,579 in the <Node id="2814"/>second quarter of 2000<Node id="2836"/> to 175,244 in the <Node id="2855"/>first quarter of this year<Node id="2881"/>, and the trend is set to continue, according to the group.<Node id="2940"/>
+
+<Node id="2942"/>&quot;The decline in sales is affecting every section of the housing market and every area of <Node id="3031"/>England<Node id="3038"/> and <Node id="3043"/>Wales<Node id="3048"/>,&quot; said <Node id="3056"/>Bruno Rost<Node id="3066"/>, of <Node id="3071"/>Experian<Node id="3079"/>. &quot;It has yet to be seen whether this signals the beginning of a substantial downturn in house values, or a plateau in a generally upward market.<Node id="3224"/>
+
+<Node id="3226"/>&quot;But if combined with growing economic depression, job losses and declining corporate profitability, then it is highly probable that a period of subdued or reducing house prices is on the cards.&quot;<Node id="3421"/>
+<Node id="3422"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Date" StartNode="86" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearSpan1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Date" StartNode="1917" EndNode="1926">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="2324" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Date" StartNode="400" EndNode="409">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Date" StartNode="2616" EndNode="2625">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="2658" EndNode="2666">
+</Annotation>
+<Annotation Id="7" Type="Location" StartNode="3031" EndNode="3038">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Date" StartNode="182" EndNode="187">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Date" StartNode="2855" EndNode="2881">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Date" StartNode="2779" EndNode="2793">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Location" StartNode="2308" EndNode="2310">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Date" StartNode="2814" EndNode="2836">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Percent" StartNode="345" EndNode="348">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Location" StartNode="3043" EndNode="3048">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Person" StartNode="2288" EndNode="2300">
+</Annotation>
+<Annotation Id="29" Type="Date" StartNode="1642" EndNode="1647">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="244" EndNode="251">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Date" StartNode="520" EndNode="532">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="4" EndNode="19">
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="662" EndNode="666">
+</Annotation>
+<Annotation Id="26" Type="Date" StartNode="1353" EndNode="1366">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Date" StartNode="1501" EndNode="1505">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Percent" StartNode="1447" EndNode="1451">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="957" EndNode="974">
+</Annotation>
+<Annotation Id="12" Type="Person" StartNode="1374" EndNode="1383">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Date" StartNode="1419" EndNode="1428">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Percent" StartNode="1904" EndNode="1907">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="1819" EndNode="1859">
+</Annotation>
+<Annotation Id="13" Type="Person" StartNode="935" EndNode="950">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Date" StartNode="1459" EndNode="1474">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Percent" StartNode="1432" EndNode="1434">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Date" StartNode="1165" EndNode="1174">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Date" StartNode="1962" EndNode="1976">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">DateName</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Person" StartNode="3056" EndNode="3066">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Organization" StartNode="3071" EndNode="3079">
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="51" Type="p" StartNode="1659" EndNode="1977">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="0" EndNode="3422">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="977" EndNode="1239">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="1241" EndNode="1506">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="2460" EndNode="2727">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="2205" EndNode="2458">
+</Annotation>
+<Annotation Id="61" Type="html" StartNode="0" EndNode="3422">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="1979" EndNode="2203">
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="762" EndNode="975">
+</Annotation>
+<Annotation Id="75" Type="TEXT" StartNode="0" EndNode="3422">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="2729" EndNode="2940">
+</Annotation>
+<Annotation Id="67" Type="font" StartNode="0" EndNode="3422">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="1508" EndNode="1657">
+</Annotation>
+<Annotation Id="44" Type="font" StartNode="0" EndNode="3422">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="64" Type="body" StartNode="0" EndNode="3422">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="189" EndNode="489">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="491" EndNode="760">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="3226" EndNode="3421">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="2942" EndNode="3224">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

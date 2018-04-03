@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /D:/work/Corpus/gu-30000-job-08-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/work/Corpus/gu-30000-job-08-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Manufacturers will be forced to axe nearly 30,000 more jobs by the <Node id="67"/>end of September<Node id="83"/> as the downturn in the world economy piles further pressure on British firms, industry leaders warned <Node id="186"/>yesterday<Node id="195"/>.
+<Node id="197"/>The <Node id="201"/>Confederation of British Industry<Node id="234"/> described the cuts as &quot;severe even by <Node id="273"/>UK<Node id="275"/> standards&quot; and said they would be spread across all regions, with the previously buoyant south-east the worst affected.<Node id="395"/>
+
+<Node id="397"/>The <Node id="401"/>CBI<Node id="404"/>&apos;s latest quarterly regional snapshot shows the impact of the global downturn fanning out from <Node id="499"/>Britain<Node id="506"/>&apos;s manufacturing heartlands to hi-tech centres in the south-east, <Node id="572"/>Northern Ireland<Node id="588"/> and <Node id="593"/>Scotland<Node id="601"/>. Worryingly the pace of job losses is increasing.<Node id="651"/>
+
+<Node id="653"/>&quot;The global slowdown is now hitting <Node id="689"/>UK<Node id="691"/> manufacturing hard, with firms in virtually all regions experiencing falling orders, output and employment with severe pressure on profit margins,&quot; said <Node id="845"/>Sudhir Junankar<Node id="860"/>, the <Node id="866"/>CBI<Node id="869"/>&apos;s associate director of economic analysis.<Node id="912"/>
+
+<Node id="914"/>More than 8,000 jobs are under threat in <Node id="955"/>London<Node id="961"/> and the south-east, the largest lay-offs since the last recession. The <Node id="1033"/>east Midlands<Node id="1046"/> will shed 5,000 jobs and the north-west, 4,000.<Node id="1094"/>
+
+<Node id="1096"/>&quot;Previously resilient regions are experiencing the pain as much as traditional manufacturing areas, as the downturn has affected new technology sectors,&quot; said <Node id="1255"/>Peter Gutmann<Node id="1268"/> of <Node id="1272"/>Business Strategies<Node id="1291"/>, which jointly published the survey.<Node id="1328"/>
+
+<Node id="1330"/>Last week<Node id="1339"/>&apos;s surprise interest rate cut by the <Node id="1376"/>Bank of England<Node id="1391"/> was &quot;clearly justified&quot;, <Node id="1417"/>Mr Junankar<Node id="1428"/> said, adding more cuts might be needed to prop up the economy if consumer spending falters.<Node id="1520"/>
+
+<Node id="1522"/>The <Node id="1526"/>CBI<Node id="1529"/> predicted worse times ahead for the manufacturing sector - severely hit by the high value of sterling - which is back in recession according to government figures published earlier <Node id="1711"/>this week<Node id="1720"/>.<Node id="1721"/>
+
+<Node id="1723"/>Export orders, which have held up relatively well so far despite sterling&apos;s strength, are set to nosedive. The <Node id="1834"/>CBI<Node id="1837"/> survey shows that firms&apos; optimism about export prospects is falling at its fastest rate in almost three years as overseas markets contract.<Node id="1977"/>
+
+<Node id="1979"/>&quot;International developments are making life very tough for manufacturers,&quot; said <Node id="2059"/>Mr Gutmann<Node id="2069"/>. &quot;The pound&apos;s persistent strength and weak global demand account for widespread falls in confidence.&quot;<Node id="2171"/>
+
+<Node id="2173"/>Economists believe unemployment is likely to start rising in the coming months, denting consumer spending, which has so far insulated the <Node id="2311"/>UK<Node id="2313"/> from the worst of the world slowdown.<Node id="2351"/>
+
+<Node id="2353"/>&quot;The lay-offs are likely to come in the <Node id="2393"/>third quarter<Node id="2406"/> and will hit consumer confidence, providing the required brake on buoyant household spending,&quot; said <Node id="2507"/>John Butler<Node id="2518"/> at <Node id="2522"/>HSBC<Node id="2526"/>.<Node id="2527"/>
+
+<Node id="2529"/>So far there is little sign of the boom in the consumer and property markets easing. <Node id="2614"/>Land Registry<Node id="2627"/> figures <Node id="2636"/>yesterday<Node id="2645"/> confirmed the buoyancy of the property market, showing the average price of a house in <Node id="2733"/>England<Node id="2740"/> and <Node id="2745"/>Wales<Node id="2750"/> rose by nearly <Node id="2766"/>£7,000<Node id="2773"/> <Node id="2774"/>between April and June<Node id="2796"/>, from <Node id="2803"/>£110,570<Node id="2812"/> to <Node id="2816"/>£117,398<Node id="2825"/>.<Node id="2826"/>
+
+<Node id="2828"/>The annual rate of growth is now running at <Node id="2872"/>10.83%<Node id="2878"/>, according to the registry, with the biggest rises in the <Node id="2937"/>Midlands<Node id="2945"/>. <Node id="2947"/>Greater London<Node id="2961"/> remains the most expensive place to buy a house - average prices rose <Node id="3032"/>6.65%<Node id="3037"/> to <Node id="3041"/>£205,831<Node id="3050"/> at the <Node id="3058"/>end of June<Node id="3069"/>, from <Node id="3076"/>£193,004<Node id="3085"/> a year earlier.<Node id="3101"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Location" StartNode="2733" EndNode="2740">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Location" StartNode="2937" EndNode="2945">
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="1376" EndNode="1391">
+</Annotation>
+<Annotation Id="40" Type="Money" StartNode="3076" EndNode="3085">
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="593" EndNode="601">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Date" StartNode="67" EndNode="83">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Person" StartNode="2507" EndNode="2518">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Organization" StartNode="2614" EndNode="2627">
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="1526" EndNode="1529">
+</Annotation>
+<Annotation Id="22" Type="Location" StartNode="689" EndNode="691">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Date" StartNode="1711" EndNode="1720">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Date" StartNode="186" EndNode="195">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="866" EndNode="869">
+</Annotation>
+<Annotation Id="33" Type="Date" StartNode="1330" EndNode="1339">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Location" StartNode="955" EndNode="961">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="1834" EndNode="1837">
+</Annotation>
+<Annotation Id="1" Type="Money" StartNode="2803" EndNode="2812">
+</Annotation>
+<Annotation Id="29" Type="Money" StartNode="2816" EndNode="2825">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="2947" EndNode="2961">
+</Annotation>
+<Annotation Id="24" Type="Location" StartNode="572" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Location" StartNode="1033" EndNode="1046">
+</Annotation>
+<Annotation Id="36" Type="Date" StartNode="2393" EndNode="2406">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Person" StartNode="1417" EndNode="1428">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Location" StartNode="273" EndNode="275">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="401" EndNode="404">
+</Annotation>
+<Annotation Id="18" Type="Person" StartNode="2059" EndNode="2069">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="2774" EndNode="2796">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Date" StartNode="3058" EndNode="3069">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="201" EndNode="234">
+</Annotation>
+<Annotation Id="27" Type="Percent" StartNode="3032" EndNode="3037">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="2311" EndNode="2313">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Money" StartNode="3041" EndNode="3050">
+</Annotation>
+<Annotation Id="13" Type="Location" StartNode="2745" EndNode="2750">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Date" StartNode="2636" EndNode="2645">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Percent" StartNode="2872" EndNode="2878">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Person" StartNode="1255" EndNode="1268">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Organization" StartNode="1272" EndNode="1291">
+</Annotation>
+<Annotation Id="25" Type="Location" StartNode="499" EndNode="506">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Person" StartNode="845" EndNode="860">
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="2522" EndNode="2526">
+</Annotation>
+<Annotation Id="0" Type="Money" StartNode="2766" EndNode="2773">
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="72" Type="p" StartNode="0" EndNode="3101">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="1330" EndNode="1520">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="2353" EndNode="2527">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="2529" EndNode="2826">
+</Annotation>
+<Annotation Id="54" Type="html" StartNode="0" EndNode="3101">
+</Annotation>
+<Annotation Id="73" Type="font" StartNode="0" EndNode="3101">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="914" EndNode="1094">
+</Annotation>
+<Annotation Id="60" Type="font" StartNode="0" EndNode="3101">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="1096" EndNode="1328">
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="2173" EndNode="2351">
+</Annotation>
+<Annotation Id="75" Type="p" StartNode="397" EndNode="651">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="2828" EndNode="3101">
+</Annotation>
+<Annotation Id="76" Type="p" StartNode="653" EndNode="912">
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="1522" EndNode="1721">
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="1723" EndNode="1977">
+</Annotation>
+<Annotation Id="77" Type="TEXT" StartNode="0" EndNode="3101">
+</Annotation>
+<Annotation Id="74" Type="p" StartNode="197" EndNode="395">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="1979" EndNode="2171">
+</Annotation>
+<Annotation Id="57" Type="body" StartNode="0" EndNode="3101">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+</GateDocument>

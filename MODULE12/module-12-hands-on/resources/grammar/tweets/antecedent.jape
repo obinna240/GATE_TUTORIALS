@@ -1,0 +1,59 @@
+Phase:	Antecedent
+Input: Person Organization
+Options: control = appelt
+
+Rule: Antecedent
+(
+ {Person.ENTITY_MENTION_TYPE == "PRONOUN"}|
+ {Organization.ENTITY_MENTION_TYPE == "PRONOUN"}
+
+ ):entity
+-->
+:entity {
+  Annotation entity = entityAnnots.iterator().next();
+  FeatureMap entityFeatures = entity.getFeatures();
+  List matches = (List) entityFeatures.get("matches");
+  Object offsetObj = entityFeatures.get("antecedent_offset");
+  Long antecedentOffset = null;
+  boolean found = false;
+
+  if (offsetObj == null) {
+    System.err.println("Missing antecedent_offset on " + entity.getId());
+  }
+  else if (offsetObj instanceof Long) {
+    antecedentOffset = (Long) offsetObj;
+  }
+  else {
+    antecedentOffset = Long.parseLong(offsetObj.toString());
+  }
+
+  if (antecedentOffset != null) {
+
+    Annotation antecedent = null;
+    for (Object id : matches) {
+      antecedent = inputAS.get((Integer) id);
+      if (antecedent.getStartNode().getOffset().equals(antecedentOffset)) {
+        found = true;
+        break;
+      }
+    }
+    
+    if (found)  {
+      Long end = antecedent.getEndNode().getOffset();
+      try {
+        String antecedentString = doc.getContent().getContent(antecedentOffset, end).toString();
+        entityFeatures.put("antecedent_string", antecedentString);
+      }
+      catch (InvalidOffsetException e) {
+        System.out.println("doc = " + doc.getName() + " @" + antecedentOffset + ".." + end);
+        e.printStackTrace();
+      }
+    }
+    
+    else {
+      entityFeatures.put("antecedent_error", "error");
+    }
+    
+  }
+}
+

@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-airtours-08-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-airtours-08-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Airtours, the UK package holiday group, has produced a mixed bag of results reporting a return to profitability during the third quarter, but an increase in pre-tax losses for the first nine months of its financial year.<Node id="220" />
+
+<Node id="222" />Profits in the quarter to June 30 were up to £4.2m ($5.9m) compared with pre-tax losses of £2m for the same period last year. However, pre-tax losses for the nine months rose to £93.4m compared with £83.7m.<Node id="428" />
+
+<Node id="430" />However, stripping out e-commerce costs, exceptionals and goodwill, the UK's largest tour operator managed to report a £24.5m increase in operating profits to £26.6m.<Node id="596" />
+
+<Node id="598" />This underlying improvement in performance and the group's prediction that it was on track to deliver full-year results in line with expectations drove shares up 4 per cent in morning trading to 245p.<Node id="798" />
+
+<Node id="800" />Turnover in the quarter rose 38 per cent to £1.4bn from £1bn, while operating profits after e-commerce, goodwill and exceptional items increased to £7m against £3.4m.<Node id="966" />
+
+<Node id="968" />During the quarter, Airtours increased its spending on e-commerce in the period by £2.9m to £3.4m. So far this year, the company has spent £9.5m on web-related ventures and plans to launch new websites for the UK and Scandinavia by the end of this year.<Node id="1221" />
+
+<Node id="1223" />David Crossland, chairman, said the group expected the e-commerce ventures to make a contribution in their first year of operation.<Node id="1354" />
+
+<Node id="1356" />In the UK, operating profits after exceptionals and internet spending almost doubled to £15.9m against £8.1m as the group improved margins and restructured its operations to cut costs. But losses for the nine months of this year increased to £59.9m from £29.9m.<Node id="1617" />
+
+<Node id="1619" />In the rest of Europe, Scandinavia and the Netherlands showed some recovery narrowing operating losses in the quarter to £500,000 from £2.5m.<Node id="1760" />
+
+<Node id="1762" />But the most significant performance was the narrowing of losses in the group's German operations. In the quarter, losses stood at £15.2m. Although there were no comparative figures a £100m loss last year at the division forced Airtours to issue a profits warning.<Node id="2026" />
+
+<Node id="2028" />Mr Crossland said the restructuring programme at the division would result in losses of £40m this year and an elimination of losses during next year.<Node id="2177" />
+
+<Node id="2179" />The group has a sunny outlook for the rest of the year reporting a 12 per cent increase in summer 2001 bookings in the UK and a 7 per cent rise in winter bookings.<Node id="2342" />
+
+<Node id="2344" />But in Germany, FTi's summer 2001 bookings are 51 per cent below last year. The US division also reported an 11 per cent fall in summer 2001 bookings. Mr Crossland said these reductions had come as the group cut capacity in both markets to reduce costs and head off any effects of a slowdown.<Node id="2636" />
+
+<Node id="2638" />"We saw the US economy was going to slow down and we reduced our cost base accordingly," he said adding that the group was expecting an upturn in the first or second quarter of next year.<Node id="2825" />
+
+<Node id="2827" />Losses per share in the quarter increased to 1.36p against 1.15p, there was no dividend.<Node id="2915" />
+<Node id="2916" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="68" Type="td" StartNode="0" EndNode="2916">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="tr" StartNode="0" EndNode="2916">
+</Annotation>
+<Annotation Id="142" Type="TEXT" StartNode="0" EndNode="2916">
+</Annotation>
+<Annotation Id="129" Type="p" StartNode="222" EndNode="428">
+</Annotation>
+<Annotation Id="128" Type="p" StartNode="430" EndNode="596">
+</Annotation>
+<Annotation Id="77" Type="table" StartNode="0" EndNode="2916">
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="body" StartNode="0" EndNode="2916">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="131" Type="font" StartNode="0" EndNode="2916">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="130" Type="p" StartNode="0" EndNode="220">
+</Annotation>
+<Annotation Id="132" Type="p" StartNode="0" EndNode="2916">
+</Annotation>
+<Annotation Id="119" Type="p" StartNode="2179" EndNode="2342">
+</Annotation>
+<Annotation Id="118" Type="p" StartNode="2344" EndNode="2636">
+</Annotation>
+<Annotation Id="117" Type="p" StartNode="2638" EndNode="2825">
+</Annotation>
+<Annotation Id="116" Type="p" StartNode="2827" EndNode="2915">
+</Annotation>
+<Annotation Id="80" Type="html" StartNode="0" EndNode="2916">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="127" Type="p" StartNode="598" EndNode="798">
+</Annotation>
+<Annotation Id="126" Type="p" StartNode="800" EndNode="966">
+</Annotation>
+<Annotation Id="125" Type="p" StartNode="968" EndNode="1221">
+</Annotation>
+<Annotation Id="124" Type="p" StartNode="1223" EndNode="1354">
+</Annotation>
+<Annotation Id="123" Type="p" StartNode="1356" EndNode="1617">
+</Annotation>
+<Annotation Id="122" Type="p" StartNode="1619" EndNode="1760">
+</Annotation>
+<Annotation Id="121" Type="p" StartNode="1762" EndNode="2026">
+</Annotation>
+<Annotation Id="120" Type="p" StartNode="2028" EndNode="2177">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

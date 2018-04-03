@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-BT-loop-01-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-BT-loop-01-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Two of <Node id="7"/>British Telecom<Node id="22"/>&apos;s top 10 shareholders are to urge it to rethink its rejection of a <Node id="90"/>£8bn<Node id="95"/> (<Node id="97"/>$11.4bn<Node id="104"/>) bid for its local telephone network by <Node id="145"/>Earth Lease<Node id="156"/>, a consortium of private equity investors.<Node id="199"/>
+
+<Node id="201"/>BT<Node id="203"/> dismissed the bid <Node id="222"/>this week<Node id="231"/>, saying that it stood little chance of success. Under the consortium&apos;s proposal, <Node id="313"/>BT<Node id="315"/>&apos;s telephone lines, connecting local exchanges to most of the <Node id="377"/>UK<Node id="379"/>&apos;s residential and business phone users, would be bought, and then leased back to the telecoms company.<Node id="482"/>
+
+<Node id="484"/>But leading shareholders, who were prominent supporters of <Node id="543"/>BT<Node id="545"/>&apos;s <Node id="548"/>£6bn<Node id="553"/> rights issue, believe the deal could have a twin benefit: offloading a non-core business and cutting the remaining debt by more than half.<Node id="692"/>
+
+<Node id="694"/>One shareholder, with a stake of more than <Node id="737"/>2 per cent<Node id="747"/>, said: &quot;There are good arguments for <Node id="785"/>BT<Node id="787"/> detaching itself from this local business; the return [on the capital] is virtually nothing.&quot;<Node id="881"/>
+
+<Node id="883"/>Figures, provided by <Node id="904"/>BT<Node id="906"/> to <Node id="910"/>Oftel<Node id="915"/>, the industry watchdog, suggest the local network of 28.9m lines is run at break-even level, even though the capital employed amounts to about <Node id="1059"/>£8.4bn<Node id="1066"/>, roughly the sum offered by <Node id="1095"/>Earth Lease<Node id="1106"/>.<Node id="1107"/>
+
+<Node id="1109"/>There were questions over the price offered by <Node id="1156"/>Earth Lease<Node id="1167"/>. But shareholders said this should be the subject of negotiation.<Node id="1233"/>
+
+<Node id="1235"/>BT<Node id="1237"/> said it was happy to listen to the views of shareholders but insisted there were no immediate plans to change its view of the deal. It said the original proposal, which it received from <Node id="1424"/>Earth Lease<Node id="1435"/> in <Node id="1439"/>May<Node id="1442"/>, was just too vague to be worth considering. It does not believe the concept is an attractive one for <Node id="1545"/>BT<Node id="1547"/> shareholders.<Node id="1561"/>
+
+<Node id="1563"/>On <Node id="1566"/>Tuesday night<Node id="1579"/> <Node id="1580"/>Earth Lease<Node id="1591"/> said it was ready to outline its proposals to any <Node id="1642"/>BT<Node id="1644"/> shareholders who wished to find out more details, but insisted it had not yet made contact with any investors.<Node id="1755"/>
+
+<Node id="1757"/>Instead the consortium is believed to be examining ways to increase political pressure on <Node id="1847"/>BT<Node id="1849"/> to re-examine the proposal in the interests of stimulating demand for broadband services.<Node id="1939"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Organization" StartNode="543" EndNode="545">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="910" EndNode="915">
+</Annotation>
+<Annotation Id="23" Type="Money" StartNode="97" EndNode="104">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Location" StartNode="377" EndNode="379">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="1095" EndNode="1106">
+</Annotation>
+<Annotation Id="22" Type="Money" StartNode="548" EndNode="553">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="145" EndNode="156">
+</Annotation>
+<Annotation Id="21" Type="Percent" StartNode="737" EndNode="747">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="1156" EndNode="1167">
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="1642" EndNode="1644">
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="785" EndNode="787">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Money" StartNode="90" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="1580" EndNode="1591">
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="7" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1545" EndNode="1547">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="201" EndNode="203">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="1566" EndNode="1579">
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="1235" EndNode="1237">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Organization" StartNode="313" EndNode="315">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="1439" EndNode="1442">
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="904" EndNode="906">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Money" StartNode="1059" EndNode="1066">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1847" EndNode="1849">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="1424" EndNode="1435">
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="222" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="62" Type="font" StartNode="0" EndNode="1939">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="484" EndNode="692">
+</Annotation>
+<Annotation Id="73" Type="td" StartNode="0" EndNode="1939">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="96" Type="TEXT" StartNode="0" EndNode="1939">
+</Annotation>
+<Annotation Id="85" Type="html" StartNode="0" EndNode="1939">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="201" EndNode="482">
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="0" EndNode="199">
+</Annotation>
+<Annotation Id="83" Type="body" StartNode="0" EndNode="1939">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="82" Type="table" StartNode="0" EndNode="1939">
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="694" EndNode="881">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="0" EndNode="1939">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="883" EndNode="1107">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="1563" EndNode="1755">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="1757" EndNode="1939">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="1235" EndNode="1561">
+</Annotation>
+<Annotation Id="74" Type="tr" StartNode="0" EndNode="1939">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="1109" EndNode="1233">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

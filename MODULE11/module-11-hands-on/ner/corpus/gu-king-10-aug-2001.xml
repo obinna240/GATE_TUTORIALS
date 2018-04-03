@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-king-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-king-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Insolvent developing countries can no longer expect unlimited bailouts from international lenders, the <Node id="103"/>Bank of England<Node id="118"/>&apos;s deputy governor <Node id="137"/>Mervyn King<Node id="148"/> warned <Node id="156"/>last night<Node id="166"/>.
+<Node id="168"/>Speaking as <Node id="180"/>Argentina<Node id="189"/> prepared to appeal to the <Node id="216"/>International Monetary Fund<Node id="243"/> for a <Node id="250"/>9bn dollar<Node id="260"/> (<Node id="262"/>6.3bn pound<Node id="273"/>) lifeline for its indebted economy, <Node id="310"/>Mr King<Node id="317"/> said the fund could not act as lender of last resort - the ultimate backer - in global financial markets.<Node id="423"/>
+
+<Node id="425"/>&quot;A lender of last resort must have the ability to extend sufficient resources that the market has no doubt whatsoever about the ability to provide whatever it takes to deal with the immediate crisis. The <Node id="629"/>IMF<Node id="632"/> is not in that position. There is not political commitment to provide the <Node id="707"/>IMF<Node id="710"/> with unlimited funds,&quot; he told a conference in <Node id="758"/>India<Node id="763"/>.<Node id="764"/>
+
+<Node id="766"/>The <Node id="770"/>IMF<Node id="773"/> confirmed <Node id="784"/>yesterday<Node id="793"/> it will hold top level talks <Node id="823"/>today<Node id="828"/> with <Node id="834"/>Argentine<Node id="843"/> finance ministry representatives, but declined to confirm rumours that officials would negotiate extra funding on top of the <Node id="969"/>39.7bn dollar<Node id="982"/> package agreed in <Node id="1001"/>December<Node id="1009"/>.<Node id="1010"/>
+
+<Node id="1012"/>In an interview on <Node id="1031"/>Wednesday<Node id="1040"/> with the Financial Times, <Node id="1067"/>Argentina<Node id="1076"/>&apos;s finance minister, <Node id="1097"/>Domingo Cavallo<Node id="1112"/>, was upbeat about the chances that his country would get the extra money to shore up confidence in the economy. Worried that <Node id="1238"/>Buenos Aires<Node id="1250"/> will be forced to default on its <Node id="1284"/>130bn dollar<Node id="1296"/> debt, investors are racing to get their money out of the country.<Node id="1362"/>
+
+<Node id="1364"/>But <Node id="1368"/>Mr King<Node id="1375"/> signalled <Node id="1386"/>yesterday<Node id="1395"/> that he agrees with the tough line taken by the new <Node id="1448"/>US<Node id="1450"/> treasury secretary <Node id="1470"/>Paul O&apos;Neill<Node id="1482"/>, who has expressed scepticism about the value of large <Node id="1538"/>IMF<Node id="1541"/> bailouts.<Node id="1551"/>
+
+<Node id="1553"/>&quot;If creditors and debtors continue to believe that exceptional access is readily available, then international credit will be over-extended and the incidence of crisis will increase,&quot; said <Node id="1742"/>Mr King<Node id="1749"/>.<Node id="1750"/>
+
+<Node id="1752"/>Emerging economies are less vulnerable to financial crises like the one which swept through <Node id="1844"/>Asia<Node id="1848"/> <Node id="1849"/>four years ago<Node id="1863"/>, he said, because investors were more discriminating in their views of individual countries.<Node id="1956"/>
+
+<Node id="1958"/>&quot;It shows that the possibility of contagion from a country affected by a crisis to others initially unaffected is less than might have been the case only a few years ago,&quot; he added.<Node id="2139"/>
+<Node id="2140"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Date" StartNode="1001" EndNode="1009">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Money" StartNode="1284" EndNode="1296">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="1844" EndNode="1848">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Date" StartNode="1031" EndNode="1040">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="969" EndNode="982">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Person" StartNode="1742" EndNode="1749">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Person" StartNode="137" EndNode="148">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">null</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonJobTitle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Location" StartNode="1448" EndNode="1450">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="262" EndNode="273">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="1386" EndNode="1395">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="1538" EndNode="1541">
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="834" EndNode="843">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Organization" StartNode="103" EndNode="118">
+</Annotation>
+<Annotation Id="4" Type="Date" StartNode="156" EndNode="166">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="1238" EndNode="1250">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Organization" StartNode="707" EndNode="710">
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="216" EndNode="243">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Person" StartNode="1097" EndNode="1112">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="784" EndNode="793">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Person" StartNode="310" EndNode="317">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Organization" StartNode="770" EndNode="773">
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="1067" EndNode="1076">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="823" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Location" StartNode="758" EndNode="763">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Person" StartNode="1470" EndNode="1482">
+</Annotation>
+<Annotation Id="20" Type="Person" StartNode="1368" EndNode="1375">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="629" EndNode="632">
+</Annotation>
+<Annotation Id="10" Type="Location" StartNode="180" EndNode="189">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Money" StartNode="250" EndNode="260">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="1849" EndNode="1863">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="40" Type="p" StartNode="168" EndNode="423">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="1553" EndNode="1750">
+</Annotation>
+<Annotation Id="59" Type="TEXT" StartNode="0" EndNode="2140">
+</Annotation>
+<Annotation Id="34" Type="p" StartNode="1752" EndNode="1956">
+</Annotation>
+<Annotation Id="41" Type="font" StartNode="0" EndNode="2140">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="1958" EndNode="2139">
+</Annotation>
+<Annotation Id="52" Type="font" StartNode="0" EndNode="2140">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="0" EndNode="2140">
+</Annotation>
+<Annotation Id="36" Type="p" StartNode="1364" EndNode="1551">
+</Annotation>
+<Annotation Id="58" Type="html" StartNode="0" EndNode="2140">
+</Annotation>
+<Annotation Id="55" Type="body" StartNode="0" EndNode="2140">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="425" EndNode="764">
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="766" EndNode="1010">
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="1012" EndNode="1362">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

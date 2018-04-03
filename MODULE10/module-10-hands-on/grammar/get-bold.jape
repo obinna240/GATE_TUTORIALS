@@ -1,0 +1,10 @@
+Phase: GetBold
+Input: b
+Options: control = appelt
+
+
+Rule: GetBold
+({b})
+:stuff
+-->
+:stuff.bold = {}

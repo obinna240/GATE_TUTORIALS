@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-equitable-08-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-equitable-08-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Vanni Treves<Node id="12" />, chairman of embattled insurer <Node id="44" />Equitable Life<Node id="58" />, <Node id="60" />yesterday<Node id="69" /> pleaded for support as he admitted that the crucial proposal designed to forge a compromise between warring policyholders was unlikely to be published <Node id="221" />this month<Node id="231" /> as orginally planned.
+<Node id="254" />Mr Treves<Node id="263" />, who himself has nearly <Node id="288" />£600,000<Node id="296" /> tied up in the society, confirmed that the life assurer was yet to set upon the final plan to satisfy the 90,000 holders of guaranteed annuity rate (GAR) pension policies and the majority of members, whose policies are not subject to the guarantees.<Node id="546" />
+
+<Node id="548" />This proposal for a compromise will not be drawn up until the advice of <Node id="620" />Nicholas Warren QC<Node id="638" /> is received later <Node id="657" />this month<Node id="667" /> as to whether the non-GARs have a legal right over <Node id="719" />Equitable<Node id="728" />'s assets.<Node id="738" />
+
+<Node id="740" />That means that the proposed solution to put a lid on the <Node id="798" />£1.5bn<Node id="804" /> of liabilities may not be published until <Node id="847" />mid-September<Node id="860" />, <Node id="862" />Mr Treves<Node id="871" /> said.<Node id="877" />
+
+<Node id="879" />A wide range of potential scenarios aimed at forging agreement has been drawn up, he said, including the possibly of payments to holders of non-guaranteed policies and tiered payments to those with the guarantees. <Node id="1093" />Equitable<Node id="1102" /> had originally indicated that it would offer a one-off payment of <Node id="1169" />20%<Node id="1172" /> to holders of guaranteed policies provided they gave up their guarantee.<Node id="1245" />
+
+<Node id="1247" />"The nature of a compromise means you displease everyone equally," he said. "What we need to do is be as fair as we possibly can."<Node id="1377" />
+
+<Node id="1379" />Mr Treves<Node id="1388" /> called on policyholders to realise that their investment had done well over the years. Citing his own case, of a policyholder for 20 years, he said he had still achieved a return of <Node id="1571" />11.1%<Node id="1576" /> even with the shock move on <Node id="1605" />July 16<Node id="1612" /> to reduce policies by <Node id="1635" />16%<Node id="1638" />.<Node id="1639" />
+
+<Node id="1641" />Admitting that he had been surprised by the hostility towards the company, he called on policyholders to support the new board."I think this board deserves it," he said.<Node id="1810" />
+
+<Node id="1812" />Mr Treves<Node id="1821" /> warned policyholders that if they failed to back the suggested compromise when it was published,they would be worse off as the investment returns from the <Node id="1977" />£23bn<Node id="1982" /> fund would be reduced in the years ahead.<Node id="2024" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="221" EndNode="231">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Money" StartNode="288" EndNode="296">
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="1093" EndNode="1102">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="719" EndNode="728">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="44" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Person" StartNode="620" EndNode="638">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">5</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Person" StartNode="1812" EndNode="1821">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Date" StartNode="1605" EndNode="1612">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">DateName</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Person" StartNode="1379" EndNode="1388">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Person" StartNode="862" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Date" StartNode="847" EndNode="860">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierMonth</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Person" StartNode="254" EndNode="263">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Person" StartNode="0" EndNode="12">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">UnknownPerson</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Money" StartNode="1977" EndNode="1982">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Percent" StartNode="1635" EndNode="1638">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Percent" StartNode="1571" EndNode="1576">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Money" StartNode="798" EndNode="804">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Percent" StartNode="1169" EndNode="1172">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Date" StartNode="657" EndNode="667">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Date" StartNode="60" EndNode="69">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4087" Type="RelationClass" StartNode="0" EndNode="58">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="38" Type="p" StartNode="0" EndNode="2024">
+</Annotation>
+<Annotation Id="39" Type="font" StartNode="0" EndNode="2024">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="740" EndNode="877">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="879" EndNode="1245">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="254" EndNode="546">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="548" EndNode="738">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="1641" EndNode="1810">
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="1812" EndNode="2024">
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="1247" EndNode="1377">
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="1379" EndNode="1639">
+</Annotation>
+<Annotation Id="51" Type="TEXT" StartNode="0" EndNode="2024">
+</Annotation>
+<Annotation Id="20" Type="html" StartNode="0" EndNode="2024">
+</Annotation>
+<Annotation Id="23" Type="body" StartNode="0" EndNode="2024">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="font" StartNode="0" EndNode="2024">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

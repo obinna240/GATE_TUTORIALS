@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">http://www.google.com/intl/en/corporate/execs.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Corporate Information - Google Management<Node id="41" />
+<Node id="42" />
+<Node id="43" />Co-founders Larry Page, president of Products, and Sergey Brin, president of Technology, brought Google to life in September 1998. Since then, the company has grown to more than 10,000 employees worldwide, with a management team that represents some of the most experienced technology professionals in the industry. Eric Schmidt joined Google as chairman and chief executive officer in 2001.<Node id="434" />
+
+<Node id="436" />
+<Node id="437" />
+<Node id="438" />Koichiro Tsujino
+<Node id="455" />President &amp; General Manager, Google Japan<Node id="496" />
+<Node id="497" />
+<Node id="498" />Koichiro joined Google Japan in 2007 as the director of product management and was responsible for supervising all search service and application development in Japan. He became president &amp; general manager of Google Japan in 2009.<Node id="728" />
+
+<Node id="730" />Before joining Google, Koichiro was president of Sony's personal computer division, where he led their VAIO PC, home video, and personal audio divisions.<Node id="883" />
+
+<Node id="885" />Koichiro graduated from Keio University with a B.S. and master's degree in electrical engineering. He also received a master's degree in electrical engineering from the California Institute of Technology.<Node id="1089" />
+<Node id="1090" />
+<Node id="1091" />
+<Node id="1092" />Dennis Woodside
+<Node id="1108" />Vice President, Americas Operations<Node id="1143" />
+<Node id="1144" />
+<Node id="1145" />Dennis joined Google in 2003 and leads the company's North American and Latin American advertising sales and operations teams. Previously, he oversaw Google's sales and operations in the U.K., Benelux and Ireland. Prior to that, Dennis launched and ran Google's field operations in Central Europe, Russia, the Middle East and North Africa. He established offices in 10 countries including Egypt, Turkey, Russia and Israel. Additionally, he started the company's inside sales operation in Europe.<Node id="1640" />
+
+<Node id="1642" />Prior to joining Google, Dennis was an associate partner at McKinsey and Company, where he led operational and strategy projects for multinational clients in the technology and media industries. Earlier, he managed complex mergers and acquisitions in aerospace, energy, media and finance industries. He also served as law clerk to the Honorable Dennis G. Jacobs in the U.S. Court of Appeals for the 2nd Circuit in New York.<Node id="2065" />
+
+<Node id="2067" />Dennis received a J.D. from Stanford Law School, where he was associate editor of the Stanford Law Review, and holds a bachelor's degree in industrial relations from Cornell University.<Node id="2252" />
+<Node id="2253" />
+<Node id="2254" />Legal<Node id="2259" />
+
+<Node id="2261" />
+<Node id="2262" />
+<Node id="2263" />
+<Node id="2264" />  <Node id="2266" /> <Node id="2267" />©2010 Google - <Node id="2282" />Home<Node id="2286" /> - <Node id="2289" />About Google<Node id="2301" /> - <Node id="2304" />Privacy Policy<Node id="2318" /> - <Node id="2321" />Terms of Service<Node id="2337" />
+<Node id="2338" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="2338">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="42">
+</Annotation>
+<Annotation Id="2" Type="meta" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">text/html; charset=UTF-8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">http-equiv</Name>
+  <Value className="java.lang.String">Content-Type</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="title" StartNode="0" EndNode="41">
+</Annotation>
+<Annotation Id="7" Type="body" StartNode="42" EndNode="2338">
+</Annotation>
+<Annotation Id="8" Type="div" StartNode="42" EndNode="2338">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">container</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="tr" StartNode="42" EndNode="2263">
+</Annotation>
+<Annotation Id="16" Type="table" StartNode="42" EndNode="2264">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">100%</Value>
+</Feature>
+</Annotation>
+<Annotation Id="69" Type="td" StartNode="42" EndNode="2263">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">top</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.String">content</Value>
+</Feature>
+</Annotation>
+<Annotation Id="71" Type="p" StartNode="43" EndNode="434">
+</Annotation>
+<Annotation Id="191" Type="ul" StartNode="436" EndNode="437">
+</Annotation>
+<Annotation Id="1100" Type="table" StartNode="2261" EndNode="2262">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1096" Type="a" StartNode="2254" EndNode="2254">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">legal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1097" Type="h3" StartNode="2254" EndNode="2259">
+<Feature>
+  <Name className="java.lang.String">style</Name>
+  <Value className="java.lang.String">margin-top:10px;</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1092" Type="br" StartNode="1144" EndNode="1144">
+</Annotation>
+<Annotation Id="1093" Type="p" StartNode="1145" EndNode="1640">
+</Annotation>
+<Annotation Id="1094" Type="p" StartNode="1642" EndNode="2065">
+</Annotation>
+<Annotation Id="1095" Type="p" StartNode="2067" EndNode="2252">
+</Annotation>
+<Annotation Id="1088" Type="img" StartNode="1092" EndNode="1092">
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">../images/management/woodside.jpg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1089" Type="td" StartNode="1092" EndNode="2253">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">top</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1090" Type="b" StartNode="1092" EndNode="1143">
+</Annotation>
+<Annotation Id="1091" Type="br" StartNode="1108" EndNode="1108">
+</Annotation>
+<Annotation Id="1070" Type="table" StartNode="438" EndNode="1091">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1071" Type="tr" StartNode="438" EndNode="1090">
+</Annotation>
+<Annotation Id="1068" Type="br" StartNode="438" EndNode="438">
+</Annotation>
+<Annotation Id="1069" Type="a" StartNode="438" EndNode="438">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">koichirotsujino</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1083" Type="br" StartNode="1092" EndNode="1092">
+</Annotation>
+<Annotation Id="1082" Type="hr" StartNode="1091" EndNode="1091">
+</Annotation>
+<Annotation Id="1081" Type="div" StartNode="1091" EndNode="1091">
+<Feature>
+  <Name className="java.lang.String">style</Name>
+  <Value className="java.lang.String">padding-left:152px;</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1080" Type="p" StartNode="885" EndNode="1089">
+</Annotation>
+<Annotation Id="1087" Type="td" StartNode="1092" EndNode="1092">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">top</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">style</Name>
+  <Value className="java.lang.String">padding-right:10px</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1086" Type="tr" StartNode="1092" EndNode="2253">
+</Annotation>
+<Annotation Id="1085" Type="table" StartNode="1092" EndNode="2254">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1084" Type="a" StartNode="1092" EndNode="1092">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">woodside</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1075" Type="b" StartNode="438" EndNode="496">
+</Annotation>
+<Annotation Id="1074" Type="td" StartNode="438" EndNode="1090">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">top</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1073" Type="img" StartNode="438" EndNode="438">
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">../images/management/koichiro.jpg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1072" Type="td" StartNode="438" EndNode="438">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">top</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">style</Name>
+  <Value className="java.lang.String">padding-right:10px</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1079" Type="p" StartNode="730" EndNode="883">
+</Annotation>
+<Annotation Id="1078" Type="p" StartNode="498" EndNode="728">
+</Annotation>
+<Annotation Id="1077" Type="br" StartNode="497" EndNode="497">
+</Annotation>
+<Annotation Id="1076" Type="br" StartNode="455" EndNode="455">
+</Annotation>
+<Annotation Id="1237" Type="table" StartNode="2262" EndNode="2263">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1255" Type="a" StartNode="2282" EndNode="2286">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">/webhp?hl=en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1254" Type="font" StartNode="2267" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">-1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1253" Type="td" StartNode="2267" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">valign</Name>
+  <Value className="java.lang.String">middle</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">100%</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">align</Name>
+  <Value className="java.lang.String">center</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1252" Type="td" StartNode="2264" EndNode="2266">
+</Annotation>
+<Annotation Id="1251" Type="img" StartNode="2264" EndNode="2264">
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">/images/art.gif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">height</Name>
+  <Value className="java.lang.String">53</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">hspace</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vspace</Name>
+  <Value className="java.lang.String">5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String"></Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">143</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1250" Type="td" StartNode="2264" EndNode="2264">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1249" Type="tr" StartNode="2264" EndNode="2337">
+</Annotation>
+<Annotation Id="1248" Type="table" StartNode="2264" EndNode="2338">
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">95%</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1260" Type="script" StartNode="2338" EndNode="2338">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">text/javascript</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1259" Type="script" StartNode="2338" EndNode="2338">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">text/javascript</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">https://ssl.google-analytics.com/urchin.js</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1258" Type="a" StartNode="2321" EndNode="2337">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">/accounts/TOS</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1257" Type="a" StartNode="2304" EndNode="2318">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">/privacy.html</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1256" Type="a" StartNode="2289" EndNode="2301">
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">/about.html</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

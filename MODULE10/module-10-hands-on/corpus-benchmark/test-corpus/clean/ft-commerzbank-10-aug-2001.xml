@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-commerzbank-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc5</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-commerzbank-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Commerzbank, Germany's third biggest listed bank, on Thursday struggled to quell takeover rumours, as investors drove the bank's stock sharply higher despite a big drop in second quarter profits.
+
+The bank blamed weak global stock markets and high operating costs for the poor second quarter, which saw pre-tax profits fall 40 per cent quarter on quarter to E186m ($161.8m).
+
+It vowed to contain soaring costs and said management had approved a recruitment freeze and the cancellation of several IT projects as part of a drive to save E240m by the end of the year.
+
+The market largely disregarded the bank's poor performance, pushing the stock 3 per higher to around E27 as takeover speculation continued to gain momentum.
+
+Analysts said the weak results would boost the bid speculation surrounding the stock, which has been driven by takeover rumours rather than fundamentals for most of the past year.
+
+In a conference call for analysts, executives dismissed reports that Commerzbank was in takeover talks with Unicredito Italiano, Italy's second largest bank.
+
+They also denied that the bank's largest shareholder, Assicurazioni Generali, the Italian insurer, had increased its stake from 10 per cent to 19 per cent.
+
+But officials admitted the bank, long seen as vulnerable to a takeover, was in talks with several European banks, some of which lie outside its extensive network of partnerships. "We have had contact with Unicredito, Soci�©t�© G�©n�©rale, the Royal Bank of Scotland, ABN Amro, Den Danske Bank, BSCH of Spain and HSBC," said an official.
+
+Bankers said the talks were understood to have centred on the possibility of partners taking stakes in specific businesses, such as asset management, which is being restructured, or Comdirect, the bank's troubled online broking subsidiary. In return potential partners might gain seats on the bank's supervisory board, the bankers said.
+
+Analysts said the bank's poor underlying performance for the third quarter in a row had put it under renewed pressure to boost profitability.
+
+The bank said costs, which shot up 18 per cent in the first half to E2.909bn from E2.47bn a year earlier, remained a "cause for concern".
+
+It said it planned to save E240m in the second half of this year. About E100m would come from a recruitment freeze, with a further E140m coming from cuts in information technology investments.
+
+Fox-Pitt, Kelton, the investment bank, said a big jump in non-staff costs was behind the increase in operating expenses. These included costs linked to the restructuring of businesses, euro conversion costs and expenditure on consultancies and other projects, it said.
+<Node id="2642" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="36" Type="TEXT" StartNode="0" EndNode="2642">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

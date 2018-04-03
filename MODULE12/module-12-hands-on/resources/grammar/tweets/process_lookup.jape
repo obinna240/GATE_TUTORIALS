@@ -1,0 +1,59 @@
+Phase:	ProcessLookup
+Input: Lookup Question
+Options: control = appelt
+
+/* just transforms all the political lookups into their own annotation */
+
+
+
+Rule: LookupAffect
+(
+ {Lookup.majorType == affect}
+):tag
+-->
+:tag.AffectLookup = {category = :tag.Lookup.category, kind = :tag.Lookup.minorType }
+
+
+Rule: QuestionParty
+(
+ {Lookup.majorType == party}
+ {Question}
+):tag
+-->
+:tag.QuestionParty = {category = :tag.Lookup.category, kind = :tag.Lookup.type }
+
+
+Rule: LookupParty
+(
+ {Lookup.majorType == party}
+):tag
+-->
+:tag.Party = {category = :tag.Lookup.category, kind = :tag.Lookup.type }
+
+Rule: LookupNegation
+(
+ {Lookup.majorType == negation}
+):tag
+-->
+:tag.Not = {rule  = LookupNegation}
+
+Rule: LookupVictory
+(
+ {Lookup.majorType == victory}
+):tag
+-->
+:tag.Victory = {rule = LookupVictory}
+
+Rule: LookupVote
+(
+ {Lookup.majorType == vote}
+):tag
+-->
+:tag.Vote = {rule = LookupVote}
+
+Rule: LookupCandidate
+(
+ {Lookup.majorType == candidate}
+):tag
+-->
+:tag.Vote = {rule = LookupCandidate}

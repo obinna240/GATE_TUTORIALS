@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ML-RUN>
+<learningMode>EVALUATION</learningMode>
+<corpus><![CDATA[ner_corpus]]></corpus>
+<date-loaded>20151118</date-loaded><time-loaded>165755</time-loaded>
+<date-started>20151118</date-started><time-started>170956</time-started>
+<date-ended>20151118</date-ended><time-ended>171111</time-ended>
+<overall>
+  <correct>836.0</correct>
+  <partialCorrect>39.5</partialCorrect>
+  <spurious>131.75</spurious>
+  <missing>122.0</missing>
+  <precision>0.8298707</precision>
+  <recall>0.84055334</recall>
+  <f1>0.83509076</f1>
+  <precisionLenient>0.8696159</precisionLenient>
+  <recallLenient>0.8808917</recallLenient>
+  <f1Lenient>0.8751267</f1Lenient>
+</overall>
+<per-run>
+  <run>
+    <run-nr>0</run-nr>
+    <correct>799.0</correct>
+    <partialCorrect>56.0</partialCorrect>
+    <spurious>100.0</spurious>
+    <missing>81.0</missing>
+    <precision>0.83664924</precision>
+    <recall>0.85363245</recall>
+    <f1>0.8450556</f1>
+    <precisionLenient>0.89528793</precisionLenient>
+    <recallLenient>0.91346157</recallLenient>
+    <f1Lenient>0.9042835</f1Lenient>
+  </run>
+  <run>
+    <run-nr>1</run-nr>
+    <correct>731.0</correct>
+    <partialCorrect>32.0</partialCorrect>
+    <spurious>140.0</spurious>
+    <missing>104.0</missing>
+    <precision>0.8095238</precision>
+    <recall>0.84313726</recall>
+    <f1>0.8259887</f1>
+    <precisionLenient>0.8449612</precisionLenient>
+    <recallLenient>0.8800461</recallLenient>
+    <f1Lenient>0.8621469</f1Lenient>
+  </run>
+  <run>
+    <run-nr>2</run-nr>
+    <correct>706.0</correct>
+    <partialCorrect>28.0</partialCorrect>
+    <spurious>105.0</spurious>
+    <missing>100.0</missing>
+    <precision>0.84147793</precision>
+    <recall>0.8465228</recall>
+    <f1>0.8439929</f1>
+    <precisionLenient>0.874851</precisionLenient>
+    <recallLenient>0.8800959</recallLenient>
+    <f1Lenient>0.8774656</f1Lenient>
+  </run>
+  <run>
+    <run-nr>3</run-nr>
+    <correct>1108.0</correct>
+    <partialCorrect>42.0</partialCorrect>
+    <spurious>182.0</spurious>
+    <missing>203.0</missing>
+    <precision>0.8318318</precision>
+    <recall>0.8189209</recall>
+    <f1>0.8253258</f1>
+    <precisionLenient>0.8633634</precisionLenient>
+    <recallLenient>0.84996307</recallLenient>
+    <f1Lenient>0.85661083</f1Lenient>
+  </run>
+</per-run>
+<per-class>
+  <class>
+    <class-label><![CDATA[date]]></class-label>
+    <correct>162.5</correct>
+    <partialCorrect>16.25</partialCorrect>
+    <spurious>17.0</spurious>
+    <missing>18.75</missing>
+    <precision>0.82884336</precision>
+    <recall>0.821779</recall>
+    <f1>0.8248966</f1>
+    <precisionLenient>0.9144823</precisionLenient>
+    <recallLenient>0.9070495</recallLenient>
+    <f1Lenient>0.91031075</f1Lenient>
+  </class>
+  <class>
+    <class-label><![CDATA[location]]></class-label>
+    <correct>127.0</correct>
+    <partialCorrect>2.75</partialCorrect>
+    <spurious>23.75</spurious>
+    <missing>28.75</missing>
+    <precision>0.82657796</precision>
+    <recall>0.81048644</recall>
+    <f1>0.8171103</f1>
+    <precisionLenient>0.84418577</precisionLenient>
+    <recallLenient>0.82827973</recallLenient>
+    <f1Lenient>0.8347748</f1Lenient>
+  </class>
+  <class>
+    <class-label><![CDATA[money]]></class-label>
+    <correct>104.0</correct>
+    <partialCorrect>6.5</partialCorrect>
+    <spurious>4.5</spurious>
+    <missing>12.75</missing>
+    <precision>0.90586543</precision>
+    <recall>0.83465815</recall>
+    <f1>0.8669861</f1>
+    <precisionLenient>0.95923233</precisionLenient>
+    <recallLenient>0.88535</recallLenient>
+    <f1Lenient>0.9188206</f1Lenient>
+  </class>
+  <class>
+    <class-label><![CDATA[organization]]></class-label>
+    <correct>296.0</correct>
+    <partialCorrect>12.0</partialCorrect>
+    <spurious>76.25</spurious>
+    <missing>47.0</missing>
+    <precision>0.77090806</precision>
+    <recall>0.8396627</recall>
+    <f1>0.8025967</f1>
+    <precisionLenient>0.80060875</precisionLenient>
+    <recallLenient>0.87109464</recallLenient>
+    <f1Lenient>0.83308786</f1Lenient>
+  </class>
+  <class>
+    <class-label><![CDATA[percent]]></class-label>
+    <correct>73.75</correct>
+    <partialCorrect>1.25</partialCorrect>
+    <spurious>0.75</spurious>
+    <missing>2.25</missing>
+    <precision>0.9718306</precision>
+    <recall>0.9552119</recall>
+    <f1>0.9633724</f1>
+    <precisionLenient>0.9888339</precisionLenient>
+    <recallLenient>0.9717947</recallLenient>
+    <f1Lenient>0.9801618</f1Lenient>
+  </class>
+  <class>
+    <class-label><![CDATA[person]]></class-label>
+    <correct>72.75</correct>
+    <partialCorrect>0.75</partialCorrect>
+    <spurious>9.5</spurious>
+    <missing>12.5</missing>
+    <precision>0.87091035</precision>
+    <recall>0.85289395</recall>
+    <f1>0.8604285</f1>
+    <precisionLenient>0.8790075</precisionLenient>
+    <recallLenient>0.8604444</recallLenient>
+    <f1Lenient>0.8682414</f1Lenient>
+  </class>
+</per-class>
+<ML-CONFIG>  
+  <VERBOSITY level="1" />
+  <SURROUND value="true" />  
+  <PARAMETER name="thresholdProbabilityEntity" value="0.2" />  
+  <PARAMETER name="thresholdProbabilityBoundary" value="0.4" />  
+
+  <multiClassification2Binary method="one-vs-others" />  
+
+  <EVALUATION method="kfold" runs="4" />  
+
+  <ENGINE nickname="PAUM" implementationName="PAUM" options="-p 50 -n 5 -optB 0.3" />  
+
+  <DATASET>
+
+    <INSTANCE-TYPE>Token</INSTANCE-TYPE>  
+
+    <ATTRIBUTELIST>  
+      <NAME>POS</NAME>  
+      <SEMTYPE>NOMINAL</SEMTYPE>  
+      <TYPE>Token</TYPE>  
+      <FEATURE>category</FEATURE>  
+      <RANGE from="-2" to="2" />  
+    </ATTRIBUTELIST>  
+
+    <ATTRIBUTELIST>  
+      <NAME>TokenOrth</NAME>  
+      <SEMTYPE>NOMINAL</SEMTYPE>  
+      <TYPE>Token</TYPE>  
+      <FEATURE>orth</FEATURE>  
+      <RANGE from="-2" to="2" />  
+    </ATTRIBUTELIST>  
+
+    <ATTRIBUTELIST>  
+      <NAME>TokenKind</NAME>  
+      <SEMTYPE>NOMINAL</SEMTYPE>  
+      <TYPE>Token</TYPE>  
+      <FEATURE>kind</FEATURE>  
+      <RANGE from="-4" to="4" />  
+    </ATTRIBUTELIST> 
+
+
+
+    <ATTRIBUTELIST>  
+      <NAME>String</NAME>  
+      <SEMTYPE>NOMINAL</SEMTYPE>  
+      <TYPE>Token</TYPE>  
+      <FEATURE>string</FEATURE> 
+      <RANGE from="-1" to="1" />  
+    </ATTRIBUTELIST>  
+
+
+    <ATTRIBUTE>
+      <NAME>Class</NAME>
+      <SEMTYPE>NOMINAL</SEMTYPE>
+      <TYPE>Mention</TYPE>
+      <FEATURE>type</FEATURE>
+      <POSITION>0</POSITION>
+      <CLASS />
+    </ATTRIBUTE>
+
+  </DATASET>  
+</ML-CONFIG>
+</ML-RUN>

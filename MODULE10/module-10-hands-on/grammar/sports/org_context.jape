@@ -1,0 +1,66 @@
+/*
+*  org_context.jape
+*
+* Copyright (c) 1998-2001, The University of Sheffield.
+*
+*  This file is part of GATE (see http://gate.ac.uk/), and is free
+*  software, licenced under the GNU Library General Public License,
+*  Version 2, June 1991 (in the distribution as file licence.html,
+*  and also available at http://gate.ac.uk/gate/licence.html).
+*
+*  Diana Maynard, 10 June 2002
+* 
+*  $Id: org_context.jape,v 1.1 2002/06/20 16:06:04 diana Exp $
+*/
+
+
+Phase:	Org_Context
+Input: Token Location Break Person
+Options: control = appelt
+
+
+
+
+Rule: SportOrg
+Priority: 100
+(
+ (
+  {Token.string == "against"}|
+  {Token.string == "for"}|
+  {Token.string == "with"}
+ )
+ ({Token.category == DT})?
+)
+(
+ {Location}
+):org
+-->
+{
+//removes old Location annotation, adds a new Org annotation
+gate.AnnotationSet org = (gate.AnnotationSet) bindings.get("org");
+gate.FeatureMap features = Factory.newFeatureMap();
+features.put("rule", "SportOrg");
+outputAS.add(org.firstNode(), org.lastNode(), "Organization",
+features);
+outputAS.removeAll(org);
+}
+
+Rule: SportOrgPerson
+Priority: 50
+(
+ ({Location}):org
+  {Token.category == NN}
+  {Person}
+)
+-->
+{
+//removes old Location annotation, adds a new Org annotation
+gate.AnnotationSet org = (gate.AnnotationSet) bindings.get("org");
+gate.FeatureMap features = Factory.newFeatureMap();
+features.put("rule", "SportOrgPerson");
+outputAS.add(org.firstNode(), org.lastNode(), "Organization",
+features);
+outputAS.removeAll(org);
+}
+
+

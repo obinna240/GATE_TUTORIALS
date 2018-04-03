@@ -1,0 +1,1678 @@
+18-Nov-2015 16:57:55: 
+
+*************************
+A new session for NLP learning is starting: 20151118_165755file:/C:/Users/obinnao2/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 28secs ago)The initiliased time of NLP learning: Wed Nov 18 16:57:55 GMT 2015
+Working directory: C:\Users\obinnao2\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\obinnao2\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+18-Nov-2015 17:09:56: 
+*** A new run starts.
+18-Nov-2015 17:09:56: 
+The execution time (pre-processing the first document): Wed Nov 18 17:09:56 GMT 2015
+18-Nov-2015 17:09:56: The learning start at Wed Nov 18 17:09:56 GMT 2015
+18-Nov-2015 17:09:56: The number of documents in dataset: 93
+18-Nov-2015 17:09:56: ** Evaluation mode:
+18-Nov-2015 17:09:56: K-fold evaluation: k=4
+18-Nov-2015 17:09:56: Kfold k=4, numDoc=93, len=23.
+18-Nov-2015 17:09:56: 
+*** Fold 1
+Number of docs for training: 70
+1 ft-house-price-08-aug-2001.xml_000E0
+2 ft-industrial-gloom-07-Aug-2001.xml_000E1
+3 ft-merrill-lynch-10-aug-2001.xml_000E2
+4 ft-mortgage-lenders-04-aug-2001.xml_000E3
+5 ft-pirelli-10-aug-2001.xml_000E4
+6 ft-us-air-10-aug-2001.xml_000E5
+7 ft-whitbread-10-aug-2001.xml_000E6
+8 gu-30000-job-08-aug-2001.xml_000E7
+9 gu-Am-Brit-4-aug-2001.xml_000E8
+10 gu-BA-Atlantic-4-aug-2001.xml_000E9
+11 gu-BA-profit-06-aug-2001.xml_000EA
+12 gu-BASF-08-aug-2001.xml_000EB
+13 gu-BOS-08-aug-2001.xml_000EC
+14 gu-BP-08-aug-2001.xml_000ED
+15 gu-ECB-03-aug-2001.xml_000EE
+16 gu-ECB-07-aug-2001.xml_000EF
+17 gu-Ford-08-aug-2001.xml_000F0
+18 gu-G8-3-aug-2001.xml_000F1
+19 gu-GKN-10-aug-2001.xml_000F2
+20 gu-airlines-DVT-05-aug-2001.xml_000F3
+21 gu-analysis-10-aug-2001.xml_000F4
+22 gu-bank-of-england-08-aug-2001.xml_000F5
+23 gu-bayer-10-aug-2001.xml_000F6
+24 gu-bp-profit-08-aug-2001.xml_000F7
+25 gu-city-briefing-10-aug-2001.xml_000F8
+26 gu-city-briefing-8-aug-2001.xml_000F9
+27 gu-city-diary-10-aug-2001.xml_000FA
+28 gu-claims-direct-10-aug-2001.xml_000FB
+29 gu-ecb-10-aug-2001.xml_000FC
+30 gu-equitable-08-aug-2001.xml_000FD
+31 gu-fsa-10-aug-2001.xml_000FE
+32 gu-gap-10-aug-2001.xml_000FF
+33 gu-king-10-aug-2001.xml_00100
+34 gu-m&s-10-aug-2001.xml_00101
+35 gu-manuf-jobs-07-aug-2001.xml_00102
+36 gu-manuf-recession-07-aug-2001.xml_00103
+37 gu-recession-04-aug-2001.xml_00104
+38 gu-recession-6-aug-2001.xml_00105
+39 gu-reed-10-aug-2001.xml_00106
+40 gu-ryanair-08-aug-2001.xml_00107
+41 gu-ryanair.xml_00108
+42 gu-scoot-10-aug-2001.xml_00109
+43 gu-signet-10-aug-2001.xml_0010A
+44 gu-singtel-10-aug-2001.xml_0010B
+45 gu-swedish-10-aug-2001.xml_0010C
+46 gu-synergie-10-aug-2001.xml_0010D
+47 gu-tax-threat-08-aug-2001.xml_0010E
+48 gu-telewest-10-aug-2001.xml_0010F
+49 gu-vodafone-10-aug-2001.xml_00110
+50 gu-w&d-10-aug-2001.xml_00111
+51 gu-whitbread-10-aug-2001.xml_00112
+52 guardian-it-10-aug-2001.xml_00113
+53 in-GKN-10-aug-2001.xml_00114
+54 in-GKN-citywire-10-aug-2001.xml_00115
+55 in-airlines-08-aug-2001.xml_00116
+56 in-airtours-citywire-9-aug-2001.xml_00117
+57 in-bayer-10-aug-2001.xml_00118
+58 in-equitable-08-aug-2001.xml_00119
+59 in-german-bank-10-aug-2001.xml_0011A
+60 in-guardian-it-10-aug-2001.xml_0011B
+61 in-oil-09-aug-2001.xml_0011C
+62 in-outlook-09-aug-2001.xml_0011D
+63 in-outlook-10-aug-2001.xml_0011E
+64 in-outlook-ba-04-aug-2001.xml_0011F
+65 in-reed-10-aug-2001.xml_00120
+66 in-rover-10-aug-2001.xml_00121
+67 in-scoot-10-aug-2001.xml_00122
+68 in-shell-cirywire-03-aug-2001.xml_00123
+69 in-tesco-citywire-07-aug-2001.xml_00124
+70 in-whitbread-10-aug-2001.xml_00125
+Number of docs for application: 23
+1 ft-BT-07-aug-2001.xml_000C9
+2 ft-BT-briefing-02-aug-2001.xml_000CA
+3 ft-BT-loop-01-aug-2001.xml_000CB
+4 ft-GKN-09-aug-2001.xml_000CC
+5 ft-SSL-10-aug-2001.xml_000CD
+6 ft-WestLB-BT-05-aug-2001.xml_000CE
+7 ft-airlines-27-jul-2001.xml_000CF
+8 ft-airtours-08-aug-2001.xml_000D0
+9 ft-bank-of-england-02-aug-2001.xml_000D1
+10 ft-bank-of-uk-08-Aug-2001.xml_000D2
+11 ft-bmi-09-may-2001.xml_000D3
+12 ft-bmi-25-feb-2001.xml_000D4
+13 ft-bmi-airline-07-aug-2001.xml_000D5
+14 ft-bt-03-aug-2001.xml_000D6
+15 ft-bt-26-jul-2001.xml_000D7
+16 ft-bt-at&t-01-jul-2001.xml_000D8
+17 ft-bt-wireless-09-jul-2001.xml_000D9
+18 ft-claims-direct-10-aug-2001.xml_000DA
+19 ft-commerzbank-10-aug-2001.xml_000DB
+20 ft-deutsche-10-aug-2001.xml_000DC
+21 ft-deutsche-BT-01-aug-2001.xml_000DD
+22 ft-equitable-07-auf-2001.xml_000DE
+23 ft-equitable-09-aug-2001.xml_000DF
+
+18-Nov-2015 17:10:06: 
+Training starts.
+
+18-Nov-2015 17:10:06: Multi to binary conversion.
+18-Nov-2015 17:10:06: The learners: PAUM
+18-Nov-2015 17:10:07: The number of classes in dataset: 12
+18-Nov-2015 17:10:07: total Number of classes for learning is 12
+18-Nov-2015 17:10:07: One against others for multi to binary class conversion.
+18-Nov-2015 17:10:08: Training time for class 1: 1569ms
+18-Nov-2015 17:10:10: Training time for class 2: 1500ms
+18-Nov-2015 17:10:10: Training time for class 3: 399ms
+18-Nov-2015 17:10:11: Training time for class 4: 211ms
+18-Nov-2015 17:10:11: Training time for class 5: 730ms
+18-Nov-2015 17:10:12: Training time for class 6: 766ms
+18-Nov-2015 17:10:13: Training time for class 7: 1030ms
+18-Nov-2015 17:10:14: Training time for class 8: 861ms
+18-Nov-2015 17:10:15: Training time for class 9: 773ms
+18-Nov-2015 17:10:15: Training time for class 10: 326ms
+18-Nov-2015 17:10:15: Training time for class 11: 314ms
+18-Nov-2015 17:10:16: Training time for class 12: 256ms
+18-Nov-2015 17:10:18: 
+Application starts.
+18-Nov-2015 17:10:18: Multi to binary conversion.
+18-Nov-2015 17:10:18: The learners: PAUM
+18-Nov-2015 17:10:18: One against others for multi to binary class conversion.
+Number of classes in model: 12
+18-Nov-2015 17:10:18: Application time for class: 139ms
+18-Nov-2015 17:10:18: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=627
+  (correct, partialCorrect, spurious, missing)= (134.0, 17.0, 19.0, 14.0);  (precision, recall, F1)= (0.7882353, 0.8121212, 0.8);  Lenient: (0.8882353, 0.91515154, 0.90149254)
+1 LabelName=location, number of instances=514
+  (correct, partialCorrect, spurious, missing)= (114.0, 4.0, 23.0, 8.0);  (precision, recall, F1)= (0.80851066, 0.9047619, 0.85393256);  Lenient: (0.83687943, 0.93650794, 0.8838951)
+2 LabelName=money, number of instances=360
+  (correct, partialCorrect, spurious, missing)= (119.0, 15.0, 10.0, 3.0);  (precision, recall, F1)= (0.8263889, 0.8686131, 0.846975);  Lenient: (0.9305556, 0.9781022, 0.95373666)
+3 LabelName=organization, number of instances=1039
+  (correct, partialCorrect, spurious, missing)= (328.0, 19.0, 33.0, 48.0);  (precision, recall, F1)= (0.86315787, 0.8303797, 0.8464516);  Lenient: (0.9131579, 0.87848103, 0.89548385)
+4 LabelName=percent, number of instances=257
+  (correct, partialCorrect, spurious, missing)= (55.0, 1.0, 1.0, 1.0);  (precision, recall, F1)= (0.9649123, 0.9649123, 0.9649123);  Lenient: (0.98245615, 0.98245615, 0.98245615)
+5 LabelName=person, number of instances=289
+  (correct, partialCorrect, spurious, missing)= (49.0, 0.0, 14.0, 7.0);  (precision, recall, F1)= (0.7777778, 0.875, 0.8235294);  Lenient: (0.7777778, 0.875, 0.8235294)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (799.0, 56.0, 100.0, 81.0);  (precision, recall, F1)= (0.83664924, 0.85363245, 0.8450556);  Lenient: (0.89528793, 0.91346157, 0.9042835)
+
+18-Nov-2015 17:10:18: 
+*** Fold 2
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_000C9
+2 ft-BT-briefing-02-aug-2001.xml_000CA
+3 ft-BT-loop-01-aug-2001.xml_000CB
+4 ft-GKN-09-aug-2001.xml_000CC
+5 ft-SSL-10-aug-2001.xml_000CD
+6 ft-WestLB-BT-05-aug-2001.xml_000CE
+7 ft-airlines-27-jul-2001.xml_000CF
+8 ft-airtours-08-aug-2001.xml_000D0
+9 ft-bank-of-england-02-aug-2001.xml_000D1
+10 ft-bank-of-uk-08-Aug-2001.xml_000D2
+11 ft-bmi-09-may-2001.xml_000D3
+12 ft-bmi-25-feb-2001.xml_000D4
+13 ft-bmi-airline-07-aug-2001.xml_000D5
+14 ft-bt-03-aug-2001.xml_000D6
+15 ft-bt-26-jul-2001.xml_000D7
+16 ft-bt-at&t-01-jul-2001.xml_000D8
+17 ft-bt-wireless-09-jul-2001.xml_000D9
+18 ft-claims-direct-10-aug-2001.xml_000DA
+19 ft-commerzbank-10-aug-2001.xml_000DB
+20 ft-deutsche-10-aug-2001.xml_000DC
+21 ft-deutsche-BT-01-aug-2001.xml_000DD
+22 ft-equitable-07-auf-2001.xml_000DE
+23 ft-equitable-09-aug-2001.xml_000DF
+24 gu-bp-profit-08-aug-2001.xml_000F7
+25 gu-city-briefing-10-aug-2001.xml_000F8
+26 gu-city-briefing-8-aug-2001.xml_000F9
+27 gu-city-diary-10-aug-2001.xml_000FA
+28 gu-claims-direct-10-aug-2001.xml_000FB
+29 gu-ecb-10-aug-2001.xml_000FC
+30 gu-equitable-08-aug-2001.xml_000FD
+31 gu-fsa-10-aug-2001.xml_000FE
+32 gu-gap-10-aug-2001.xml_000FF
+33 gu-king-10-aug-2001.xml_00100
+34 gu-m&s-10-aug-2001.xml_00101
+35 gu-manuf-jobs-07-aug-2001.xml_00102
+36 gu-manuf-recession-07-aug-2001.xml_00103
+37 gu-recession-04-aug-2001.xml_00104
+38 gu-recession-6-aug-2001.xml_00105
+39 gu-reed-10-aug-2001.xml_00106
+40 gu-ryanair-08-aug-2001.xml_00107
+41 gu-ryanair.xml_00108
+42 gu-scoot-10-aug-2001.xml_00109
+43 gu-signet-10-aug-2001.xml_0010A
+44 gu-singtel-10-aug-2001.xml_0010B
+45 gu-swedish-10-aug-2001.xml_0010C
+46 gu-synergie-10-aug-2001.xml_0010D
+47 gu-tax-threat-08-aug-2001.xml_0010E
+48 gu-telewest-10-aug-2001.xml_0010F
+49 gu-vodafone-10-aug-2001.xml_00110
+50 gu-w&d-10-aug-2001.xml_00111
+51 gu-whitbread-10-aug-2001.xml_00112
+52 guardian-it-10-aug-2001.xml_00113
+53 in-GKN-10-aug-2001.xml_00114
+54 in-GKN-citywire-10-aug-2001.xml_00115
+55 in-airlines-08-aug-2001.xml_00116
+56 in-airtours-citywire-9-aug-2001.xml_00117
+57 in-bayer-10-aug-2001.xml_00118
+58 in-equitable-08-aug-2001.xml_00119
+59 in-german-bank-10-aug-2001.xml_0011A
+60 in-guardian-it-10-aug-2001.xml_0011B
+61 in-oil-09-aug-2001.xml_0011C
+62 in-outlook-09-aug-2001.xml_0011D
+63 in-outlook-10-aug-2001.xml_0011E
+64 in-outlook-ba-04-aug-2001.xml_0011F
+65 in-reed-10-aug-2001.xml_00120
+66 in-rover-10-aug-2001.xml_00121
+67 in-scoot-10-aug-2001.xml_00122
+68 in-shell-cirywire-03-aug-2001.xml_00123
+69 in-tesco-citywire-07-aug-2001.xml_00124
+70 in-whitbread-10-aug-2001.xml_00125
+Number of docs for application: 23
+1 ft-house-price-08-aug-2001.xml_000E0
+2 ft-industrial-gloom-07-Aug-2001.xml_000E1
+3 ft-merrill-lynch-10-aug-2001.xml_000E2
+4 ft-mortgage-lenders-04-aug-2001.xml_000E3
+5 ft-pirelli-10-aug-2001.xml_000E4
+6 ft-us-air-10-aug-2001.xml_000E5
+7 ft-whitbread-10-aug-2001.xml_000E6
+8 gu-30000-job-08-aug-2001.xml_000E7
+9 gu-Am-Brit-4-aug-2001.xml_000E8
+10 gu-BA-Atlantic-4-aug-2001.xml_000E9
+11 gu-BA-profit-06-aug-2001.xml_000EA
+12 gu-BASF-08-aug-2001.xml_000EB
+13 gu-BOS-08-aug-2001.xml_000EC
+14 gu-BP-08-aug-2001.xml_000ED
+15 gu-ECB-03-aug-2001.xml_000EE
+16 gu-ECB-07-aug-2001.xml_000EF
+17 gu-Ford-08-aug-2001.xml_000F0
+18 gu-G8-3-aug-2001.xml_000F1
+19 gu-GKN-10-aug-2001.xml_000F2
+20 gu-airlines-DVT-05-aug-2001.xml_000F3
+21 gu-analysis-10-aug-2001.xml_000F4
+22 gu-bank-of-england-08-aug-2001.xml_000F5
+23 gu-bayer-10-aug-2001.xml_000F6
+
+18-Nov-2015 17:10:25: 
+Training starts.
+
+18-Nov-2015 17:10:25: Multi to binary conversion.
+18-Nov-2015 17:10:25: The learners: PAUM
+18-Nov-2015 17:10:25: The number of classes in dataset: 12
+18-Nov-2015 17:10:25: total Number of classes for learning is 12
+18-Nov-2015 17:10:25: One against others for multi to binary class conversion.
+18-Nov-2015 17:10:27: Training time for class 1: 1496ms
+18-Nov-2015 17:10:28: Training time for class 2: 1374ms
+18-Nov-2015 17:10:29: Training time for class 3: 1057ms
+18-Nov-2015 17:10:30: Training time for class 4: 1030ms
+18-Nov-2015 17:10:31: Training time for class 5: 796ms
+18-Nov-2015 17:10:32: Training time for class 6: 370ms
+18-Nov-2015 17:10:32: Training time for class 7: 570ms
+18-Nov-2015 17:10:33: Training time for class 8: 818ms
+18-Nov-2015 17:10:33: Training time for class 9: 321ms
+18-Nov-2015 17:10:34: Training time for class 10: 389ms
+18-Nov-2015 17:10:34: Training time for class 11: 557ms
+18-Nov-2015 17:10:35: Training time for class 12: 236ms
+18-Nov-2015 17:10:38: 
+Application starts.
+18-Nov-2015 17:10:38: Multi to binary conversion.
+18-Nov-2015 17:10:38: The learners: PAUM
+18-Nov-2015 17:10:38: One against others for multi to binary class conversion.
+Number of classes in model: 12
+18-Nov-2015 17:10:38: Application time for class: 199ms
+18-Nov-2015 17:10:38: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=588
+  (correct, partialCorrect, spurious, missing)= (167.0, 17.0, 29.0, 20.0);  (precision, recall, F1)= (0.78403753, 0.8186275, 0.8009593);  Lenient: (0.86384976, 0.9019608, 0.88249403)
+1 LabelName=location, number of instances=486
+  (correct, partialCorrect, spurious, missing)= (124.0, 4.0, 19.0, 26.0);  (precision, recall, F1)= (0.8435374, 0.8051948, 0.82392025);  Lenient: (0.8707483, 0.83116883, 0.8504983)
+2 LabelName=money, number of instances=409
+  (correct, partialCorrect, spurious, missing)= (76.0, 1.0, 6.0, 11.0);  (precision, recall, F1)= (0.91566265, 0.8636364, 0.8888889);  Lenient: (0.92771083, 0.875, 0.9005848)
+3 LabelName=organization, number of instances=1161
+  (correct, partialCorrect, spurious, missing)= (231.0, 7.0, 79.0, 35.0);  (precision, recall, F1)= (0.7287066, 0.84615386, 0.78305084);  Lenient: (0.7507886, 0.8717949, 0.8067797)
+4 LabelName=percent, number of instances=245
+  (correct, partialCorrect, spurious, missing)= (64.0, 2.0, 1.0, 3.0);  (precision, recall, F1)= (0.95522386, 0.92753625, 0.9411765);  Lenient: (0.98507464, 0.95652175, 0.9705882)
+5 LabelName=person, number of instances=266
+  (correct, partialCorrect, spurious, missing)= (69.0, 1.0, 6.0, 9.0);  (precision, recall, F1)= (0.90789473, 0.87341774, 0.8903226);  Lenient: (0.92105263, 0.886076, 0.9032258)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (731.0, 32.0, 140.0, 104.0);  (precision, recall, F1)= (0.8095238, 0.84313726, 0.8259887);  Lenient: (0.8449612, 0.8800461, 0.8621469)
+
+18-Nov-2015 17:10:38: 
+*** Fold 3
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_000C9
+2 ft-BT-briefing-02-aug-2001.xml_000CA
+3 ft-BT-loop-01-aug-2001.xml_000CB
+4 ft-GKN-09-aug-2001.xml_000CC
+5 ft-SSL-10-aug-2001.xml_000CD
+6 ft-WestLB-BT-05-aug-2001.xml_000CE
+7 ft-airlines-27-jul-2001.xml_000CF
+8 ft-airtours-08-aug-2001.xml_000D0
+9 ft-bank-of-england-02-aug-2001.xml_000D1
+10 ft-bank-of-uk-08-Aug-2001.xml_000D2
+11 ft-bmi-09-may-2001.xml_000D3
+12 ft-bmi-25-feb-2001.xml_000D4
+13 ft-bmi-airline-07-aug-2001.xml_000D5
+14 ft-bt-03-aug-2001.xml_000D6
+15 ft-bt-26-jul-2001.xml_000D7
+16 ft-bt-at&t-01-jul-2001.xml_000D8
+17 ft-bt-wireless-09-jul-2001.xml_000D9
+18 ft-claims-direct-10-aug-2001.xml_000DA
+19 ft-commerzbank-10-aug-2001.xml_000DB
+20 ft-deutsche-10-aug-2001.xml_000DC
+21 ft-deutsche-BT-01-aug-2001.xml_000DD
+22 ft-equitable-07-auf-2001.xml_000DE
+23 ft-equitable-09-aug-2001.xml_000DF
+24 ft-house-price-08-aug-2001.xml_000E0
+25 ft-industrial-gloom-07-Aug-2001.xml_000E1
+26 ft-merrill-lynch-10-aug-2001.xml_000E2
+27 ft-mortgage-lenders-04-aug-2001.xml_000E3
+28 ft-pirelli-10-aug-2001.xml_000E4
+29 ft-us-air-10-aug-2001.xml_000E5
+30 ft-whitbread-10-aug-2001.xml_000E6
+31 gu-30000-job-08-aug-2001.xml_000E7
+32 gu-Am-Brit-4-aug-2001.xml_000E8
+33 gu-BA-Atlantic-4-aug-2001.xml_000E9
+34 gu-BA-profit-06-aug-2001.xml_000EA
+35 gu-BASF-08-aug-2001.xml_000EB
+36 gu-BOS-08-aug-2001.xml_000EC
+37 gu-BP-08-aug-2001.xml_000ED
+38 gu-ECB-03-aug-2001.xml_000EE
+39 gu-ECB-07-aug-2001.xml_000EF
+40 gu-Ford-08-aug-2001.xml_000F0
+41 gu-G8-3-aug-2001.xml_000F1
+42 gu-GKN-10-aug-2001.xml_000F2
+43 gu-airlines-DVT-05-aug-2001.xml_000F3
+44 gu-analysis-10-aug-2001.xml_000F4
+45 gu-bank-of-england-08-aug-2001.xml_000F5
+46 gu-bayer-10-aug-2001.xml_000F6
+47 gu-tax-threat-08-aug-2001.xml_0010E
+48 gu-telewest-10-aug-2001.xml_0010F
+49 gu-vodafone-10-aug-2001.xml_00110
+50 gu-w&d-10-aug-2001.xml_00111
+51 gu-whitbread-10-aug-2001.xml_00112
+52 guardian-it-10-aug-2001.xml_00113
+53 in-GKN-10-aug-2001.xml_00114
+54 in-GKN-citywire-10-aug-2001.xml_00115
+55 in-airlines-08-aug-2001.xml_00116
+56 in-airtours-citywire-9-aug-2001.xml_00117
+57 in-bayer-10-aug-2001.xml_00118
+58 in-equitable-08-aug-2001.xml_00119
+59 in-german-bank-10-aug-2001.xml_0011A
+60 in-guardian-it-10-aug-2001.xml_0011B
+61 in-oil-09-aug-2001.xml_0011C
+62 in-outlook-09-aug-2001.xml_0011D
+63 in-outlook-10-aug-2001.xml_0011E
+64 in-outlook-ba-04-aug-2001.xml_0011F
+65 in-reed-10-aug-2001.xml_00120
+66 in-rover-10-aug-2001.xml_00121
+67 in-scoot-10-aug-2001.xml_00122
+68 in-shell-cirywire-03-aug-2001.xml_00123
+69 in-tesco-citywire-07-aug-2001.xml_00124
+70 in-whitbread-10-aug-2001.xml_00125
+Number of docs for application: 23
+1 gu-bp-profit-08-aug-2001.xml_000F7
+2 gu-city-briefing-10-aug-2001.xml_000F8
+3 gu-city-briefing-8-aug-2001.xml_000F9
+4 gu-city-diary-10-aug-2001.xml_000FA
+5 gu-claims-direct-10-aug-2001.xml_000FB
+6 gu-ecb-10-aug-2001.xml_000FC
+7 gu-equitable-08-aug-2001.xml_000FD
+8 gu-fsa-10-aug-2001.xml_000FE
+9 gu-gap-10-aug-2001.xml_000FF
+10 gu-king-10-aug-2001.xml_00100
+11 gu-m&s-10-aug-2001.xml_00101
+12 gu-manuf-jobs-07-aug-2001.xml_00102
+13 gu-manuf-recession-07-aug-2001.xml_00103
+14 gu-recession-04-aug-2001.xml_00104
+15 gu-recession-6-aug-2001.xml_00105
+16 gu-reed-10-aug-2001.xml_00106
+17 gu-ryanair-08-aug-2001.xml_00107
+18 gu-ryanair.xml_00108
+19 gu-scoot-10-aug-2001.xml_00109
+20 gu-signet-10-aug-2001.xml_0010A
+21 gu-singtel-10-aug-2001.xml_0010B
+22 gu-swedish-10-aug-2001.xml_0010C
+23 gu-synergie-10-aug-2001.xml_0010D
+
+18-Nov-2015 17:10:45: 
+Training starts.
+
+18-Nov-2015 17:10:45: Multi to binary conversion.
+18-Nov-2015 17:10:45: The learners: PAUM
+18-Nov-2015 17:10:46: The number of classes in dataset: 12
+18-Nov-2015 17:10:46: total Number of classes for learning is 12
+18-Nov-2015 17:10:46: One against others for multi to binary class conversion.
+18-Nov-2015 17:10:47: Training time for class 1: 1361ms
+18-Nov-2015 17:10:49: Training time for class 2: 1444ms
+18-Nov-2015 17:10:49: Training time for class 3: 737ms
+18-Nov-2015 17:10:50: Training time for class 4: 930ms
+18-Nov-2015 17:10:51: Training time for class 5: 764ms
+18-Nov-2015 17:10:51: Training time for class 6: 422ms
+18-Nov-2015 17:10:52: Training time for class 7: 667ms
+18-Nov-2015 17:10:53: Training time for class 8: 731ms
+18-Nov-2015 17:10:53: Training time for class 9: 471ms
+18-Nov-2015 17:10:54: Training time for class 10: 293ms
+18-Nov-2015 17:10:54: Training time for class 11: 433ms
+18-Nov-2015 17:10:54: Training time for class 12: 223ms
+18-Nov-2015 17:10:56: 
+Application starts.
+18-Nov-2015 17:10:56: Multi to binary conversion.
+18-Nov-2015 17:10:56: The learners: PAUM
+18-Nov-2015 17:10:56: One against others for multi to binary class conversion.
+Number of classes in model: 12
+18-Nov-2015 17:10:56: Application time for class: 110ms
+18-Nov-2015 17:10:56: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=607
+  (correct, partialCorrect, spurious, missing)= (152.0, 20.0, 4.0, 13.0);  (precision, recall, F1)= (0.8636364, 0.8216216, 0.84210527);  Lenient: (0.97727275, 0.9297297, 0.9529086)
+1 LabelName=location, number of instances=509
+  (correct, partialCorrect, spurious, missing)= (102.0, 0.0, 22.0, 29.0);  (precision, recall, F1)= (0.82258064, 0.77862597, 0.8000001);  Lenient: (0.82258064, 0.77862597, 0.8000001)
+2 LabelName=money, number of instances=417
+  (correct, partialCorrect, spurious, missing)= (60.0, 4.0, 1.0, 16.0);  (precision, recall, F1)= (0.9230769, 0.75, 0.82758623);  Lenient: (0.9846154, 0.8, 0.8827586)
+3 LabelName=organization, number of instances=1173
+  (correct, partialCorrect, spurious, missing)= (228.0, 4.0, 71.0, 29.0);  (precision, recall, F1)= (0.75247526, 0.87356323, 0.80851066);  Lenient: (0.76567656, 0.8888889, 0.8226951)
+4 LabelName=percent, number of instances=232
+  (correct, partialCorrect, spurious, missing)= (81.0, 0.0, 1.0, 1.0);  (precision, recall, F1)= (0.9878049, 0.9878049, 0.9878049);  Lenient: (0.9878049, 0.9878049, 0.9878049)
+5 LabelName=person, number of instances=250
+  (correct, partialCorrect, spurious, missing)= (83.0, 0.0, 6.0, 12.0);  (precision, recall, F1)= (0.9325843, 0.8736842, 0.90217394);  Lenient: (0.9325843, 0.8736842, 0.90217394)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (706.0, 28.0, 105.0, 100.0);  (precision, recall, F1)= (0.84147793, 0.8465228, 0.8439929);  Lenient: (0.874851, 0.8800959, 0.8774656)
+
+18-Nov-2015 17:10:56: 
+*** Fold 4
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_000C9
+2 ft-BT-briefing-02-aug-2001.xml_000CA
+3 ft-BT-loop-01-aug-2001.xml_000CB
+4 ft-GKN-09-aug-2001.xml_000CC
+5 ft-SSL-10-aug-2001.xml_000CD
+6 ft-WestLB-BT-05-aug-2001.xml_000CE
+7 ft-airlines-27-jul-2001.xml_000CF
+8 ft-airtours-08-aug-2001.xml_000D0
+9 ft-bank-of-england-02-aug-2001.xml_000D1
+10 ft-bank-of-uk-08-Aug-2001.xml_000D2
+11 ft-bmi-09-may-2001.xml_000D3
+12 ft-bmi-25-feb-2001.xml_000D4
+13 ft-bmi-airline-07-aug-2001.xml_000D5
+14 ft-bt-03-aug-2001.xml_000D6
+15 ft-bt-26-jul-2001.xml_000D7
+16 ft-bt-at&t-01-jul-2001.xml_000D8
+17 ft-bt-wireless-09-jul-2001.xml_000D9
+18 ft-claims-direct-10-aug-2001.xml_000DA
+19 ft-commerzbank-10-aug-2001.xml_000DB
+20 ft-deutsche-10-aug-2001.xml_000DC
+21 ft-deutsche-BT-01-aug-2001.xml_000DD
+22 ft-equitable-07-auf-2001.xml_000DE
+23 ft-equitable-09-aug-2001.xml_000DF
+24 ft-house-price-08-aug-2001.xml_000E0
+25 ft-industrial-gloom-07-Aug-2001.xml_000E1
+26 ft-merrill-lynch-10-aug-2001.xml_000E2
+27 ft-mortgage-lenders-04-aug-2001.xml_000E3
+28 ft-pirelli-10-aug-2001.xml_000E4
+29 ft-us-air-10-aug-2001.xml_000E5
+30 ft-whitbread-10-aug-2001.xml_000E6
+31 gu-30000-job-08-aug-2001.xml_000E7
+32 gu-Am-Brit-4-aug-2001.xml_000E8
+33 gu-BA-Atlantic-4-aug-2001.xml_000E9
+34 gu-BA-profit-06-aug-2001.xml_000EA
+35 gu-BASF-08-aug-2001.xml_000EB
+36 gu-BOS-08-aug-2001.xml_000EC
+37 gu-BP-08-aug-2001.xml_000ED
+38 gu-ECB-03-aug-2001.xml_000EE
+39 gu-ECB-07-aug-2001.xml_000EF
+40 gu-Ford-08-aug-2001.xml_000F0
+41 gu-G8-3-aug-2001.xml_000F1
+42 gu-GKN-10-aug-2001.xml_000F2
+43 gu-airlines-DVT-05-aug-2001.xml_000F3
+44 gu-analysis-10-aug-2001.xml_000F4
+45 gu-bank-of-england-08-aug-2001.xml_000F5
+46 gu-bayer-10-aug-2001.xml_000F6
+47 gu-bp-profit-08-aug-2001.xml_000F7
+48 gu-city-briefing-10-aug-2001.xml_000F8
+49 gu-city-briefing-8-aug-2001.xml_000F9
+50 gu-city-diary-10-aug-2001.xml_000FA
+51 gu-claims-direct-10-aug-2001.xml_000FB
+52 gu-ecb-10-aug-2001.xml_000FC
+53 gu-equitable-08-aug-2001.xml_000FD
+54 gu-fsa-10-aug-2001.xml_000FE
+55 gu-gap-10-aug-2001.xml_000FF
+56 gu-king-10-aug-2001.xml_00100
+57 gu-m&s-10-aug-2001.xml_00101
+58 gu-manuf-jobs-07-aug-2001.xml_00102
+59 gu-manuf-recession-07-aug-2001.xml_00103
+60 gu-recession-04-aug-2001.xml_00104
+61 gu-recession-6-aug-2001.xml_00105
+62 gu-reed-10-aug-2001.xml_00106
+63 gu-ryanair-08-aug-2001.xml_00107
+64 gu-ryanair.xml_00108
+65 gu-scoot-10-aug-2001.xml_00109
+66 gu-signet-10-aug-2001.xml_0010A
+67 gu-singtel-10-aug-2001.xml_0010B
+68 gu-swedish-10-aug-2001.xml_0010C
+69 gu-synergie-10-aug-2001.xml_0010D
+70 in-whitbread-10-aug-2001.xml_00125
+Number of docs for application: 23
+1 gu-tax-threat-08-aug-2001.xml_0010E
+2 gu-telewest-10-aug-2001.xml_0010F
+3 gu-vodafone-10-aug-2001.xml_00110
+4 gu-w&d-10-aug-2001.xml_00111
+5 gu-whitbread-10-aug-2001.xml_00112
+6 guardian-it-10-aug-2001.xml_00113
+7 in-GKN-10-aug-2001.xml_00114
+8 in-GKN-citywire-10-aug-2001.xml_00115
+9 in-airlines-08-aug-2001.xml_00116
+10 in-airtours-citywire-9-aug-2001.xml_00117
+11 in-bayer-10-aug-2001.xml_00118
+12 in-equitable-08-aug-2001.xml_00119
+13 in-german-bank-10-aug-2001.xml_0011A
+14 in-guardian-it-10-aug-2001.xml_0011B
+15 in-oil-09-aug-2001.xml_0011C
+16 in-outlook-09-aug-2001.xml_0011D
+17 in-outlook-10-aug-2001.xml_0011E
+18 in-outlook-ba-04-aug-2001.xml_0011F
+19 in-reed-10-aug-2001.xml_00120
+20 in-rover-10-aug-2001.xml_00121
+21 in-scoot-10-aug-2001.xml_00122
+22 in-shell-cirywire-03-aug-2001.xml_00123
+23 in-tesco-citywire-07-aug-2001.xml_00124
+
+18-Nov-2015 17:11:01: 
+Training starts.
+
+18-Nov-2015 17:11:01: Multi to binary conversion.
+18-Nov-2015 17:11:01: The learners: PAUM
+18-Nov-2015 17:11:01: The number of classes in dataset: 12
+18-Nov-2015 17:11:01: total Number of classes for learning is 12
+18-Nov-2015 17:11:01: One against others for multi to binary class conversion.
+18-Nov-2015 17:11:02: Training time for class 1: 998ms
+18-Nov-2015 17:11:04: Training time for class 2: 1108ms
+18-Nov-2015 17:11:04: Training time for class 3: 841ms
+18-Nov-2015 17:11:05: Training time for class 4: 695ms
+18-Nov-2015 17:11:06: Training time for class 5: 504ms
+18-Nov-2015 17:11:06: Training time for class 6: 389ms
+18-Nov-2015 17:11:07: Training time for class 7: 646ms
+18-Nov-2015 17:11:07: Training time for class 8: 539ms
+18-Nov-2015 17:11:08: Training time for class 9: 352ms
+18-Nov-2015 17:11:08: Training time for class 10: 402ms
+18-Nov-2015 17:11:08: Training time for class 11: 246ms
+18-Nov-2015 17:11:08: Training time for class 12: 196ms
+18-Nov-2015 17:11:11: 
+Application starts.
+18-Nov-2015 17:11:11: Multi to binary conversion.
+18-Nov-2015 17:11:11: The learners: PAUM
+18-Nov-2015 17:11:11: One against others for multi to binary class conversion.
+Number of classes in model: 12
+18-Nov-2015 17:11:11: Application time for class: 122ms
+18-Nov-2015 17:11:11: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=556
+  (correct, partialCorrect, spurious, missing)= (197.0, 11.0, 16.0, 28.0);  (precision, recall, F1)= (0.87946427, 0.83474576, 0.8565217);  Lenient: (0.9285714, 0.88135594, 0.90434784)
+1 LabelName=location, number of instances=417
+  (correct, partialCorrect, spurious, missing)= (168.0, 3.0, 31.0, 52.0);  (precision, recall, F1)= (0.83168316, 0.75336325, 0.79058826);  Lenient: (0.84653467, 0.76681614, 0.80470586)
+2 LabelName=money, number of instances=309
+  (correct, partialCorrect, spurious, missing)= (161.0, 6.0, 1.0, 21.0);  (precision, recall, F1)= (0.9583333, 0.85638297, 0.90449435);  Lenient: (0.99404764, 0.88829786, 0.93820226)
+3 LabelName=organization, number of instances=943
+  (correct, partialCorrect, spurious, missing)= (397.0, 18.0, 122.0, 76.0);  (precision, recall, F1)= (0.7392924, 0.808554, 0.7723736);  Lenient: (0.7728119, 0.84521383, 0.8073929)
+4 LabelName=percent, number of instances=213
+  (correct, partialCorrect, spurious, missing)= (95.0, 2.0, 0.0, 4.0);  (precision, recall, F1)= (0.97938144, 0.9405941, 0.959596);  Lenient: (1.0, 0.96039605, 0.97979796)
+5 LabelName=person, number of instances=231
+  (correct, partialCorrect, spurious, missing)= (90.0, 2.0, 12.0, 22.0);  (precision, recall, F1)= (0.86538464, 0.7894737, 0.8256881);  Lenient: (0.88461536, 0.80701756, 0.8440367)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (1108.0, 42.0, 182.0, 203.0);  (precision, recall, F1)= (0.8318318, 0.8189209, 0.8253258);  Lenient: (0.8633634, 0.84996307, 0.85661083)
+
+18-Nov-2015 17:11:11: 
+*** Averaged results for each label over 4 runs as:
+
+Results of single label:
+0 LabelName=date, number of instances=594
+  (correct, partialCorrect, spurious, missing)= (162.5, 16.25, 17.0, 18.75);  (precision, recall, F1)= (0.82884336, 0.821779, 0.8248966);  Lenient: (0.9144823, 0.9070495, 0.91031075)
+1 LabelName=location, number of instances=481
+  (correct, partialCorrect, spurious, missing)= (127.0, 2.75, 23.75, 28.75);  (precision, recall, F1)= (0.82657796, 0.81048644, 0.8171103);  Lenient: (0.84418577, 0.82827973, 0.8347748)
+2 LabelName=money, number of instances=373
+  (correct, partialCorrect, spurious, missing)= (104.0, 6.5, 4.5, 12.75);  (precision, recall, F1)= (0.90586543, 0.83465815, 0.8669861);  Lenient: (0.95923233, 0.88535, 0.9188206)
+3 LabelName=organization, number of instances=1079
+  (correct, partialCorrect, spurious, missing)= (296.0, 12.0, 76.25, 47.0);  (precision, recall, F1)= (0.77090806, 0.8396627, 0.8025967);  Lenient: (0.80060875, 0.87109464, 0.83308786)
+4 LabelName=percent, number of instances=236
+  (correct, partialCorrect, spurious, missing)= (73.75, 1.25, 0.75, 2.25);  (precision, recall, F1)= (0.9718306, 0.9552119, 0.9633724);  Lenient: (0.9888339, 0.9717947, 0.9801618)
+5 LabelName=person, number of instances=259
+  (correct, partialCorrect, spurious, missing)= (72.75, 0.75, 9.5, 12.5);  (precision, recall, F1)= (0.87091035, 0.85289395, 0.8604285);  Lenient: (0.8790075, 0.8604444, 0.8682414)
+
+Overall results as:
+  (correct, partialCorrect, spurious, missing)= (836.0, 39.5, 131.75, 122.0);  (precision, recall, F1)= (0.8298707, 0.84055334, 0.83509076);  Lenient: (0.8696159, 0.8808917, 0.8751267)
+
+18-Nov-2015 17:11:11: This learning session finished!.
+18-Nov-2015 18:12:03: 
+*** A new run starts.
+18-Nov-2015 18:12:03: 
+The execution time (pre-processing the first document): Wed Nov 18 18:12:03 GMT 2015
+18-Nov-2015 18:12:03: The learning start at Wed Nov 18 18:12:03 GMT 2015
+18-Nov-2015 18:12:03: The number of documents in dataset: 61
+18-Nov-2015 18:12:04: ** Training mode:
+18-Nov-2015 18:12:04: 
+Training starts.
+
+18-Nov-2015 18:12:04: Multi to binary conversion.
+18-Nov-2015 18:12:04: The learners: PAUM
+18-Nov-2015 18:12:04: The number of classes in dataset: 0
+18-Nov-2015 18:12:04: total Number of classes for learning is 0
+18-Nov-2015 18:12:04: One against others for multi to binary class conversion.
+18-Nov-2015 18:12:04: This learning session finished!.
+18-Nov-2015 18:13:53: 
+*** A new run starts.
+18-Nov-2015 18:13:53: 
+The execution time (pre-processing the first document): Wed Nov 18 18:13:53 GMT 2015
+18-Nov-2015 18:13:53: ** Application mode for document from 0 to 1(not included):
+18-Nov-2015 18:13:53: Creating temp directory for application-mode files
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 1ms
+18-Nov-2015 18:13:53: ** Application mode for document from 1 to 2(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 1ms
+18-Nov-2015 18:13:53: ** Application mode for document from 2 to 3(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 3 to 4(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 4 to 5(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 5 to 6(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 6 to 7(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 7 to 8(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 8 to 9(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 9 to 10(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 10 to 11(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 11 to 12(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 12 to 13(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 2ms
+18-Nov-2015 18:13:53: ** Application mode for document from 13 to 14(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 14 to 15(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 15 to 16(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 16 to 17(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 17 to 18(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 18 to 19(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 19 to 20(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 20 to 21(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 21 to 22(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 22 to 23(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 23 to 24(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 24 to 25(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 25 to 26(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 26 to 27(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 27 to 28(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 28 to 29(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 29 to 30(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 30 to 31(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: ** Application mode for document from 31 to 32(not included):
+18-Nov-2015 18:13:53: 
+Application starts.
+18-Nov-2015 18:13:53: Multi to binary conversion.
+18-Nov-2015 18:13:53: The learners: PAUM
+18-Nov-2015 18:13:53: One against others for multi to binary class conversion.
+Number of classes in model: 0
+18-Nov-2015 18:13:53: Application time for class: 0ms
+18-Nov-2015 18:13:53: The learning start at Wed Nov 18 18:13:53 GMT 2015
+18-Nov-2015 18:13:53: The number of documents in dataset: 32
+18-Nov-2015 18:13:53: This learning session finished!.
+18-Nov-2015 18:16:39: 
+*** A new run starts.
+18-Nov-2015 18:16:39: 
+The execution time (pre-processing the first document): Wed Nov 18 18:16:39 GMT 2015
+18-Nov-2015 18:16:39: The learning start at Wed Nov 18 18:16:39 GMT 2015
+18-Nov-2015 18:16:39: The number of documents in dataset: 61
+18-Nov-2015 18:16:39: ** Training mode:
+18-Nov-2015 18:16:39: 
+Training starts.
+
+18-Nov-2015 18:16:39: Multi to binary conversion.
+18-Nov-2015 18:16:39: The learners: PAUM
+18-Nov-2015 18:16:39: The number of classes in dataset: 0
+18-Nov-2015 18:16:39: total Number of classes for learning is 0
+18-Nov-2015 18:16:39: One against others for multi to binary class conversion.
+18-Nov-2015 18:16:39: This learning session finished!.
+07-Nov-2016 21:13:01: 
+
+*************************
+A new session for NLP learning is starting: 20161107_211301file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 30687334secs ago)The initiliased time of NLP learning: Mon Nov 07 21:13:01 GMT 2016
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+07-Nov-2016 21:15:57: 
+*** A new run starts.
+07-Nov-2016 21:15:57: 
+The execution time (pre-processing the first document): Mon Nov 07 21:15:57 GMT 2016
+07-Nov-2016 21:15:57: The learning start at Mon Nov 07 21:15:57 GMT 2016
+07-Nov-2016 21:15:57: The number of documents in dataset: 93
+07-Nov-2016 21:15:57: ** Evaluation mode:
+07-Nov-2016 21:15:57: K-fold evaluation: k=4
+07-Nov-2016 21:15:57: Kfold k=4, numDoc=93, len=23.
+07-Nov-2016 21:15:57: 
+*** Fold 1
+Number of docs for training: 70
+1 ft-house-price-08-aug-2001.xml_00023
+2 ft-industrial-gloom-07-Aug-2001.xml_00024
+3 ft-merrill-lynch-10-aug-2001.xml_00025
+4 ft-mortgage-lenders-04-aug-2001.xml_00026
+5 ft-pirelli-10-aug-2001.xml_00027
+6 ft-us-air-10-aug-2001.xml_00028
+7 ft-whitbread-10-aug-2001.xml_00029
+8 gu-30000-job-08-aug-2001.xml_0002A
+9 gu-Am-Brit-4-aug-2001.xml_0002B
+10 gu-BA-Atlantic-4-aug-2001.xml_0002C
+11 gu-BA-profit-06-aug-2001.xml_0002D
+12 gu-BASF-08-aug-2001.xml_0002E
+13 gu-BOS-08-aug-2001.xml_0002F
+14 gu-BP-08-aug-2001.xml_00030
+15 gu-ECB-03-aug-2001.xml_00031
+16 gu-ECB-07-aug-2001.xml_00032
+17 gu-Ford-08-aug-2001.xml_00033
+18 gu-G8-3-aug-2001.xml_00034
+19 gu-GKN-10-aug-2001.xml_00035
+20 gu-airlines-DVT-05-aug-2001.xml_00036
+21 gu-analysis-10-aug-2001.xml_00037
+22 gu-bank-of-england-08-aug-2001.xml_00038
+23 gu-bayer-10-aug-2001.xml_00039
+24 gu-bp-profit-08-aug-2001.xml_0003A
+25 gu-city-briefing-10-aug-2001.xml_0003B
+26 gu-city-briefing-8-aug-2001.xml_0003C
+27 gu-city-diary-10-aug-2001.xml_0003D
+28 gu-claims-direct-10-aug-2001.xml_0003E
+29 gu-ecb-10-aug-2001.xml_0003F
+30 gu-equitable-08-aug-2001.xml_00040
+31 gu-fsa-10-aug-2001.xml_00041
+32 gu-gap-10-aug-2001.xml_00042
+33 gu-king-10-aug-2001.xml_00043
+34 gu-m&s-10-aug-2001.xml_00044
+35 gu-manuf-jobs-07-aug-2001.xml_00045
+36 gu-manuf-recession-07-aug-2001.xml_00046
+37 gu-recession-04-aug-2001.xml_00047
+38 gu-recession-6-aug-2001.xml_00048
+39 gu-reed-10-aug-2001.xml_00049
+40 gu-ryanair-08-aug-2001.xml_0004A
+41 gu-ryanair.xml_0004B
+42 gu-scoot-10-aug-2001.xml_0004C
+43 gu-signet-10-aug-2001.xml_0004D
+44 gu-singtel-10-aug-2001.xml_0004E
+45 gu-swedish-10-aug-2001.xml_0004F
+46 gu-synergie-10-aug-2001.xml_00050
+47 gu-tax-threat-08-aug-2001.xml_00051
+48 gu-telewest-10-aug-2001.xml_00052
+49 gu-vodafone-10-aug-2001.xml_00053
+50 gu-w&d-10-aug-2001.xml_00054
+51 gu-whitbread-10-aug-2001.xml_00055
+52 guardian-it-10-aug-2001.xml_00056
+53 in-GKN-10-aug-2001.xml_00057
+54 in-GKN-citywire-10-aug-2001.xml_00058
+55 in-airlines-08-aug-2001.xml_00059
+56 in-airtours-citywire-9-aug-2001.xml_0005A
+57 in-bayer-10-aug-2001.xml_0005B
+58 in-equitable-08-aug-2001.xml_0005C
+59 in-german-bank-10-aug-2001.xml_0005D
+60 in-guardian-it-10-aug-2001.xml_0005E
+61 in-oil-09-aug-2001.xml_0005F
+62 in-outlook-09-aug-2001.xml_00060
+63 in-outlook-10-aug-2001.xml_00061
+64 in-outlook-ba-04-aug-2001.xml_00062
+65 in-reed-10-aug-2001.xml_00063
+66 in-rover-10-aug-2001.xml_00064
+67 in-scoot-10-aug-2001.xml_00065
+68 in-shell-cirywire-03-aug-2001.xml_00066
+69 in-tesco-citywire-07-aug-2001.xml_00067
+70 in-whitbread-10-aug-2001.xml_00068
+Number of docs for application: 23
+1 ft-BT-07-aug-2001.xml_0000C
+2 ft-BT-briefing-02-aug-2001.xml_0000D
+3 ft-BT-loop-01-aug-2001.xml_0000E
+4 ft-GKN-09-aug-2001.xml_0000F
+5 ft-SSL-10-aug-2001.xml_00010
+6 ft-WestLB-BT-05-aug-2001.xml_00011
+7 ft-airlines-27-jul-2001.xml_00012
+8 ft-airtours-08-aug-2001.xml_00013
+9 ft-bank-of-england-02-aug-2001.xml_00014
+10 ft-bank-of-uk-08-Aug-2001.xml_00015
+11 ft-bmi-09-may-2001.xml_00016
+12 ft-bmi-25-feb-2001.xml_00017
+13 ft-bmi-airline-07-aug-2001.xml_00018
+14 ft-bt-03-aug-2001.xml_00019
+15 ft-bt-26-jul-2001.xml_0001A
+16 ft-bt-at&t-01-jul-2001.xml_0001B
+17 ft-bt-wireless-09-jul-2001.xml_0001C
+18 ft-claims-direct-10-aug-2001.xml_0001D
+19 ft-commerzbank-10-aug-2001.xml_0001E
+20 ft-deutsche-10-aug-2001.xml_0001F
+21 ft-deutsche-BT-01-aug-2001.xml_00020
+22 ft-equitable-07-auf-2001.xml_00021
+23 ft-equitable-09-aug-2001.xml_00022
+
+07-Nov-2016 21:16:03: 
+Training starts.
+
+07-Nov-2016 21:16:03: Multi to binary conversion.
+07-Nov-2016 21:16:03: The learners: PAUM
+07-Nov-2016 21:16:04: The number of classes in dataset: 12
+07-Nov-2016 21:16:04: total Number of classes for learning is 12
+07-Nov-2016 21:16:04: One against others for multi to binary class conversion.
+07-Nov-2016 21:16:04: Training time for class 1: 741ms
+07-Nov-2016 21:16:05: Training time for class 2: 623ms
+07-Nov-2016 21:16:05: Training time for class 3: 258ms
+07-Nov-2016 21:16:05: Training time for class 4: 137ms
+07-Nov-2016 21:16:06: Training time for class 5: 444ms
+07-Nov-2016 21:16:06: Training time for class 6: 527ms
+07-Nov-2016 21:16:07: Training time for class 7: 739ms
+07-Nov-2016 21:16:08: Training time for class 8: 631ms
+07-Nov-2016 21:16:08: Training time for class 9: 526ms
+07-Nov-2016 21:16:09: Training time for class 10: 230ms
+07-Nov-2016 21:16:09: Training time for class 11: 245ms
+07-Nov-2016 21:16:09: Training time for class 12: 188ms
+07-Nov-2016 21:16:11: 
+Application starts.
+07-Nov-2016 21:16:11: Multi to binary conversion.
+07-Nov-2016 21:16:11: The learners: PAUM
+07-Nov-2016 21:16:11: One against others for multi to binary class conversion.
+Number of classes in model: 12
+07-Nov-2016 21:16:11: Application time for class: 114ms
+07-Nov-2016 21:16:11: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=627
+  (correct, partialCorrect, spurious, missing)= (134.0, 17.0, 19.0, 14.0);  (precision, recall, F1)= (0.7882353, 0.8121212, 0.8);  Lenient: (0.8882353, 0.91515154, 0.90149254)
+1 LabelName=location, number of instances=514
+  (correct, partialCorrect, spurious, missing)= (114.0, 3.0, 23.0, 9.0);  (precision, recall, F1)= (0.8142857, 0.9047619, 0.85714287);  Lenient: (0.8357143, 0.9285714, 0.8796993)
+2 LabelName=money, number of instances=360
+  (correct, partialCorrect, spurious, missing)= (119.0, 15.0, 10.0, 3.0);  (precision, recall, F1)= (0.8263889, 0.8686131, 0.846975);  Lenient: (0.9305556, 0.9781022, 0.95373666)
+3 LabelName=organization, number of instances=1039
+  (correct, partialCorrect, spurious, missing)= (327.0, 18.0, 33.0, 50.0);  (precision, recall, F1)= (0.86507934, 0.8278481, 0.8460544);  Lenient: (0.9126984, 0.87341774, 0.8926261)
+4 LabelName=percent, number of instances=257
+  (correct, partialCorrect, spurious, missing)= (55.0, 1.0, 1.0, 1.0);  (precision, recall, F1)= (0.9649123, 0.9649123, 0.9649123);  Lenient: (0.98245615, 0.98245615, 0.98245615)
+5 LabelName=person, number of instances=289
+  (correct, partialCorrect, spurious, missing)= (49.0, 0.0, 14.0, 7.0);  (precision, recall, F1)= (0.7777778, 0.875, 0.8235294);  Lenient: (0.7777778, 0.875, 0.8235294)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (798.0, 54.0, 100.0, 84.0);  (precision, recall, F1)= (0.8382353, 0.8525641, 0.84533894);  Lenient: (0.89495796, 0.9102564, 0.9025423)
+
+07-Nov-2016 21:16:11: 
+*** Fold 2
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_0000C
+2 ft-BT-briefing-02-aug-2001.xml_0000D
+3 ft-BT-loop-01-aug-2001.xml_0000E
+4 ft-GKN-09-aug-2001.xml_0000F
+5 ft-SSL-10-aug-2001.xml_00010
+6 ft-WestLB-BT-05-aug-2001.xml_00011
+7 ft-airlines-27-jul-2001.xml_00012
+8 ft-airtours-08-aug-2001.xml_00013
+9 ft-bank-of-england-02-aug-2001.xml_00014
+10 ft-bank-of-uk-08-Aug-2001.xml_00015
+11 ft-bmi-09-may-2001.xml_00016
+12 ft-bmi-25-feb-2001.xml_00017
+13 ft-bmi-airline-07-aug-2001.xml_00018
+14 ft-bt-03-aug-2001.xml_00019
+15 ft-bt-26-jul-2001.xml_0001A
+16 ft-bt-at&t-01-jul-2001.xml_0001B
+17 ft-bt-wireless-09-jul-2001.xml_0001C
+18 ft-claims-direct-10-aug-2001.xml_0001D
+19 ft-commerzbank-10-aug-2001.xml_0001E
+20 ft-deutsche-10-aug-2001.xml_0001F
+21 ft-deutsche-BT-01-aug-2001.xml_00020
+22 ft-equitable-07-auf-2001.xml_00021
+23 ft-equitable-09-aug-2001.xml_00022
+24 gu-bp-profit-08-aug-2001.xml_0003A
+25 gu-city-briefing-10-aug-2001.xml_0003B
+26 gu-city-briefing-8-aug-2001.xml_0003C
+27 gu-city-diary-10-aug-2001.xml_0003D
+28 gu-claims-direct-10-aug-2001.xml_0003E
+29 gu-ecb-10-aug-2001.xml_0003F
+30 gu-equitable-08-aug-2001.xml_00040
+31 gu-fsa-10-aug-2001.xml_00041
+32 gu-gap-10-aug-2001.xml_00042
+33 gu-king-10-aug-2001.xml_00043
+34 gu-m&s-10-aug-2001.xml_00044
+35 gu-manuf-jobs-07-aug-2001.xml_00045
+36 gu-manuf-recession-07-aug-2001.xml_00046
+37 gu-recession-04-aug-2001.xml_00047
+38 gu-recession-6-aug-2001.xml_00048
+39 gu-reed-10-aug-2001.xml_00049
+40 gu-ryanair-08-aug-2001.xml_0004A
+41 gu-ryanair.xml_0004B
+42 gu-scoot-10-aug-2001.xml_0004C
+43 gu-signet-10-aug-2001.xml_0004D
+44 gu-singtel-10-aug-2001.xml_0004E
+45 gu-swedish-10-aug-2001.xml_0004F
+46 gu-synergie-10-aug-2001.xml_00050
+47 gu-tax-threat-08-aug-2001.xml_00051
+48 gu-telewest-10-aug-2001.xml_00052
+49 gu-vodafone-10-aug-2001.xml_00053
+50 gu-w&d-10-aug-2001.xml_00054
+51 gu-whitbread-10-aug-2001.xml_00055
+52 guardian-it-10-aug-2001.xml_00056
+53 in-GKN-10-aug-2001.xml_00057
+54 in-GKN-citywire-10-aug-2001.xml_00058
+55 in-airlines-08-aug-2001.xml_00059
+56 in-airtours-citywire-9-aug-2001.xml_0005A
+57 in-bayer-10-aug-2001.xml_0005B
+58 in-equitable-08-aug-2001.xml_0005C
+59 in-german-bank-10-aug-2001.xml_0005D
+60 in-guardian-it-10-aug-2001.xml_0005E
+61 in-oil-09-aug-2001.xml_0005F
+62 in-outlook-09-aug-2001.xml_00060
+63 in-outlook-10-aug-2001.xml_00061
+64 in-outlook-ba-04-aug-2001.xml_00062
+65 in-reed-10-aug-2001.xml_00063
+66 in-rover-10-aug-2001.xml_00064
+67 in-scoot-10-aug-2001.xml_00065
+68 in-shell-cirywire-03-aug-2001.xml_00066
+69 in-tesco-citywire-07-aug-2001.xml_00067
+70 in-whitbread-10-aug-2001.xml_00068
+Number of docs for application: 23
+1 ft-house-price-08-aug-2001.xml_00023
+2 ft-industrial-gloom-07-Aug-2001.xml_00024
+3 ft-merrill-lynch-10-aug-2001.xml_00025
+4 ft-mortgage-lenders-04-aug-2001.xml_00026
+5 ft-pirelli-10-aug-2001.xml_00027
+6 ft-us-air-10-aug-2001.xml_00028
+7 ft-whitbread-10-aug-2001.xml_00029
+8 gu-30000-job-08-aug-2001.xml_0002A
+9 gu-Am-Brit-4-aug-2001.xml_0002B
+10 gu-BA-Atlantic-4-aug-2001.xml_0002C
+11 gu-BA-profit-06-aug-2001.xml_0002D
+12 gu-BASF-08-aug-2001.xml_0002E
+13 gu-BOS-08-aug-2001.xml_0002F
+14 gu-BP-08-aug-2001.xml_00030
+15 gu-ECB-03-aug-2001.xml_00031
+16 gu-ECB-07-aug-2001.xml_00032
+17 gu-Ford-08-aug-2001.xml_00033
+18 gu-G8-3-aug-2001.xml_00034
+19 gu-GKN-10-aug-2001.xml_00035
+20 gu-airlines-DVT-05-aug-2001.xml_00036
+21 gu-analysis-10-aug-2001.xml_00037
+22 gu-bank-of-england-08-aug-2001.xml_00038
+23 gu-bayer-10-aug-2001.xml_00039
+
+07-Nov-2016 21:16:17: 
+Training starts.
+
+07-Nov-2016 21:16:17: Multi to binary conversion.
+07-Nov-2016 21:16:17: The learners: PAUM
+07-Nov-2016 21:16:17: The number of classes in dataset: 12
+07-Nov-2016 21:16:17: total Number of classes for learning is 12
+07-Nov-2016 21:16:17: One against others for multi to binary class conversion.
+07-Nov-2016 21:16:18: Training time for class 1: 837ms
+07-Nov-2016 21:16:18: Training time for class 2: 860ms
+07-Nov-2016 21:16:19: Training time for class 3: 788ms
+07-Nov-2016 21:16:20: Training time for class 4: 681ms
+07-Nov-2016 21:16:21: Training time for class 5: 571ms
+07-Nov-2016 21:16:21: Training time for class 6: 355ms
+07-Nov-2016 21:16:21: Training time for class 7: 485ms
+07-Nov-2016 21:16:22: Training time for class 8: 795ms
+07-Nov-2016 21:16:22: Training time for class 9: 283ms
+07-Nov-2016 21:16:23: Training time for class 10: 309ms
+07-Nov-2016 21:16:23: Training time for class 11: 421ms
+07-Nov-2016 21:16:23: Training time for class 12: 181ms
+07-Nov-2016 21:16:25: 
+Application starts.
+07-Nov-2016 21:16:25: Multi to binary conversion.
+07-Nov-2016 21:16:25: The learners: PAUM
+07-Nov-2016 21:16:25: One against others for multi to binary class conversion.
+Number of classes in model: 12
+07-Nov-2016 21:16:25: Application time for class: 95ms
+07-Nov-2016 21:16:25: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=588
+  (correct, partialCorrect, spurious, missing)= (167.0, 17.0, 29.0, 20.0);  (precision, recall, F1)= (0.78403753, 0.8186275, 0.8009593);  Lenient: (0.86384976, 0.9019608, 0.88249403)
+1 LabelName=location, number of instances=486
+  (correct, partialCorrect, spurious, missing)= (124.0, 4.0, 19.0, 26.0);  (precision, recall, F1)= (0.8435374, 0.8051948, 0.82392025);  Lenient: (0.8707483, 0.83116883, 0.8504983)
+2 LabelName=money, number of instances=409
+  (correct, partialCorrect, spurious, missing)= (76.0, 1.0, 6.0, 11.0);  (precision, recall, F1)= (0.91566265, 0.8636364, 0.8888889);  Lenient: (0.92771083, 0.875, 0.9005848)
+3 LabelName=organization, number of instances=1161
+  (correct, partialCorrect, spurious, missing)= (231.0, 7.0, 79.0, 35.0);  (precision, recall, F1)= (0.7287066, 0.84615386, 0.78305084);  Lenient: (0.7507886, 0.8717949, 0.8067797)
+4 LabelName=percent, number of instances=245
+  (correct, partialCorrect, spurious, missing)= (64.0, 2.0, 1.0, 3.0);  (precision, recall, F1)= (0.95522386, 0.92753625, 0.9411765);  Lenient: (0.98507464, 0.95652175, 0.9705882)
+5 LabelName=person, number of instances=266
+  (correct, partialCorrect, spurious, missing)= (69.0, 1.0, 6.0, 9.0);  (precision, recall, F1)= (0.90789473, 0.87341774, 0.8903226);  Lenient: (0.92105263, 0.886076, 0.9032258)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (731.0, 32.0, 140.0, 104.0);  (precision, recall, F1)= (0.8095238, 0.84313726, 0.8259887);  Lenient: (0.8449612, 0.8800461, 0.8621469)
+
+07-Nov-2016 21:16:25: 
+*** Fold 3
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_0000C
+2 ft-BT-briefing-02-aug-2001.xml_0000D
+3 ft-BT-loop-01-aug-2001.xml_0000E
+4 ft-GKN-09-aug-2001.xml_0000F
+5 ft-SSL-10-aug-2001.xml_00010
+6 ft-WestLB-BT-05-aug-2001.xml_00011
+7 ft-airlines-27-jul-2001.xml_00012
+8 ft-airtours-08-aug-2001.xml_00013
+9 ft-bank-of-england-02-aug-2001.xml_00014
+10 ft-bank-of-uk-08-Aug-2001.xml_00015
+11 ft-bmi-09-may-2001.xml_00016
+12 ft-bmi-25-feb-2001.xml_00017
+13 ft-bmi-airline-07-aug-2001.xml_00018
+14 ft-bt-03-aug-2001.xml_00019
+15 ft-bt-26-jul-2001.xml_0001A
+16 ft-bt-at&t-01-jul-2001.xml_0001B
+17 ft-bt-wireless-09-jul-2001.xml_0001C
+18 ft-claims-direct-10-aug-2001.xml_0001D
+19 ft-commerzbank-10-aug-2001.xml_0001E
+20 ft-deutsche-10-aug-2001.xml_0001F
+21 ft-deutsche-BT-01-aug-2001.xml_00020
+22 ft-equitable-07-auf-2001.xml_00021
+23 ft-equitable-09-aug-2001.xml_00022
+24 ft-house-price-08-aug-2001.xml_00023
+25 ft-industrial-gloom-07-Aug-2001.xml_00024
+26 ft-merrill-lynch-10-aug-2001.xml_00025
+27 ft-mortgage-lenders-04-aug-2001.xml_00026
+28 ft-pirelli-10-aug-2001.xml_00027
+29 ft-us-air-10-aug-2001.xml_00028
+30 ft-whitbread-10-aug-2001.xml_00029
+31 gu-30000-job-08-aug-2001.xml_0002A
+32 gu-Am-Brit-4-aug-2001.xml_0002B
+33 gu-BA-Atlantic-4-aug-2001.xml_0002C
+34 gu-BA-profit-06-aug-2001.xml_0002D
+35 gu-BASF-08-aug-2001.xml_0002E
+36 gu-BOS-08-aug-2001.xml_0002F
+37 gu-BP-08-aug-2001.xml_00030
+38 gu-ECB-03-aug-2001.xml_00031
+39 gu-ECB-07-aug-2001.xml_00032
+40 gu-Ford-08-aug-2001.xml_00033
+41 gu-G8-3-aug-2001.xml_00034
+42 gu-GKN-10-aug-2001.xml_00035
+43 gu-airlines-DVT-05-aug-2001.xml_00036
+44 gu-analysis-10-aug-2001.xml_00037
+45 gu-bank-of-england-08-aug-2001.xml_00038
+46 gu-bayer-10-aug-2001.xml_00039
+47 gu-tax-threat-08-aug-2001.xml_00051
+48 gu-telewest-10-aug-2001.xml_00052
+49 gu-vodafone-10-aug-2001.xml_00053
+50 gu-w&d-10-aug-2001.xml_00054
+51 gu-whitbread-10-aug-2001.xml_00055
+52 guardian-it-10-aug-2001.xml_00056
+53 in-GKN-10-aug-2001.xml_00057
+54 in-GKN-citywire-10-aug-2001.xml_00058
+55 in-airlines-08-aug-2001.xml_00059
+56 in-airtours-citywire-9-aug-2001.xml_0005A
+57 in-bayer-10-aug-2001.xml_0005B
+58 in-equitable-08-aug-2001.xml_0005C
+59 in-german-bank-10-aug-2001.xml_0005D
+60 in-guardian-it-10-aug-2001.xml_0005E
+61 in-oil-09-aug-2001.xml_0005F
+62 in-outlook-09-aug-2001.xml_00060
+63 in-outlook-10-aug-2001.xml_00061
+64 in-outlook-ba-04-aug-2001.xml_00062
+65 in-reed-10-aug-2001.xml_00063
+66 in-rover-10-aug-2001.xml_00064
+67 in-scoot-10-aug-2001.xml_00065
+68 in-shell-cirywire-03-aug-2001.xml_00066
+69 in-tesco-citywire-07-aug-2001.xml_00067
+70 in-whitbread-10-aug-2001.xml_00068
+Number of docs for application: 23
+1 gu-bp-profit-08-aug-2001.xml_0003A
+2 gu-city-briefing-10-aug-2001.xml_0003B
+3 gu-city-briefing-8-aug-2001.xml_0003C
+4 gu-city-diary-10-aug-2001.xml_0003D
+5 gu-claims-direct-10-aug-2001.xml_0003E
+6 gu-ecb-10-aug-2001.xml_0003F
+7 gu-equitable-08-aug-2001.xml_00040
+8 gu-fsa-10-aug-2001.xml_00041
+9 gu-gap-10-aug-2001.xml_00042
+10 gu-king-10-aug-2001.xml_00043
+11 gu-m&s-10-aug-2001.xml_00044
+12 gu-manuf-jobs-07-aug-2001.xml_00045
+13 gu-manuf-recession-07-aug-2001.xml_00046
+14 gu-recession-04-aug-2001.xml_00047
+15 gu-recession-6-aug-2001.xml_00048
+16 gu-reed-10-aug-2001.xml_00049
+17 gu-ryanair-08-aug-2001.xml_0004A
+18 gu-ryanair.xml_0004B
+19 gu-scoot-10-aug-2001.xml_0004C
+20 gu-signet-10-aug-2001.xml_0004D
+21 gu-singtel-10-aug-2001.xml_0004E
+22 gu-swedish-10-aug-2001.xml_0004F
+23 gu-synergie-10-aug-2001.xml_00050
+
+07-Nov-2016 21:16:30: 
+Training starts.
+
+07-Nov-2016 21:16:30: Multi to binary conversion.
+07-Nov-2016 21:16:30: The learners: PAUM
+07-Nov-2016 21:16:30: The number of classes in dataset: 12
+07-Nov-2016 21:16:30: total Number of classes for learning is 12
+07-Nov-2016 21:16:30: One against others for multi to binary class conversion.
+07-Nov-2016 21:16:32: Training time for class 1: 1845ms
+07-Nov-2016 21:16:34: Training time for class 2: 1686ms
+07-Nov-2016 21:16:35: Training time for class 3: 993ms
+07-Nov-2016 21:16:36: Training time for class 4: 1161ms
+07-Nov-2016 21:16:37: Training time for class 5: 966ms
+07-Nov-2016 21:16:37: Training time for class 6: 536ms
+07-Nov-2016 21:16:38: Training time for class 7: 846ms
+07-Nov-2016 21:16:39: Training time for class 8: 762ms
+07-Nov-2016 21:16:39: Training time for class 9: 432ms
+07-Nov-2016 21:16:40: Training time for class 10: 348ms
+07-Nov-2016 21:16:40: Training time for class 11: 563ms
+07-Nov-2016 21:16:41: Training time for class 12: 244ms
+07-Nov-2016 21:16:42: 
+Application starts.
+07-Nov-2016 21:16:42: Multi to binary conversion.
+07-Nov-2016 21:16:42: The learners: PAUM
+07-Nov-2016 21:16:42: One against others for multi to binary class conversion.
+Number of classes in model: 12
+07-Nov-2016 21:16:42: Application time for class: 82ms
+07-Nov-2016 21:16:42: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=607
+  (correct, partialCorrect, spurious, missing)= (152.0, 20.0, 4.0, 13.0);  (precision, recall, F1)= (0.8636364, 0.8216216, 0.84210527);  Lenient: (0.97727275, 0.9297297, 0.9529086)
+1 LabelName=location, number of instances=509
+  (correct, partialCorrect, spurious, missing)= (102.0, 0.0, 22.0, 29.0);  (precision, recall, F1)= (0.82258064, 0.77862597, 0.8000001);  Lenient: (0.82258064, 0.77862597, 0.8000001)
+2 LabelName=money, number of instances=417
+  (correct, partialCorrect, spurious, missing)= (60.0, 4.0, 1.0, 16.0);  (precision, recall, F1)= (0.9230769, 0.75, 0.82758623);  Lenient: (0.9846154, 0.8, 0.8827586)
+3 LabelName=organization, number of instances=1173
+  (correct, partialCorrect, spurious, missing)= (228.0, 4.0, 71.0, 29.0);  (precision, recall, F1)= (0.75247526, 0.87356323, 0.80851066);  Lenient: (0.76567656, 0.8888889, 0.8226951)
+4 LabelName=percent, number of instances=232
+  (correct, partialCorrect, spurious, missing)= (81.0, 0.0, 1.0, 1.0);  (precision, recall, F1)= (0.9878049, 0.9878049, 0.9878049);  Lenient: (0.9878049, 0.9878049, 0.9878049)
+5 LabelName=person, number of instances=250
+  (correct, partialCorrect, spurious, missing)= (83.0, 0.0, 6.0, 12.0);  (precision, recall, F1)= (0.9325843, 0.8736842, 0.90217394);  Lenient: (0.9325843, 0.8736842, 0.90217394)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (706.0, 28.0, 105.0, 100.0);  (precision, recall, F1)= (0.84147793, 0.8465228, 0.8439929);  Lenient: (0.874851, 0.8800959, 0.8774656)
+
+07-Nov-2016 21:16:42: 
+*** Fold 4
+Number of docs for training: 70
+1 ft-BT-07-aug-2001.xml_0000C
+2 ft-BT-briefing-02-aug-2001.xml_0000D
+3 ft-BT-loop-01-aug-2001.xml_0000E
+4 ft-GKN-09-aug-2001.xml_0000F
+5 ft-SSL-10-aug-2001.xml_00010
+6 ft-WestLB-BT-05-aug-2001.xml_00011
+7 ft-airlines-27-jul-2001.xml_00012
+8 ft-airtours-08-aug-2001.xml_00013
+9 ft-bank-of-england-02-aug-2001.xml_00014
+10 ft-bank-of-uk-08-Aug-2001.xml_00015
+11 ft-bmi-09-may-2001.xml_00016
+12 ft-bmi-25-feb-2001.xml_00017
+13 ft-bmi-airline-07-aug-2001.xml_00018
+14 ft-bt-03-aug-2001.xml_00019
+15 ft-bt-26-jul-2001.xml_0001A
+16 ft-bt-at&t-01-jul-2001.xml_0001B
+17 ft-bt-wireless-09-jul-2001.xml_0001C
+18 ft-claims-direct-10-aug-2001.xml_0001D
+19 ft-commerzbank-10-aug-2001.xml_0001E
+20 ft-deutsche-10-aug-2001.xml_0001F
+21 ft-deutsche-BT-01-aug-2001.xml_00020
+22 ft-equitable-07-auf-2001.xml_00021
+23 ft-equitable-09-aug-2001.xml_00022
+24 ft-house-price-08-aug-2001.xml_00023
+25 ft-industrial-gloom-07-Aug-2001.xml_00024
+26 ft-merrill-lynch-10-aug-2001.xml_00025
+27 ft-mortgage-lenders-04-aug-2001.xml_00026
+28 ft-pirelli-10-aug-2001.xml_00027
+29 ft-us-air-10-aug-2001.xml_00028
+30 ft-whitbread-10-aug-2001.xml_00029
+31 gu-30000-job-08-aug-2001.xml_0002A
+32 gu-Am-Brit-4-aug-2001.xml_0002B
+33 gu-BA-Atlantic-4-aug-2001.xml_0002C
+34 gu-BA-profit-06-aug-2001.xml_0002D
+35 gu-BASF-08-aug-2001.xml_0002E
+36 gu-BOS-08-aug-2001.xml_0002F
+37 gu-BP-08-aug-2001.xml_00030
+38 gu-ECB-03-aug-2001.xml_00031
+39 gu-ECB-07-aug-2001.xml_00032
+40 gu-Ford-08-aug-2001.xml_00033
+41 gu-G8-3-aug-2001.xml_00034
+42 gu-GKN-10-aug-2001.xml_00035
+43 gu-airlines-DVT-05-aug-2001.xml_00036
+44 gu-analysis-10-aug-2001.xml_00037
+45 gu-bank-of-england-08-aug-2001.xml_00038
+46 gu-bayer-10-aug-2001.xml_00039
+47 gu-bp-profit-08-aug-2001.xml_0003A
+48 gu-city-briefing-10-aug-2001.xml_0003B
+49 gu-city-briefing-8-aug-2001.xml_0003C
+50 gu-city-diary-10-aug-2001.xml_0003D
+51 gu-claims-direct-10-aug-2001.xml_0003E
+52 gu-ecb-10-aug-2001.xml_0003F
+53 gu-equitable-08-aug-2001.xml_00040
+54 gu-fsa-10-aug-2001.xml_00041
+55 gu-gap-10-aug-2001.xml_00042
+56 gu-king-10-aug-2001.xml_00043
+57 gu-m&s-10-aug-2001.xml_00044
+58 gu-manuf-jobs-07-aug-2001.xml_00045
+59 gu-manuf-recession-07-aug-2001.xml_00046
+60 gu-recession-04-aug-2001.xml_00047
+61 gu-recession-6-aug-2001.xml_00048
+62 gu-reed-10-aug-2001.xml_00049
+63 gu-ryanair-08-aug-2001.xml_0004A
+64 gu-ryanair.xml_0004B
+65 gu-scoot-10-aug-2001.xml_0004C
+66 gu-signet-10-aug-2001.xml_0004D
+67 gu-singtel-10-aug-2001.xml_0004E
+68 gu-swedish-10-aug-2001.xml_0004F
+69 gu-synergie-10-aug-2001.xml_00050
+70 in-whitbread-10-aug-2001.xml_00068
+Number of docs for application: 23
+1 gu-tax-threat-08-aug-2001.xml_00051
+2 gu-telewest-10-aug-2001.xml_00052
+3 gu-vodafone-10-aug-2001.xml_00053
+4 gu-w&d-10-aug-2001.xml_00054
+5 gu-whitbread-10-aug-2001.xml_00055
+6 guardian-it-10-aug-2001.xml_00056
+7 in-GKN-10-aug-2001.xml_00057
+8 in-GKN-citywire-10-aug-2001.xml_00058
+9 in-airlines-08-aug-2001.xml_00059
+10 in-airtours-citywire-9-aug-2001.xml_0005A
+11 in-bayer-10-aug-2001.xml_0005B
+12 in-equitable-08-aug-2001.xml_0005C
+13 in-german-bank-10-aug-2001.xml_0005D
+14 in-guardian-it-10-aug-2001.xml_0005E
+15 in-oil-09-aug-2001.xml_0005F
+16 in-outlook-09-aug-2001.xml_00060
+17 in-outlook-10-aug-2001.xml_00061
+18 in-outlook-ba-04-aug-2001.xml_00062
+19 in-reed-10-aug-2001.xml_00063
+20 in-rover-10-aug-2001.xml_00064
+21 in-scoot-10-aug-2001.xml_00065
+22 in-shell-cirywire-03-aug-2001.xml_00066
+23 in-tesco-citywire-07-aug-2001.xml_00067
+
+07-Nov-2016 21:16:45: 
+Training starts.
+
+07-Nov-2016 21:16:45: Multi to binary conversion.
+07-Nov-2016 21:16:45: The learners: PAUM
+07-Nov-2016 21:16:46: The number of classes in dataset: 12
+07-Nov-2016 21:16:46: total Number of classes for learning is 12
+07-Nov-2016 21:16:46: One against others for multi to binary class conversion.
+07-Nov-2016 21:16:47: Training time for class 1: 1145ms
+07-Nov-2016 21:16:48: Training time for class 2: 1074ms
+07-Nov-2016 21:16:49: Training time for class 3: 984ms
+07-Nov-2016 21:16:50: Training time for class 4: 809ms
+07-Nov-2016 21:16:50: Training time for class 5: 581ms
+07-Nov-2016 21:16:51: Training time for class 6: 384ms
+07-Nov-2016 21:16:51: Training time for class 7: 713ms
+07-Nov-2016 21:16:52: Training time for class 8: 646ms
+07-Nov-2016 21:16:52: Training time for class 9: 360ms
+07-Nov-2016 21:16:53: Training time for class 10: 401ms
+07-Nov-2016 21:16:53: Training time for class 11: 252ms
+07-Nov-2016 21:16:53: Training time for class 12: 193ms
+07-Nov-2016 21:16:55: 
+Application starts.
+07-Nov-2016 21:16:55: Multi to binary conversion.
+07-Nov-2016 21:16:55: The learners: PAUM
+07-Nov-2016 21:16:55: One against others for multi to binary class conversion.
+Number of classes in model: 12
+07-Nov-2016 21:16:55: Application time for class: 75ms
+07-Nov-2016 21:16:55: Results of this run:
+
+
+Results of single label:
+0 LabelName=date, number of instances=556
+  (correct, partialCorrect, spurious, missing)= (197.0, 11.0, 16.0, 28.0);  (precision, recall, F1)= (0.87946427, 0.83474576, 0.8565217);  Lenient: (0.9285714, 0.88135594, 0.90434784)
+1 LabelName=location, number of instances=417
+  (correct, partialCorrect, spurious, missing)= (168.0, 3.0, 31.0, 52.0);  (precision, recall, F1)= (0.83168316, 0.75336325, 0.79058826);  Lenient: (0.84653467, 0.76681614, 0.80470586)
+2 LabelName=money, number of instances=309
+  (correct, partialCorrect, spurious, missing)= (161.0, 6.0, 1.0, 21.0);  (precision, recall, F1)= (0.9583333, 0.85638297, 0.90449435);  Lenient: (0.99404764, 0.88829786, 0.93820226)
+3 LabelName=organization, number of instances=943
+  (correct, partialCorrect, spurious, missing)= (397.0, 18.0, 122.0, 76.0);  (precision, recall, F1)= (0.7392924, 0.808554, 0.7723736);  Lenient: (0.7728119, 0.84521383, 0.8073929)
+4 LabelName=percent, number of instances=213
+  (correct, partialCorrect, spurious, missing)= (95.0, 2.0, 0.0, 4.0);  (precision, recall, F1)= (0.97938144, 0.9405941, 0.959596);  Lenient: (1.0, 0.96039605, 0.97979796)
+5 LabelName=person, number of instances=231
+  (correct, partialCorrect, spurious, missing)= (90.0, 2.0, 12.0, 22.0);  (precision, recall, F1)= (0.86538464, 0.7894737, 0.8256881);  Lenient: (0.88461536, 0.80701756, 0.8440367)
+
+Overall results(micro-averaged over all labels):
+  (correct, partialCorrect, spurious, missing)= (1108.0, 42.0, 182.0, 203.0);  (precision, recall, F1)= (0.8318318, 0.8189209, 0.8253258);  Lenient: (0.8633634, 0.84996307, 0.85661083)
+
+07-Nov-2016 21:16:55: 
+*** Averaged results for each label over 4 runs as:
+
+Results of single label:
+0 LabelName=date, number of instances=594
+  (correct, partialCorrect, spurious, missing)= (162.5, 16.25, 17.0, 18.75);  (precision, recall, F1)= (0.82884336, 0.821779, 0.8248966);  Lenient: (0.9144823, 0.9070495, 0.91031075)
+1 LabelName=location, number of instances=481
+  (correct, partialCorrect, spurious, missing)= (127.0, 2.5, 23.75, 29.0);  (precision, recall, F1)= (0.8280217, 0.81048644, 0.81791294);  Lenient: (0.8438945, 0.8262956, 0.83372587)
+2 LabelName=money, number of instances=373
+  (correct, partialCorrect, spurious, missing)= (104.0, 6.5, 4.5, 12.75);  (precision, recall, F1)= (0.90586543, 0.83465815, 0.8669861);  Lenient: (0.95923233, 0.88535, 0.9188206)
+3 LabelName=organization, number of instances=1079
+  (correct, partialCorrect, spurious, missing)= (295.75, 11.75, 76.25, 47.5);  (precision, recall, F1)= (0.7713884, 0.8390298, 0.8024974);  Lenient: (0.80049384, 0.8698288, 0.83237344)
+4 LabelName=percent, number of instances=236
+  (correct, partialCorrect, spurious, missing)= (73.75, 1.25, 0.75, 2.25);  (precision, recall, F1)= (0.9718306, 0.9552119, 0.9633724);  Lenient: (0.9888339, 0.9717947, 0.9801618)
+5 LabelName=person, number of instances=259
+  (correct, partialCorrect, spurious, missing)= (72.75, 0.75, 9.5, 12.5);  (precision, recall, F1)= (0.87091035, 0.85289395, 0.8604285);  Lenient: (0.8790075, 0.8604444, 0.8682414)
+
+Overall results as:
+  (correct, partialCorrect, spurious, missing)= (835.75, 39.0, 131.75, 122.75);  (precision, recall, F1)= (0.8302672, 0.84028625, 0.83516157);  Lenient: (0.8695334, 0.88009036, 0.87469137)
+
+07-Nov-2016 21:16:55: This learning session finished!.
+07-Nov-2016 21:36:24: 
+*** A new run starts.
+07-Nov-2016 21:36:24: 
+The execution time (pre-processing the first document): Mon Nov 07 21:36:24 GMT 2016
+07-Nov-2016 21:36:24: The learning start at Mon Nov 07 21:36:24 GMT 2016
+07-Nov-2016 21:36:24: The number of documents in dataset: 61
+07-Nov-2016 21:36:24: ** Training mode:
+07-Nov-2016 21:36:24: 
+Training starts.
+
+07-Nov-2016 21:36:24: Multi to binary conversion.
+07-Nov-2016 21:36:24: The learners: PAUM
+07-Nov-2016 21:36:24: The number of classes in dataset: 0
+07-Nov-2016 21:36:24: total Number of classes for learning is 0
+07-Nov-2016 21:36:25: One against others for multi to binary class conversion.
+07-Nov-2016 21:36:25: This learning session finished!.
+09-Jun-2017 17:28:59: 
+
+*************************
+A new session for NLP learning is starting: 20170609_172859file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 49159893secs ago)The initiliased time of NLP learning: Fri Jun 09 17:28:59 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+13-Jun-2017 14:47:35: 
+
+*************************
+A new session for NLP learning is starting: 20170613_144735file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 49495808secs ago)The initiliased time of NLP learning: Tue Jun 13 14:47:35 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+13-Jun-2017 14:49:35: 
+
+*************************
+A new session for NLP learning is starting: 20170613_144935file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 49495929secs ago)The initiliased time of NLP learning: Tue Jun 13 14:49:35 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+13-Jun-2017 14:52:31: 
+
+*************************
+A new session for NLP learning is starting: 20170613_145231file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 49496105secs ago)The initiliased time of NLP learning: Tue Jun 13 14:52:31 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+13-Jun-2017 14:55:18: 
+
+*************************
+A new session for NLP learning is starting: 20170613_145518file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 49496272secs ago)The initiliased time of NLP learning: Tue Jun 13 14:55:18 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+28-Jun-2017 15:45:01: 
+
+*************************
+A new session for NLP learning is starting: 20170628_154501file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 50795255secs ago)The initiliased time of NLP learning: Wed Jun 28 15:45:01 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+29-Jun-2017 11:11:59: 
+*** A new run starts.
+29-Jun-2017 11:11:59: 
+The execution time (pre-processing the first document): Thu Jun 29 11:11:59 BST 2017
+29-Jun-2017 11:11:59: The learning start at Thu Jun 29 11:11:59 BST 2017
+29-Jun-2017 11:11:59: The number of documents in dataset: 1
+29-Jun-2017 11:12:01: ** Training mode:
+29-Jun-2017 11:12:01: 
+Training starts.
+
+29-Jun-2017 11:12:01: Multi to binary conversion.
+29-Jun-2017 11:12:01: The learners: PAUM
+29-Jun-2017 11:12:01: The number of classes in dataset: 0
+29-Jun-2017 11:12:01: total Number of classes for learning is 0
+29-Jun-2017 11:12:01: One against others for multi to binary class conversion.
+29-Jun-2017 11:12:01: This learning session finished!.
+10-Jul-2017 10:22:53: 
+
+*************************
+A new session for NLP learning is starting: 20170710_102253file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 51812727secs ago)The initiliased time of NLP learning: Mon Jul 10 10:22:53 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+10-Jul-2017 10:48:10: 
+
+*************************
+A new session for NLP learning is starting: 20170710_104810file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 51814244secs ago)The initiliased time of NLP learning: Mon Jul 10 10:48:10 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+09-Aug-2017 15:05:38: 
+
+*************************
+A new session for NLP learning is starting: 20170809_150538file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 54421692secs ago)The initiliased time of NLP learning: Wed Aug 09 15:05:38 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+11-Aug-2017 12:18:01: 
+
+*************************
+A new session for NLP learning is starting: 20170811_121801file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 54584435secs ago)The initiliased time of NLP learning: Fri Aug 11 12:18:01 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true
+12-Aug-2017 16:12:41: 
+
+*************************
+A new session for NLP learning is starting: 20170812_161241file:/C:/Users/oonyimadu/Documents/GATE_TUTORIALS/MODULE11/module-11-hands-on/ner/ner-config.xml (saved 20151118_165726, 54684915secs ago)The initiliased time of NLP learning: Sat Aug 12 16:12:41 BST 2017
+Working directory: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner
+The feature files and models are saved at: C:\Users\oonyimadu\Documents\GATE_TUTORIALS\MODULE11\module-11-hands-on\ner\savedFiles
+Learner name: PAUM
+Learner nick name: PAUM
+Learner parameter settings: PAUM
+Surroud mode (or chunk learning): true

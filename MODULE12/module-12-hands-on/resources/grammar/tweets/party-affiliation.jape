@@ -1,0 +1,17 @@
+Phase:	AddKey
+Input: Party
+Options: control = once
+
+Rule:AddDocFeature
+(
+ {Party}
+):tag
+-->
+{
+
+gate.AnnotationSet tagSet = (gate.AnnotationSet)bindings.get("tag");
+gate.Annotation tagAnn = (gate.Annotation)tagSet.iterator().next();
+
+doc.getFeatures().put("affiliation", "pro-" + tagAnn.getFeatures().get("kind"));
+}
+

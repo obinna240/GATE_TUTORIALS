@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-equitable-09-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-equitable-09-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The Financial Services Authority, the City of London regulator, has defended the decision of Equitable Life, the troubled insurer, not to reveal earlier this year that it was conducting a review of its bonus policy.<Node id="215" />
+
+<Node id="217" />Holders of Equitable's with-profits policies were shocked to learn on July 16 that as as result of the secret review, the board had decided to cut the value of their policies by up to 16 per cent.<Node id="413" />
+
+<Node id="415" />Richard Ottaway, the shadow paymaster general, last month questioned the role of the FSA in the period after Equitable closed for new business last December until the pension fund cuts were announced.<Node id="615" />
+
+<Node id="617" />In a letter to Mr Ottaway last week, John Tiner, managing director of the FSA's Consumer, Investment and Insurance Directorate, wrote: "You will be aware that there have been further suggestions . . . that the FSA should have told policyholders about the fact that bonus policy was under review . . . Until the Equitable had completed the review and had some firm policy propositions to make, it is unclear what they (or we) could have told policyholders which would have put them in a better position to make a decision.<Node id="1138" />
+
+<Node id="1140" />"We are satisfied that as soon as the Equitable board made firm decisions, they announced them together with the steps they planned to take to inform policyholders of the consequences for them."<Node id="1334" />
+
+<Node id="1336" />Mr Ottaway said: "The FSA confirm they have powers to intervene but hint that they didn't consider it appropriate to do so. Given the sorry history of regulation as far as the Equitable is concerned this stance will be viewed by millions of policyholders with astonishment."<Node id="1610" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="35" Type="tr" StartNode="0" EndNode="1610">
+</Annotation>
+<Annotation Id="36" Type="td" StartNode="0" EndNode="1610">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="0" EndNode="1610">
+</Annotation>
+<Annotation Id="47" Type="font" StartNode="0" EndNode="1610">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="617" EndNode="1138">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="415" EndNode="615">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="217" EndNode="413">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="0" EndNode="215">
+</Annotation>
+<Annotation Id="81" Type="TEXT" StartNode="0" EndNode="1610">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="1336" EndNode="1610">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="1140" EndNode="1334">
+</Annotation>
+<Annotation Id="24" Type="html" StartNode="0" EndNode="1610">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="table" StartNode="0" EndNode="1610">
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="body" StartNode="0" EndNode="1610">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

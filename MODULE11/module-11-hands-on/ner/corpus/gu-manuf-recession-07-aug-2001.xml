@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/gatecorpora/news/business/clean/gu-manuf-recession-07-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The government was under fire from all sides <Node id="45"/>yesterday<Node id="54"/> as <Node id="58"/>Britain<Node id="65"/>&apos;s beleaguered manufacturing sector slid into recession.
+<Node id="122"/>Trade unions, big business and the opposition united in a chorus of calls for government action, in the face of official figures showing the biggest fall in manufacturing output for a decade.<Node id="313"/>
+
+<Node id="315"/>The <Node id="319"/>TUC<Node id="322"/> demanded a <Node id="334"/>£1bn<Node id="339"/> rescue package for manufacturing, while the <Node id="384"/>Confederation of British Industry<Node id="417"/> warned that other parts of the economy could soon be affected.<Node id="480"/>
+
+<Node id="482"/>More than 100,000 jobs have been cut in the manufacturing sector since the <Node id="557"/>start of the year<Node id="574"/> and <Node id="579"/>yesterday<Node id="588"/> the TGWU warned that another 250,000 jobs were at risk because of the deteriorating economic conditions. The sackings provided ammunition for the <Node id="735"/>Conservatives<Node id="748"/> who accused the government of &quot;complacency&quot;.<Node id="793"/>
+
+<Node id="795"/>In the <Node id="802"/>City<Node id="806"/>, the news increased speculation that the <Node id="848"/>Bank<Node id="852"/> might be forced to cut interest rates further over the <Node id="908"/>coming months<Node id="921"/>.<Node id="922"/>
+
+<Node id="924"/>The assault on the government&apos;s handling of economic policy was triggered by the news that manufacturing output fell by <Node id="1044"/>2%<Node id="1046"/> in the <Node id="1054"/>three months to June<Node id="1074"/>. That was the second consecutive quarterly fall - the usual definition of a recession - and the largest since <Node id="1185"/>1991<Node id="1189"/>.<Node id="1190"/>
+
+<Node id="1192"/>National Statistics<Node id="1211"/>, which produce the figures, put most of the blame for the fall on the savage downturn among high tech companies, such as computer and telecommunications equipment makers.<Node id="1382"/>
+
+<Node id="1384"/>Lib Dem<Node id="1391"/> trade and industry spokesman <Node id="1421"/>Vincent Cable<Node id="1434"/> warned the <Node id="1446"/>UK<Node id="1448"/> could be heading for &quot;one of the worst post-war manufacturing recessions,&quot; which could spread to the service sector. He warned <Node id="1576"/>Britain<Node id="1583"/> was suffering from &quot;a lethal combination of manufacturing being hit by a global slowdown together with a seriously over-valued currency.&quot;<Node id="1721"/>
+
+<Node id="1723"/>Shadow trade secretary <Node id="1746"/>David Heathcoat-Amory<Node id="1767"/> attacked the government for being &quot;utterly complacent&quot; over industry&apos;s troubles. &quot;Manufacturing has seen a relentless increase in the burden of business taxes and regulations over the <Node id="1952"/>last four years<Node id="1967"/>, imposing further costs on industry and putting <Node id="2016"/>Britain<Node id="2023"/> at a competitive disadvantage in world markets.&quot;<Node id="2072"/>
+
+<Node id="2074"/>John Edmonds<Node id="2086"/>, general secretary of the <Node id="2113"/>GMB<Node id="2116"/> trade union, contrasted the government&apos;s approach to the plight of manufacturing industry with its response to foot and mouth.<Node id="2243"/>
+
+<Node id="2245"/>&quot;If ministers had shown the same concern over the manufacturing crisis that they have over the farming crisis, we might not now be in recession.&quot;<Node id="2390"/>
+
+<Node id="2392"/>The <Node id="2396"/>TUC<Node id="2399"/> said the <Node id="2409"/>£1bn<Node id="2414"/> it believed was needed to support industry should be channelled through regional development agencies to the worst-hit areas. &quot;<Node id="2542"/>Britain<Node id="2549"/> gives less state aid to manufacturing than almost any other country in <Node id="2621"/>Europe<Node id="2627"/>,&quot; said <Node id="2635"/>Brendan Barber<Node id="2649"/>, its deputy general secretary.<Node id="2680"/>
+
+<Node id="2682"/>The <Node id="2686"/>Treasury<Node id="2694"/> rejected calls for direct financial help. A spokesman blamed manufacturing&apos;s woes on the slowdown in the global economy and the weakness of the euro.<Node id="2844"/>
+
+<Node id="2846"/>John Cridland<Node id="2859"/>, deputy director-general of the <Node id="2892"/>CBI<Node id="2895"/>, insisted the downturn had ramifications beyond the manufacturing sector. &quot;The government must help by following through on its promise to make <Node id="3040"/>Britain<Node id="3047"/> the best place in the world to do business.&quot;<Node id="3092"/>
+
+<Node id="3094"/>Downing Street<Node id="3108"/> defended the government&apos;s approach. A spokesman for No 10 said that while no country could insulate itself from the global economy, measures including low corporation tax and tax on small businesses, and historically low interest rates and inflation, would help manufacturing to weather the storm.<Node id="3406"/>
+
+<Node id="3408"/>The key concern for the wider economy is how far the recession in manufacturing, which accounts for around <Node id="3515"/>20%<Node id="3518"/> of the economy, will spread to the much larger services sector.<Node id="3582"/>
+
+<Node id="3584"/>That concern was underlined by <Node id="3615"/>last week<Node id="3624"/>&apos;s surprise interest rate cut, which emphasised the worsening outlook for the global economy.<Node id="3717"/>
+
+<Node id="3719"/>The one bright spot for the government <Node id="3758"/>yesterday<Node id="3767"/> was that consumer spending remains robust.<Node id="3810"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Date" StartNode="1952" EndNode="1967">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Date" StartNode="1054" EndNode="1074">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Date" StartNode="908" EndNode="921">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Organization" StartNode="2396" EndNode="2399">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1687;1702;1680</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Organization" StartNode="2686" EndNode="2694">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">department</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Percent" StartNode="1044" EndNode="1046">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Organization" StartNode="2892" EndNode="2895">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="735" EndNode="748">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">government</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Location" StartNode="802" EndNode="806">
+</Annotation>
+<Annotation Id="34" Type="Person" StartNode="1746" EndNode="1767">
+</Annotation>
+<Annotation Id="32" Type="Organization" StartNode="1384" EndNode="1391">
+</Annotation>
+<Annotation Id="9" Type="Date" StartNode="1185" EndNode="1189">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Person" StartNode="2846" EndNode="2859">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="2113" EndNode="2116">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Date" StartNode="579" EndNode="588">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDateWords</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1688;1685;1712</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="3615" EndNode="3624">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Person" StartNode="2635" EndNode="2649">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Money" StartNode="334" EndNode="339">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Organization" StartNode="384" EndNode="417">
+</Annotation>
+<Annotation Id="4" Type="Location" StartNode="58" EndNode="65">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1709;1703;1686;1699;1696</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Location" StartNode="3040" EndNode="3047">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1709;1703;1686;1699;1696</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Person" StartNode="2074" EndNode="2086">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Date" StartNode="557" EndNode="574">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Person" StartNode="1421" EndNode="1434">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonJobTitle</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Money" StartNode="2409" EndNode="2414">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="45" EndNode="54">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDateWords</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1688;1685;1712</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Location" StartNode="1446" EndNode="1448">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Location" StartNode="2621" EndNode="2627">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">InLoc1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="2016" EndNode="2023">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1709;1703;1686;1699;1696</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="3758" EndNode="3767">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDateWords</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1688;1685;1712</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Location" StartNode="1576" EndNode="1583">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1709;1703;1686;1699;1696</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="848" EndNode="852">
+</Annotation>
+<Annotation Id="20" Type="Percent" StartNode="3515" EndNode="3518">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Location" StartNode="2542" EndNode="2549">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1709;1703;1686;1699;1696</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1192" EndNode="1211">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgPreX</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="319" EndNode="322">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">1687;1702;1680</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Location" StartNode="3094" EndNode="3108">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">StreetFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">StreetName1</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="79" Type="html" StartNode="0" EndNode="3810">
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="1192" EndNode="1382">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="3719" EndNode="3810">
+</Annotation>
+<Annotation Id="72" Type="font" StartNode="0" EndNode="3810">
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="3094" EndNode="3406">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="2074" EndNode="2243">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="1723" EndNode="2072">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="482" EndNode="793">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="3584" EndNode="3717">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="795" EndNode="922">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="924" EndNode="1190">
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="3408" EndNode="3582">
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="2245" EndNode="2390">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="0" EndNode="3810">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="315" EndNode="480">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="1384" EndNode="1721">
+</Annotation>
+<Annotation Id="76" Type="body" StartNode="0" EndNode="3810">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="2846" EndNode="3092">
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="2682" EndNode="2844">
+</Annotation>
+<Annotation Id="74" Type="TEXT" StartNode="0" EndNode="3810">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="2392" EndNode="2680">
+</Annotation>
+<Annotation Id="57" Type="font" StartNode="0" EndNode="3810">
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="122" EndNode="313">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-merrill-lynch-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-merrill-lynch-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc 1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Merrill Lynch<Node id="13"/>, the biggest <Node id="27"/>US<Node id="29"/> securities house, has had to cancel its global private equity conference in the latest sign that investment banks are cracking down on costs.<Node id="171"/>
+
+<Node id="173"/>The annual conference, which in the past has attracted high-profile speakers such <Node id="255"/>Lawrence Summers<Node id="271"/>, the then <Node id="282"/>US<Node id="284"/> Treasury Secretary, has officially been &quot;postponed&quot;.<Node id="337"/>
+
+<Node id="339"/>Merrill<Node id="346"/> has written to hundreds of clients telling them the conference will not take place until the <Node id="440"/>first half of next year<Node id="463"/>. <Node id="465"/>Merrill<Node id="472"/> declined to comment.<Node id="493"/>
+
+<Node id="495"/>The event, established in <Node id="521"/>1995<Node id="525"/>, is usually held in <Node id="546"/>Washington DC<Node id="559"/>. <Node id="561"/>This year<Node id="570"/> <Node id="571"/>Merrill<Node id="578"/> had planned to switch the venue to <Node id="614"/>London<Node id="620"/> to reflect its international focus.<Node id="656"/>
+
+<Node id="658"/>But is understood that many <Node id="686"/>Merrill<Node id="693"/> clients, which include some of the biggest investors in the <Node id="754"/>US<Node id="756"/>, said they would not be able to attend because of their own cost cutting exercises.<Node id="840"/>
+
+<Node id="842"/>Deutsche Bank<Node id="855"/> has already stopped staff travelling for internal meetings, telling employees to avoid taking flights and resort to video conferencing instead. However, the ban is not believed to affect travel to meet clients.<Node id="1066"/>
+
+<Node id="1068"/>Other investment banks are also believed to be looking at combining a number of their conferences scheduled for <Node id="1180"/>this year<Node id="1189"/> into one, or cancelling them outright to cut expenses.<Node id="1244"/>
+
+<Node id="1246"/>Merrill<Node id="1253"/>&apos;s move comes less than three weeks after the bank reported a <Node id="1315"/>41 per cent<Node id="1326"/> fall in profits, largely caused by a decline in trading activity.<Node id="1392"/>
+
+<Node id="1394"/>Almost all the investment banks have been asking their staff to tighten their belts.<Node id="1478"/>
+
+<Node id="1480"/>Goldman Sachs<Node id="1493"/> has banned its investment bankers from first-class travel and restricted the use of free taxis home, while <Node id="1601"/>Credit Suisse First Boston<Node id="1627"/> has told its staff to keep dinners after the closing of deals below <Node id="1696"/>$10,000<Node id="1703"/>.<Node id="1704"/>
+
+<Node id="1706"/>Merrill<Node id="1713"/> has already shed 3,800 jobs so far <Node id="1749"/>this year<Node id="1758"/>, representing <Node id="1773"/>5 per cent<Node id="1783"/> of its global workforce, and the investment bank left open the possibility of further cuts.<Node id="1875"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Location" StartNode="614" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">ule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="1706" EndNode="1713">
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="27" EndNode="29">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Location" StartNode="546" EndNode="559">
+</Annotation>
+<Annotation Id="23" Type="Percent" StartNode="1315" EndNode="1326">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1601" EndNode="1627">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Date" StartNode="521" EndNode="525">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Person" StartNode="255" EndNode="271">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="440" EndNode="463">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="571" EndNode="578">
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="1480" EndNode="1493">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Money" StartNode="1696" EndNode="1703">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="282" EndNode="284">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="561" EndNode="570">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="842" EndNode="855">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="465" EndNode="472">
+</Annotation>
+<Annotation Id="21" Type="Percent" StartNode="1773" EndNode="1783">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="686" EndNode="693">
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="1180" EndNode="1189">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Organization" StartNode="0" EndNode="13">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="754" EndNode="756">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="339" EndNode="346">
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="1246" EndNode="1253">
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="1749" EndNode="1758">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="43" Type="p" StartNode="1480" EndNode="1704">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="658" EndNode="840">
+</Annotation>
+<Annotation Id="73" Type="table" StartNode="0" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="842" EndNode="1066">
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="1394" EndNode="1478">
+</Annotation>
+<Annotation Id="64" Type="td" StartNode="0" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="173" EndNode="337">
+</Annotation>
+<Annotation Id="87" Type="TEXT" StartNode="0" EndNode="1875">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="495" EndNode="656">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="0" EndNode="1875">
+</Annotation>
+<Annotation Id="53" Type="font" StartNode="0" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="tr" StartNode="0" EndNode="1875">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="0" EndNode="171">
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="1706" EndNode="1875">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="339" EndNode="493">
+</Annotation>
+<Annotation Id="76" Type="html" StartNode="0" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="1246" EndNode="1392">
+</Annotation>
+<Annotation Id="74" Type="body" StartNode="0" EndNode="1875">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="1068" EndNode="1244">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

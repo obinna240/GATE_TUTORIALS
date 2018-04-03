@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">http://newsvote.bbc.co.uk/mpapps/pagetools/print/news.bbc.co.uk/1/hi/uk_politics/election_2010/8663716.stm?ad=1</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />BBC News - Voters head to polls for UK general election<Node id="55" />
+
+<Node id="57" />General election voting under way<Node id="90" />
+
+<Node id="92" />Millions of people in constituencies across the UK are casting their votes in the general election.<Node id="191" />
+
+<Node id="193" />Polling stations up and down the country opened at 0700 BST and people will be able to cast their ballots until 2200 BST.<Node id="314" />
+
+<Node id="316" />More than 44 million people are registered to vote. The first declarations are expected at 2300 BST.<Node id="416" />
+
+<Node id="418" />As well as picking MPs for Westminster, voters will elect councillors in 164 local authorities across England.<Node id="528" />
+<Node id="529" />
+<Node id="530" />Voting in the general election will take place in 649 constituencies, with nearly 4,150 candidates standing for election across the country.<Node id="670" />
+
+<Node id="672" />David Cameron was the first of the main UK party leaders to cast their vote. The Tory leader went to a community hall in Witney, Oxfordshire, shortly after 1030 BST, accompanied by his wife Samantha.<Node id="871" />
+
+<Node id="873" />Labour leader Gordon Brown went to vote shortly after 1100 BST at a community centre close to his home in North Queensferry, Fife. His wife Sarah was with him.<Node id="1032" />
+
+<Node id="1034" />Nick Clegg, leader of the Liberal Democrats, arrived at a polling station in Sheffield Hallam at 1120 BST. His wife Miriam is unable to vote in the general election because she is a Spanish citizen.<Node id="1232" />
+
+<Node id="1234" />The leader of the Scottish National Party, Alex Salmond, cast his vote shortly before noon, at Macduff in Banffshire. Ieuan Wyn Jones of Plaid Cymru voted in the constituency of Ynys Mon in north Wales at lunchtime. <Node id="1450" />
+
+<Node id="1452" />Polling in one constituency - Thirsk and Malton - has been delayed until 27 May because of the death of one of the candidates during the campaign.<Node id="1598" />
+<Node id="1599" />ELECTION 2010 ON THE BBC
+<Node id="1624" />Results live on BBC One from 2155 BST<Node id="1661" />
+<Node id="1662" />Also on BBC HD and BBC News Channel<Node id="1697" />
+<Node id="1698" />Live coverage on<Node id="1714" />
+<Node id="1715" />
+<Node id="1716" />The vast majority of constituencies will conduct their counts overnight, with about 20 not due to begin the process until after 0900 GMT on Friday.<Node id="1863" />
+
+<Node id="1865" />Among the council elections taking place, voters will choose representatives in 32 London boroughs, 36 metropolitan authorities and 20 unitary authorities.<Node id="2020" />
+
+<Node id="2022" />In these elections, a total of 15,785 candidates are contesting 4,222 seats.<Node id="2098" />
+
+<Node id="2100" />Voting will also take place to choose mayors in Hackney, Newham, Lewisham and Watford.<Node id="2186" />
+
+<Node id="2188" />UK Independence Party Euro-MP Nigel Farage has been involved in a light plane crash near Brackley, Northants.<Node id="2297" />
+
+<Node id="2299" />The former leader of UKIP, who is standing in the general election in Buckingham, suffered non life-threatening injuries when the aircraft came down just after 0800 BST.<Node id="2468" />
+
+<Node id="2470" />He was initially taken to hospital in Banbury, Oxfordshire, before being moved to the John Radcliffe hospital in Oxford. The pilot is currently being treated at University Hospital in Coventry.<Node id="2663" />
+
+<Node id="2665" />The crash is being investigated by the Air Accidents Investigation Branch and Northamptonshire Police. Initial reports suggested the aircraft was towing an aerial banner.<Node id="2835" />
+
+<Node id="2837" />A UKIP spokesman said: "We've had unconfirmed reports that either the banner got snagged up or there were cross-winds and it was unfamiliar airfield to the pilot, who had to be cut out of the plane."<Node id="3036" />
+
+<Node id="3038" />Mr Farage suffered "minor head injuries" but campaigners had been told to "carry on", he said.<Node id="3132" />
+<Node id="3133" />Story from BBC NEWS:
+<Node id="3154" />http://news.bbc.co.uk/go/pr/fr/-/1/hi/uk_politics/election_2010/8663716.stm
+<Node id="3230" />
+<Node id="3231" />Published: 2010/05/06 13:06:54 GMT
+<Node id="3266" />
+<Node id="3267" />© BBC MMX
+<Node id="3277" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="3277">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="57">
+</Annotation>
+<Annotation Id="2" Type="title" StartNode="0" EndNode="55">
+</Annotation>
+<Annotation Id="3" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">BBC, News, BBC News, news online, world, uk, international, foreign, british, online, service</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">keywords</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">2010/05/06 13:06:54</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">OriginalPublicationDate</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">/1/hi/uk_politics/election_2010/8663716.stm</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">UKFS_URL</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">/2/hi/uk_news/politics/election_2010/8663716.stm</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">IFS_URL</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">NOARCHIVE</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">name</Name>
+  <Value className="java.lang.String">ROBOTS</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="meta" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">content</Name>
+  <Value className="java.lang.String">text/html;charset=UTF-8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">http-equiv</Name>
+  <Value className="java.lang.String">Content-Type</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="link" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">text/css</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">href</Name>
+  <Value className="java.lang.String">/shared/css/printthispage.css</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rel</Name>
+  <Value className="java.lang.String">stylesheet</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="script" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">type</Name>
+  <Value className="java.lang.String">text/javascript</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">http://node1.bbcimg.co.uk/glow/gloader.0.1.2.js</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="body" StartNode="57" EndNode="3277">
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">text</Name>
+  <Value className="java.lang.String">#000000</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="div" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">logo</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="img" StartNode="57" EndNode="57">
+<Feature>
+  <Name className="java.lang.String">src</Name>
+  <Value className="java.lang.String">/nol/shared/img/printer_friendly/news_logo.gif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">height</Name>
+  <Value className="java.lang.String">34</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alt</Name>
+  <Value className="java.lang.String">BBC NEWS</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">163</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="div" StartNode="57" EndNode="90">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">headline</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="92" EndNode="191">
+</Annotation>
+<Annotation Id="17" Type="p" StartNode="193" EndNode="314">
+</Annotation>
+<Annotation Id="16" Type="b" StartNode="92" EndNode="191">
+</Annotation>
+<Annotation Id="19" Type="p" StartNode="418" EndNode="528">
+</Annotation>
+<Annotation Id="18" Type="p" StartNode="316" EndNode="416">
+</Annotation>
+<Annotation Id="21" Type="p" StartNode="530" EndNode="670">
+</Annotation>
+<Annotation Id="20" Type="div" StartNode="529" EndNode="1599">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="p" StartNode="873" EndNode="1032">
+</Annotation>
+<Annotation Id="22" Type="p" StartNode="672" EndNode="871">
+</Annotation>
+<Annotation Id="25" Type="p" StartNode="1234" EndNode="1450">
+</Annotation>
+<Annotation Id="24" Type="p" StartNode="1034" EndNode="1232">
+</Annotation>
+<Annotation Id="27" Type="div" StartNode="1599" EndNode="1715">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">ibox</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="p" StartNode="1452" EndNode="1598">
+</Annotation>
+<Annotation Id="29" Type="li" StartNode="1624" EndNode="1661">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="br" StartNode="1624" EndNode="1624">
+</Annotation>
+<Annotation Id="31" Type="li" StartNode="1698" EndNode="1714">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="li" StartNode="1662" EndNode="1697">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="p" StartNode="1865" EndNode="2020">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="2022" EndNode="2098">
+</Annotation>
+<Annotation Id="32" Type="div" StartNode="1715" EndNode="2299">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="1716" EndNode="1863">
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="2299" EndNode="2299">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="div" StartNode="2299" EndNode="3133">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">bo</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="p" StartNode="2100" EndNode="2186">
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="2188" EndNode="2297">
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="2665" EndNode="2835">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="2837" EndNode="3036">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="2299" EndNode="2468">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="2470" EndNode="2663">
+</Annotation>
+<Annotation Id="46" Type="br" StartNode="3154" EndNode="3154">
+</Annotation>
+<Annotation Id="47" Type="br" StartNode="3230" EndNode="3230">
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="3038" EndNode="3132">
+</Annotation>
+<Annotation Id="45" Type="div" StartNode="3133" EndNode="3277">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">footer</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="br" StartNode="3277" EndNode="3277">
+</Annotation>
+<Annotation Id="50" Type="br" StartNode="3267" EndNode="3267">
+</Annotation>
+<Annotation Id="49" Type="br" StartNode="3266" EndNode="3266">
+</Annotation>
+<Annotation Id="48" Type="br" StartNode="3231" EndNode="3231">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

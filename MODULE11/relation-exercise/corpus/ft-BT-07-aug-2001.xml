@@ -1,0 +1,1169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/gatecorpora/news/business/clean/ft-BT-07-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Just as <Node id="8" />British Telecommunications<Node id="34" /> thought the pressure was easing, a pair of approaches for its <Node id="97" />UK<Node id="99" /> network have refocused the spotlight on its longer term strategy.<Node id="165" />
+
+<Node id="167" />Less than two months after its <Node id="198" />£5.9bn<Node id="204" /> (<Node id="206" />$8.4bn<Node id="212" />) rights issue removed its debt worries, details have begun to emerge of an <Node id="288" />£8bn<Node id="292" /> approach from <Node id="307" />Earth Lease<Node id="318" /> for <Node id="323" />BT<Node id="325" />'s local loop - the wires that connect customers to the telephone network - and an <Node id="408" />£18bn<Node id="413" /> proposal from <Node id="428" />WestLB<Node id="434" />, the German bank, to buy <Node id="460" />BT<Node id="462" />'s entire <Node id="472" />UK<Node id="474" /> network.<Node id="483" />
+
+<Node id="485" />In both cases <Node id="499" />BT<Node id="501" /> would then lease back capacity on the network.<Node id="548" />
+
+<Node id="550" />Neither looks likely to lead to a deal in the short-term. Analysts believe they are probably pitched too low and would require complex work by <Node id="693" />BT<Node id="695" /> to split out the relevant parts of its business.<Node id="744" />
+
+<Node id="746" />BT<Node id="748" /> also no longer needs cash and it is already in the throes of demerging its wireless business.<Node id="842" />
+
+<Node id="844" />One analyst says: "There is a grave danger of putting too much credibility on what is being put forward here. They saw <Node id="963" />BT<Node id="965" /> on its knees and thought it was a good opportunity to get a high quality asset. <Node id="1046" />BT<Node id="1048" /> has now solved its debt problem and it looks like they came too late to the fray."<Node id="1131" />
+
+<Node id="1133" />But there is some logic in both approaches.<Node id="1176" />
+
+<Node id="1178" />The <Node id="1182" />WestLB<Node id="1188" /> proposal is to buy all of <Node id="1215" />BT<Node id="1217" />'s <Node id="1220" />UK<Node id="1222" /> network - the local loop and trunk lines - leaving <Node id="1274" />BT<Node id="1276" /> with its 21m retail customers.<Node id="1307" />
+
+<Node id="1309" />The structure would be much like the split of <Node id="1355" />British Gas<Node id="1366" /> into <Node id="1372" />Centrica<Node id="1380" />, the gas supply business, and <Node id="1411" />BG<Node id="1413" />, the pipes and gas exploration business, in <Node id="1458" />1997<Node id="1462" />.<Node id="1463" />
+
+<Node id="1465" />That split - overseen by <Node id="1490" />BT<Node id="1492" />'s finance director <Node id="1512" />Philip Hampton<Node id="1526" /> - has been a success, with both parts since then outperforming the FTSE.<Node id="1599" />
+
+<Node id="1601" />In fact <Node id="1609" />BT<Node id="1611" /> has already looked at breaking itself up in a similar way. Negotiations are in progress with <Node id="1705" />Oftel<Node id="1710" />, the telecoms regulator, to separate the network and retail businesses for accounting purposes.<Node id="1806" />
+
+<Node id="1808" />This is likely to be complete by <Node id="1841" />March<Node id="1846" /> and was originally viewed as a precursor to a <Node id="1893" />British Gas<Node id="1904" />-style demerger of the two sides.<Node id="1937" />
+
+<Node id="1939" />However, the mood within <Node id="1964" />BT<Node id="1966" /> appears to be have shifted towards separating the businesses under the <Node id="2038" />BT<Node id="2040" /> umbrella, to give them more autonomy and accountability, while retaining overall control.<Node id="2130" />
+
+<Node id="2132" />"What is <Node id="2141" />BT<Node id="2143" /> if you take away the whole of the network? If you are looking at shareholder value, I am not sure selling off the crown jewels is necessarily the right thing to do," one analyst said.<Node id="2327" />
+
+<Node id="2329" />Even if <Node id="2337" />BT<Node id="2339" /> decided that a full split was in its interest, it might well decide to demerge instead of selling.<Node id="2438" />
+
+<Node id="2440" />The <Node id="2444" />Earth Lease<Node id="2455" /> proposal is more radical. The local loop is an area where <Node id="2514" />BT<Node id="2516" /> has come under fire for its slow progress in opening up to competition - a process known as local loop unbundling.<Node id="2631" />
+
+<Node id="2633" />In addition, the <Node id="2650" />UK<Node id="2652" /> has fallen far behind some of its European peers in installing equipment in local exchanges to offer broadband internet access across copper telephone lines.<Node id="2810" />
+
+<Node id="2812" />Earth Lease<Node id="2823" /> believes that a deal would allow it to kick-start unbundling and broadband access. It would make the market more competitive for <Node id="2953" />BT<Node id="2955" />, but <Node id="2961" />Earth Lease<Node id="2972" /> argues that any loss of market share for <Node id="3014" />BT<Node id="3016" /> would be compensated for by a bigger overall market.<Node id="3069" />
+
+<Node id="3071" />So far <Node id="3078" />BT<Node id="3080" /> seems unimpressed, saying "it makes no business sense". Not least, it would be complex to separate out the local copper wires from the rest of its business for a sale.<Node id="3248" />
+
+<Node id="3250" />But if the regulator started getting tougher, <Node id="3296" />BT<Node id="3298" />'s attitude could change.<Node id="3323" />
+
+<Node id="3325" />"The <Node id="3330" />Earth Lease<Node id="3341" /> bid might make sense if <Node id="3366" />BT<Node id="3368" /> were under heavy regulation and there was real pressure on unbundling and broadband. Selling [the local loop] might get the problem out of their hair," an analyst said.<Node id="3537" />
+
+<Node id="3539" />At the moment, there is little pressure for a deal.<Node id="3590" />
+
+<Node id="3592" />BT<Node id="3594" /> is not under the screws from the regulator and investors are no longer clamouring for deals to cut its debt.<Node id="3703" />
+
+<Node id="3705" />The <Node id="3709" />UK<Node id="3711" /> network had earnings before interest, tax, depreciation and amortisation of <Node id="3788" />£4.3bn<Node id="3794" /> <Node id="3795" />last year<Node id="3804" /> from revenues of <Node id="3822" />£11.5bn<Node id="3829" />.<Node id="3830" />
+
+<Node id="3832" />Analysts have put a price of <Node id="3861" />£25bn<Node id="3866" /> on the business.<Node id="3883" />
+
+<Node id="3885" />They are less willing to value the local loop because it is not properly defined and its worth depends entirely on how much <Node id="4009" />BT<Node id="4011" /> would be charged for access if it sold the asset.<Node id="4061" />
+
+<Node id="4063" />Both approaches - hatched when <Node id="4094" />BT<Node id="4096" /> was under pressure to cut its debt - now look out of date. <Node id="4156" />BT<Node id="4158" /> insists there are no more approaches to come out of the woodwork and that those on the table will go no further.<Node id="4271" />
+
+<Node id="4273" />But it has put the structure of <Node id="4305" />BT<Node id="4307" />'s <Node id="4310" />UK<Node id="4312" /> business back on the agenda.<Node id="4341" />
+
+<Node id="4343" />Meanwhile, the predators say they are willing to be patient.<Node id="4403" />
+
+<Node id="4405" />"It is very early days. We have put down a marker. The cat is not yet among the pigeons, but it is beginning to chivvy the pigeons along," one insider says.<Node id="4561" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Location" StartNode="4310" EndNode="4312">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="4305" EndNode="4307">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="4156" EndNode="4158">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="4094" EndNode="4096">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="4009" EndNode="4011">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Date" StartNode="3795" EndNode="3804">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Location" StartNode="3709" EndNode="3711">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="3592" EndNode="3594">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="3366" EndNode="3368">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="3296" EndNode="3298">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="3078" EndNode="3080">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="3014" EndNode="3016">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="2953" EndNode="2955">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Location" StartNode="2650" EndNode="2652">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="2514" EndNode="2516">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Organization" StartNode="2337" EndNode="2339">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">15</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Organization" StartNode="2038" EndNode="2040">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">17</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="2141" EndNode="2143">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="1893" EndNode="1904">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TheOrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2379;2433</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="1964" EndNode="1966">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">18</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="1609" EndNode="1611">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Date" StartNode="1841" EndNode="1846">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Organization" StartNode="1490" EndNode="1492">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">23</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Person" StartNode="1512" EndNode="1526">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonJobTitle</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="1355" EndNode="1366">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Date" StartNode="1458" EndNode="1462">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearContext1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Location" StartNode="1220" EndNode="1222">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Organization" StartNode="1274" EndNode="1276">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">26</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="1046" EndNode="1048">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">29</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="1215" EndNode="1217">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">28</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Organization" StartNode="746" EndNode="748">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">31</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Organization" StartNode="963" EndNode="965">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Location" StartNode="472" EndNode="474">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Organization" StartNode="460" EndNode="462">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Organization" StartNode="693" EndNode="695">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">32</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Organization" StartNode="499" EndNode="501">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">33</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Money" StartNode="3861" EndNode="3866">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Money" StartNode="3822" EndNode="3829">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Organization" StartNode="323" EndNode="325">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">36</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2367;2366;2365;2363;2362;2358;2405;2404;2403;2401;2400;2398;2397;2396;2395;2392;2391;2390;2389;2388;2387;2384;2383;2382;2381;2380;2377;2375;2372;2370;2369;2368</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Location" StartNode="97" EndNode="99">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2399;2364;2361;2393;2371;2385</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Money" StartNode="288" EndNode="292">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Money" StartNode="206" EndNode="212">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Money" StartNode="3788" EndNode="3794">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Money" StartNode="408" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Organization" StartNode="2961" EndNode="2972">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">46</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Organization" StartNode="2812" EndNode="2823">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">47</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Money" StartNode="198" EndNode="204">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Organization" StartNode="3330" EndNode="3341">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">45</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Organization" StartNode="1182" EndNode="1188">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">51</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="Organization" StartNode="1372" EndNode="1380">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">50</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Organization" StartNode="1705" EndNode="1710">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">49</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Organization" StartNode="2444" EndNode="2455">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">48</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="Organization" StartNode="1411" EndNode="1413">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">55</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.util.ArrayList" itemClassName="java.lang.Integer">2379;2433</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">NMRule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">PN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Organization" StartNode="8" EndNode="34">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">54</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Organization" StartNode="428" EndNode="434">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">53</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Organization" StartNode="307" EndNode="318">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">52</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9934" Type="RelationClass" StartNode="1490" EndNode="1526">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">22</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">23</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="137" Type="p" StartNode="4273" EndNode="4341">
+</Annotation>
+<Annotation Id="68" Type="p" StartNode="4063" EndNode="4271">
+</Annotation>
+<Annotation Id="69" Type="p" StartNode="1601" EndNode="1806">
+</Annotation>
+<Annotation Id="70" Type="p" StartNode="485" EndNode="548">
+</Annotation>
+<Annotation Id="138" Type="p" StartNode="1808" EndNode="1937">
+</Annotation>
+<Annotation Id="140" Type="table" StartNode="0" EndNode="4561">
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+</Annotation>
+<Annotation Id="76" Type="p" StartNode="844" EndNode="1131">
+</Annotation>
+<Annotation Id="133" Type="p" StartNode="0" EndNode="165">
+</Annotation>
+<Annotation Id="132" Type="p" StartNode="2633" EndNode="2810">
+</Annotation>
+<Annotation Id="75" Type="p" StartNode="3539" EndNode="3590">
+</Annotation>
+<Annotation Id="84" Type="html" StartNode="0" EndNode="4561">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="81" Type="p" StartNode="3832" EndNode="3883">
+</Annotation>
+<Annotation Id="82" Type="p" StartNode="1309" EndNode="1463">
+</Annotation>
+<Annotation Id="144" Type="p" StartNode="2329" EndNode="2438">
+</Annotation>
+<Annotation Id="145" Type="p" StartNode="0" EndNode="4561">
+</Annotation>
+<Annotation Id="95" Type="p" StartNode="1133" EndNode="1176">
+</Annotation>
+<Annotation Id="94" Type="p" StartNode="3592" EndNode="3703">
+</Annotation>
+<Annotation Id="89" Type="p" StartNode="550" EndNode="744">
+</Annotation>
+<Annotation Id="88" Type="p" StartNode="3250" EndNode="3323">
+</Annotation>
+<Annotation Id="150" Type="p" StartNode="2812" EndNode="3069">
+</Annotation>
+<Annotation Id="90" Type="tr" StartNode="0" EndNode="4561">
+</Annotation>
+<Annotation Id="151" Type="p" StartNode="167" EndNode="483">
+</Annotation>
+<Annotation Id="100" Type="p" StartNode="3885" EndNode="4061">
+</Annotation>
+<Annotation Id="101" Type="p" StartNode="1465" EndNode="1599">
+</Annotation>
+<Annotation Id="106" Type="p" StartNode="4343" EndNode="4403">
+</Annotation>
+<Annotation Id="107" Type="p" StartNode="1939" EndNode="2130">
+</Annotation>
+<Annotation Id="119" Type="p" StartNode="3071" EndNode="3248">
+</Annotation>
+<Annotation Id="114" Type="font" StartNode="0" EndNode="4561">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="113" Type="p" StartNode="2440" EndNode="2631">
+</Annotation>
+<Annotation Id="58" Type="td" StartNode="0" EndNode="4561">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="126" Type="p" StartNode="2132" EndNode="2327">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="746" EndNode="842">
+</Annotation>
+<Annotation Id="125" Type="p" StartNode="4405" EndNode="4561">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="3325" EndNode="3537">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="1178" EndNode="1307">
+</Annotation>
+<Annotation Id="122" Type="body" StartNode="0" EndNode="4561">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="3705" EndNode="3830">
+</Annotation>
+<Annotation Id="120" Type="TEXT" StartNode="0" EndNode="4561">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

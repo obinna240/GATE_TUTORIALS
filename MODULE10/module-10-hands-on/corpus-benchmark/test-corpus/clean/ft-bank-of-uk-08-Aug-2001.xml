@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-bank-of-uk-08-Aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-bank-of-uk-08-Aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The Bank of England has downgraded its assessment of economic growth in the UK for the rest of the year, but expects a modest recovery in 2002 if the world economy improves as expected.<Node id="185" />
+
+<Node id="187" />In the wake of last week's surprise quarter point interest rate cut, the UK's central bank said the outlook for growth had worsened since its last report in May and that this was a central factor in its decision.<Node id="399" />
+
+<Node id="401" />In its August quarterly inflation report, published on Wednesday, the Bank also conceded the world economic slowdown could be deeper and more prolonged than had been thought.<Node id="575" />
+
+<Node id="577" />The modest prospects for growth meant that inflationary pressures would be dampened, the bank said.<Node id="676" />
+
+<Node id="678" />Excluding mortgages, inflation is expected to slip to 2.0 per cent early in 2002, from the current 2.4 per cent, and is then set to move towards the government's 2.5 per cent target.<Node id="860" />
+
+<Node id="862" />This is "a little weaker" than forecast in the bank's previous inflation report, and the Bank admitted that "considerable uncertainties" surround the projections.<Node id="1024" />
+
+<Node id="1026" />The Bank also voiced fears about the UK's two-speed economy and the risk of sterling falling sharply on foreign exchanges.<Node id="1148" />
+
+<Node id="1150" />"A fall in the exchange rate would raise inflationary pressures and so makes the overall risks to inflation rather more evenly balanced," the report said.<Node id="1304" />
+
+<Node id="1306" />The members of the Bank's Monetary Policy Committee take differing views on the likelihood of these risks materialising. The balance of risks to both the UK and global economy was on the downside, and therefore further cuts in UK interest rates are a distinct possibility.<Node id="1578" />
+
+<Node id="1580" />It also noted that strong consumer spending has helped to hold up domestic demand in the UK but internationally-exposed sectors, such as manufacturing, have seen output decline markedly.<Node id="1766" />
+
+<Node id="1768" />The outlook for the global economy continued to depend heavily on developments in the US where a pick-up in growth is expected before the end of the year. However, this is balanced by a continuation of the slowdown in Europe, the bank said.<Node id="2008" />
+
+<Node id="2010" />The report notes that growth in the eurozone is likely to remain sluggish throughout rest of this year and that this will act as futher constraint on the UK economy.<Node id="2175" />
+
+<Node id="2177" />Robert Jukes of Credit Suisse First Boston said the MPC was obviously concerned about the global economy, and weakness within Europe in particular. "The report shows that the MPC remains willing to act upon these concerns about the global economy even when it feels quite differently about the domestic economy. Better to over-stimulate domestic demand and exacerbate the imbalances, than to delay a policy response and to risk deepening the downturn," Mr Jukes said.<Node id="2644" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="68" Type="p" StartNode="0" EndNode="2644">
+</Annotation>
+<Annotation Id="101" Type="TEXT" StartNode="0" EndNode="2644">
+</Annotation>
+<Annotation Id="64" Type="p" StartNode="401" EndNode="575">
+</Annotation>
+<Annotation Id="65" Type="p" StartNode="187" EndNode="399">
+</Annotation>
+<Annotation Id="66" Type="p" StartNode="0" EndNode="185">
+</Annotation>
+<Annotation Id="67" Type="font" StartNode="0" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="78" Type="td" StartNode="0" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="79" Type="tr" StartNode="0" EndNode="2644">
+</Annotation>
+<Annotation Id="87" Type="table" StartNode="0" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="2010" EndNode="2175">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="2177" EndNode="2644">
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="1150" EndNode="1304">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="1306" EndNode="1578">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="1580" EndNode="1766">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="1768" EndNode="2008">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="577" EndNode="676">
+</Annotation>
+<Annotation Id="88" Type="body" StartNode="0" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="678" EndNode="860">
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="862" EndNode="1024">
+</Annotation>
+<Annotation Id="90" Type="html" StartNode="0" EndNode="2644">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="1026" EndNode="1148">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/in-guardian-it-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/in-guardian-it-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Guardian IT<Node id="11" />, a disaster recovery business, saw its market value halve <Node id="70" />yesterday<Node id="79" /> to <Node id="83" />£143m<Node id="88" /> after a surprise profits alert on what was another miserable day for the technology sector.<Node id="180" />
+
+<Node id="182" />Fellow technology group and provider of e-commerce software, <Node id="243" />Kewill Systems<Node id="257" />, had <Node id="263" />£20m<Node id="267" /> knocked off its market capitalisation after it warned that economic conditions were having a severe impact on trading, forcing it to cut <Node id="405" />13 per cent<Node id="416" /> of its workforce.<Node id="434" />
+
+<Node id="436" />A <Node id="438" />3 per cent<Node id="448" /> slide on <Node id="458" />Nasdaq<Node id="464" /> overnight on <Node id="478" />Wednesday<Node id="487" />, which pushed the <Node id="506" />US<Node id="508" /> tech index beneath the key 2,000 points level, combined with gloomy comments from <Node id="591" />Cisco<Node id="596" />, the <Node id="602" />US<Node id="604" /> networking giant, earlier <Node id="631" />this week<Node id="640" /> left their mark on the sector.<Node id="671" />
+
+<Node id="673" />Telecoms equipment makers <Node id="699" />Spirent<Node id="706" /> and <Node id="711" />Marconi<Node id="718" /> fell <Node id="724" />5.6 per cent<Node id="736" /> and <Node id="741" />2.7 per cent<Node id="753" /> respectively. <Node id="768" />Sage<Node id="772" />, an accounting software firm, lost <Node id="808" />5.6 per cent<Node id="820" />, <Node id="822" />Logica<Node id="828" />, an IT services company, fell <Node id="859" />5.4 per cent<Node id="871" /> while <Node id="878" />ARM Holdings<Node id="890" />, a chip designer, fell <Node id="914" />2.7 per cent<Node id="926" />.<Node id="927" />
+
+<Node id="929" />The shockwaves were felt across <Node id="961" />Europe<Node id="967" />. <Node id="969" />Nokia<Node id="974" />, the Finnish mobile phone giant, lost <Node id="1013" />7 per cent<Node id="1023" />, rival <Node id="1031" />Ericsson<Node id="1039" /> was down <Node id="1049" />2.8 per cent<Node id="1061" /> while <Node id="1068" />Alcatel<Node id="1075" />, a French telecoms equipment firm fell <Node id="1115" />7.6 per cent<Node id="1127" />.<Node id="1128" />
+
+<Node id="1130" />Guardian iT<Node id="1141" /> said conditions in the web hosting market had "materially worsened" while sales in its <Node id="1229" />City<Node id="1233" />-based core disaster recovery business were being postponed. The stock finished down <Node id="1318" />49.4 per cent<Node id="1331" /> at <Node id="1335" />205p<Node id="1339" />.<Node id="1340" />
+
+<Node id="1342" />Many analysts believed investors had overreacted to the statement but were angered by the way the alert had been handled.<Node id="1463" />
+
+<Node id="1465" />Just two paragraphs of the company's announcement were devoted to current trading conditions but contained enough worrying news to force analysts to cut about <Node id="1624" />£1m<Node id="1627" /> off <Node id="1632" />current year<Node id="1644" /> profit forecasts to about <Node id="1671" />£15m<Node id="1675" />. <Node id="1677" />Next year<Node id="1686" />'s forecasts were slashed by <Node id="1715" />£5m-£6m<Node id="1722" /> to about <Node id="1732" />£22m<Node id="1736" />. The company also said it would report an underlying profit of <Node id="1800" />£8.1m<Node id="1805" /> on sales of <Node id="1818" />£58m<Node id="1822" /> for the <Node id="1831" />six months ended 30 June<Node id="1855" />.<Node id="1856" />
+
+<Node id="1858" />The bulk of <Node id="1870" />Guardian iT<Node id="1881" />'s announcement, however, centred on the appointment of <Node id="1937" />Neal Roberts<Node id="1949" /> as finance director. <Node id="1971" />Mr Roberts<Node id="1981" />, who joins the business in <Node id="2009" />December<Node id="2017" /> from privately-owned <Node id="2039" />Specialist Computer Holdings<Node id="2067" />, replaces the highly-regarded <Node id="2098" />Peter Jakob<Node id="2109" /> who is leaving to get involved in "early stage ventures".<Node id="2167" />
+
+<Node id="2169" />Peter MacLean<Node id="2182" />, the chief executive, said: "We're not alone in this [warning]; the market has been very poor for the last few months and other companies have experienced similar problems to ourselves."<Node id="2369" />
+
+<Node id="2371" />By contrast, the downgrades at <Node id="2402" />Kewill<Node id="2408" /> were more severe after the company warned it expected to record a "material" operating loss for the <Node id="2509" />six months to 30 September<Node id="2535" />. Its shares finished down <Node id="2562" />32 per cent<Node id="2573" /> at <Node id="2577" />54.25p<Node id="2583" />.<Node id="2584" />
+
+<Node id="2586" />Analysts now expect the company to produce a loss of about <Node id="2645" />£4m<Node id="2648" /> for the year against previous expectations of profits of about <Node id="2712" />£6m<Node id="2715" />.<Node id="2716" />
+
+<Node id="2718" />Guy Feld<Node id="2726" />, head of research at <Node id="2748" />Teather &amp; Greenwood<Node id="2767" />, said <Node id="2774" />Kewill<Node id="2780" /> was suffering from the same affliction that other software businesses were seeing. "Customers are saying it's very interesting but can we put it on the backburner. Same old story  they've got no visibility," he said.<Node id="2998" />
+
+<Node id="3000" />Kewill<Node id="3006" /> said it had seen "particularly difficult" trading conditions in the <Node id="3075" />first four months of its financial year<Node id="3114" /> "with sales levels substantially below expectations" in both its e-commerce and enterprise resource planning divisions. The 90 job cuts it has made, in response to that downturn, have fallen mainly in the <Node id="3320" />US<Node id="3322" /> although 20 positions have been axed in the <Node id="3367" />UK<Node id="3369" />.<Node id="3370" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Location" StartNode="1229" EndNode="1233">
+</Annotation>
+<Annotation Id="1" Type="Money" StartNode="1715" EndNode="1722">
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="3075" EndNode="3114">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="2509" EndNode="2535">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Date" StartNode="1831" EndNode="1855">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Date" StartNode="1677" EndNode="1686">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Date" StartNode="631" EndNode="640">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="83" EndNode="88">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Money" StartNode="263" EndNode="267">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Percent" StartNode="405" EndNode="416">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Percent" StartNode="438" EndNode="448">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Percent" StartNode="724" EndNode="736">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Percent" StartNode="741" EndNode="753">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Percent" StartNode="808" EndNode="820">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Percent" StartNode="859" EndNode="871">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Percent" StartNode="914" EndNode="926">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Percent" StartNode="1049" EndNode="1061">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Percent" StartNode="1013" EndNode="1023">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Percent" StartNode="1318" EndNode="1331">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Percent" StartNode="1115" EndNode="1127">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Money" StartNode="1624" EndNode="1627">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Money" StartNode="1335" EndNode="1339">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Money" StartNode="1732" EndNode="1736">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Money" StartNode="1671" EndNode="1675">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Money" StartNode="1818" EndNode="1822">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Money" StartNode="1800" EndNode="1805">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Money" StartNode="2577" EndNode="2583">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Percent" StartNode="2562" EndNode="2573">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Money" StartNode="2712" EndNode="2715">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Money" StartNode="2645" EndNode="2648">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Organization" StartNode="458" EndNode="464">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">31</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Organization" StartNode="243" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">30</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Location" StartNode="602" EndNode="604">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Organization" StartNode="878" EndNode="890">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">35</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Date" StartNode="478" EndNode="487">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Location" StartNode="506" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">al</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Organization" StartNode="1031" EndNode="1039">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">38</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Organization" StartNode="1068" EndNode="1075">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">39</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Location" StartNode="961" EndNode="967">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Organization" StartNode="969" EndNode="974">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">37</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="42" Type="Date" StartNode="2009" EndNode="2017">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="43" Type="Organization" StartNode="2039" EndNode="2067">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXKey</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">43</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Person" StartNode="1937" EndNode="1949">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="41" Type="Person" StartNode="1971" EndNode="1981">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">41</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="46" Type="Person" StartNode="2718" EndNode="2726">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="Organization" StartNode="2748" EndNode="2767">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXandY</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">47</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="Person" StartNode="2098" EndNode="2109">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">44</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="Person" StartNode="2169" EndNode="2182">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">45</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="Organization" StartNode="591" EndNode="596">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">51</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50" Type="Organization" StartNode="0" EndNode="11">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">50</Value>
+</Feature>
+</Annotation>
+<Annotation Id="49" Type="Location" StartNode="3367" EndNode="3369">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="48" Type="Location" StartNode="3320" EndNode="3322">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="55" Type="Organization" StartNode="822" EndNode="828">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">55</Value>
+</Feature>
+</Annotation>
+<Annotation Id="54" Type="Organization" StartNode="768" EndNode="772">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">54</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="Organization" StartNode="711" EndNode="718">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">53</Value>
+</Feature>
+</Annotation>
+<Annotation Id="52" Type="Organization" StartNode="699" EndNode="706">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">52</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="Organization" StartNode="2774" EndNode="2780">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">59</Value>
+</Feature>
+</Annotation>
+<Annotation Id="58" Type="Organization" StartNode="2402" EndNode="2408">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">58</Value>
+</Feature>
+</Annotation>
+<Annotation Id="57" Type="Organization" StartNode="1870" EndNode="1881">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">57</Value>
+</Feature>
+</Annotation>
+<Annotation Id="56" Type="Organization" StartNode="1130" EndNode="1141">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">56</Value>
+</Feature>
+</Annotation>
+<Annotation Id="62" Type="Date" StartNode="1632" EndNode="1644">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="61" Type="Date" StartNode="70" EndNode="79">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="60" Type="Organization" StartNode="3000" EndNode="3006">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">60</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7081" Type="RelationClass" StartNode="1870" EndNode="1949">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">40</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">57</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7082" Type="RelationClass" StartNode="1971" EndNode="2067">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">41</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">43</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7083" Type="RelationClass" StartNode="2718" EndNode="2767">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">46</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">47</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="102" Type="p" StartNode="1465" EndNode="1856">
+</Annotation>
+<Annotation Id="103" Type="p" StartNode="1858" EndNode="2167">
+</Annotation>
+<Annotation Id="100" Type="p" StartNode="1130" EndNode="1340">
+</Annotation>
+<Annotation Id="71" Type="html" StartNode="0" EndNode="3370">
+</Annotation>
+<Annotation Id="101" Type="p" StartNode="1342" EndNode="1463">
+</Annotation>
+<Annotation Id="98" Type="p" StartNode="673" EndNode="927">
+</Annotation>
+<Annotation Id="99" Type="p" StartNode="929" EndNode="1128">
+</Annotation>
+<Annotation Id="96" Type="p" StartNode="182" EndNode="434">
+</Annotation>
+<Annotation Id="97" Type="p" StartNode="436" EndNode="671">
+</Annotation>
+<Annotation Id="108" Type="p" StartNode="3000" EndNode="3370">
+</Annotation>
+<Annotation Id="106" Type="p" StartNode="2586" EndNode="2716">
+</Annotation>
+<Annotation Id="107" Type="p" StartNode="2718" EndNode="2998">
+</Annotation>
+<Annotation Id="74" Type="body" StartNode="0" EndNode="3370">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">text</Name>
+  <Value className="java.lang.String">#000000</Value>
+</Feature>
+</Annotation>
+<Annotation Id="104" Type="p" StartNode="2169" EndNode="2369">
+</Annotation>
+<Annotation Id="105" Type="p" StartNode="2371" EndNode="2584">
+</Annotation>
+<Annotation Id="118" Type="TEXT" StartNode="0" EndNode="3370">
+</Annotation>
+<Annotation Id="95" Type="p" StartNode="0" EndNode="180">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

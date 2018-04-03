@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<ML-CONFIG>
+  <VERBOSITY level="1"/>
+  <SURROUND value="false"/>
+  <PARAMETER name="thresholdProbabilityClassification" 
+	     value="0.5"/>
+
+  <multiClassification2Binary method="one-vs-others"/>
+
+  <EVALUATION method="kfold" 
+	      runs="4" />
+
+  <ENGINE nickname="PAUM" 
+	  implementationName="PAUM"
+	  options=" -p 50 -n 5 -optB 0.0  "/>
+
+  <DATASET>
+
+    <INSTANCE-TYPE>Sentence</INSTANCE-TYPE>
+    
+    <NGRAM>
+      <NAME>ngram</NAME>
+      <NUMBER>1</NUMBER>
+      <CONSNUM>2</CONSNUM>
+      
+      <CONS-1>
+        <TYPE>Token</TYPE>
+        <FEATURE>string</FEATURE>
+      </CONS-1>
+
+      <CONS-2>
+        <TYPE>Token</TYPE>
+        <FEATURE>kind</FEATURE>
+      </CONS-2>
+
+    </NGRAM>
+	
+	<ATTRIBUTE>
+		<NAME>ContainsNegative</NAME> <!-- Contains negative sentence: True if it contains more negative words than positive-->
+		<SEMTYPE>NOMINAL</SEMTYPE>
+		<TYPE>Sentence</TYPE>
+		<FEATURE>containsNeg</FEATURE>
+		<POSITION>0</POSITION>
+	</ATTRIBUTE>
+    
+    <ATTRIBUTE>
+      <NAME>SentenceLang</NAME>
+      <SEMTYPE>NOMINAL</SEMTYPE>
+      <TYPE>Sentence</TYPE>
+      <FEATURE>lang</FEATURE>
+      <POSITION>0</POSITION>
+      <CLASS/>
+    </ATTRIBUTE>
+    
+  </DATASET>
+</ML-CONFIG>

@@ -1,0 +1,18 @@
+Phase:	DocumentSport
+Input: Lookup
+Options: control = once
+
+Rule: AnnotateWithSport
+
+/* If the document contains a "sports" word, change the value of "sport" feature to "yes"
+*/
+
+(
+{Lookup.majorType == sport}
+)
+-->
+ {
+ doc.getFeatures().put("sport", "yes");
+ }
+
+

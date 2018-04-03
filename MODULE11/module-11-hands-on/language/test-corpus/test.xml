@@ -1,0 +1,3215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="2">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/home/adam/Dropbox/lang-sample/test.htm</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />And now, some days of bitter grief having elapsed, an observable change came over the features of the mental disorder of my friend.<Node id="131" /> <Node id="132" />His ordinary manner had vanished.<Node id="165" /> <Node id="166" />His ordinary occupations were neglected or forgotten.<Node id="219" /> <Node id="220" />He roamed from chamber to chamber with hurried, unequal, and objectless step.<Node id="297" /> <Node id="298" />The pallor of his countenance had assumed, if possible, a more ghastly hue—but the luminousness of his eye had utterly gone out.<Node id="426" /> <Node id="427" />The once occasional huskiness of his tone was heard no more; and a tremulous quaver, as if of extreme terror, habitually characterized his utterance.<Node id="576" /> <Node id="577" />There were times, indeed, when I thought his unceasingly agitated mind was laboring with some oppressive secret, to divulge which he struggled for the necessary courage.<Node id="746" /> <Node id="747" />At times, again, I was obliged to resolve all into the mere inexplicable vagaries of madness, for I beheld him gazing upon vacancy for long hours, in an attitude of the profoundest attention, as if listening to some imaginary sound.<Node id="979" /> <Node id="980" />It was no wonder that his condition terrified—that it infected me.<Node id="1046" /> <Node id="1047" />I felt creeping upon me, by slow yet certain degrees, the wild influences of his own fantastic yet impressive superstitions.<Node id="1171" />
+
+<Node id="1173" />It was, especially, upon retiring to bed late in the night of the seventh or eighth day after the placing of the lady Madeline within the donjon, that I experienced the full power of such feelings.<Node id="1370" /> <Node id="1371" />Sleep came not near my couch—while the hours waned and waned away.<Node id="1437" /> <Node id="1438" />I struggled to reason off the nervousness which had dominion over me.<Node id="1507" /> <Node id="1508" />I endeavored to believe that much, if not all of what I felt, was due to the bewildering influence of the gloomy furniture of the room—of the dark and tattered draperies, which, tortured into motion by the breath of a rising tempest, swayed fitfully to and fro upon the walls, and rustled uneasily about the decorations of the bed.<Node id="1839" /> <Node id="1840" />But my efforts were fruitless.<Node id="1870" /> <Node id="1871" />An irrepressible tremor gradually pervaded my frame; and, at length, there sat upon my very heart an incubus of utterly causeless alarm.<Node id="2007" /> <Node id="2008" />Shaking this off with a gasp and a struggle, I uplifted myself upon the pillows, and, peering earnestly within the intense darkness of the chamber, hearkened—I know not why, except that an instinctive spirit prompted me—to certain low and indefinite sounds which came, through the pauses of the storm, at long intervals, I knew not whence.<Node id="2347" /> <Node id="2348" />Overpowered by an intense sentiment of horror, unaccountable yet unendurable, I threw on my clothes with haste (for I felt that I should sleep no more during the night), and endeavored to arouse myself from the pitiable condition into which I had fallen, by pacing rapidly to and fro through the apartment.<Node id="2654" />
+
+<Node id="2656" />I had taken but few turns in this manner, when a light step on an adjoining staircase arrested my attention.<Node id="2764" /> <Node id="2765" />I presently recognized it as that of Usher.<Node id="2808" /> <Node id="2809" />In an instant afterward he rapped, with a gentle touch, at my door, and entered, bearing a lamp.<Node id="2905" /> <Node id="2906" />His countenance was, as usual, cadaverously wan—but, moreover, there was a species of mad hilarity in his eyes—an evidently restrained <Node id="3041" />hysteria<Node id="3049" /> in his whole demeanor.<Node id="3072" /> <Node id="3073" />His air appalled me—but anything was preferable to the solitude which I had so long endured, and I even welcomed his presence as a relief.<Node id="3211" />
+
+<Node id="3213" />“<Node id="3214" />And you have not seen it?<Node id="3239" />” <Node id="3241" />he said abruptly, after having stared about him for some moments in silence—“you have not then seen it?<Node id="3344" />—<Node id="3345" />but, stay!<Node id="3355" /> <Node id="3356" />you shall.<Node id="3366" />” <Node id="3368" />Thus speaking, and having carefully shaded his lamp, he hurried to one of the casements, and threw it freely open to the storm.<Node id="3495" />
+
+<Node id="3497" />The impetuous fury of the entering gust nearly lifted us from our feet.<Node id="3568" /> <Node id="3569" />It was, indeed, a tempestuous yet sternly beautiful night, and one wildly singular in its terror and its beauty.<Node id="3681" /> <Node id="3682" />A whirlwind had apparently collected its force in our vicinity; for there were frequent and violent alterations in the direction of the wind; and the exceeding density of the clouds (which hung so low as to press upon the turrets of the house) did not prevent our perceiving the life-like velocity with which they flew careering from all points against each other, without passing away into the distance.<Node id="4086" /> <Node id="4087" />I say that even their exceeding density did not prevent our perceiving this—yet we had no glimpse of the moon or stars, nor was there any flashing forth of the lightning.<Node id="4257" /> <Node id="4258" />But the under surfaces of the huge masses of agitated vapor, as well as all terrestrial objects immediately around us, were glowing in the unnatural light of a faintly luminous and distinctly visible gaseous exhalation which hung about and enshrouded the mansion.<Node id="4521" />
+
+<Node id="4523" />“<Node id="4524" />You must not—you shall not behold this!<Node id="4563" />” <Node id="4565" />said I, shuddering, to Usher, as I led him, with a gentle violence, from the window to a seat.<Node id="4659" /> “<Node id="4661" />These appearances, which bewilder you, are merely electrical phenomena not uncommon—or it may be that they have their ghastly origin in the rank miasma of the tarn.<Node id="4825" /> <Node id="4826" />Let us close this casement;—the air is chilling and dangerous to your frame.<Node id="4902" /> <Node id="4903" />Here is one of your favorite romances.<Node id="4941" /> <Node id="4942" />I will read, and you shall listen:—and so we will pass away this terrible night together.<Node id="5031" />”<Node id="5032" />
+
+<Node id="5034" />The antique volume which I had taken up was the “Mad Trist” of Sir Launcelot Canning; but I had called it a favorite of Usher’s more in sad jest than in earnest; for, in truth, there is little in its uncouth and unimaginative prolixity which could have had interest for the lofty and spiritual ideality of my friend.<Node id="5350" /> <Node id="5351" />It was, however, the only book immediately at hand; and I indulged a vague hope that the excitement which now agitated the hypochondriac, might find relief (for the history of mental disorder is full of similar anomalies) even in the extremeness of the folly which I should read.<Node id="5630" /> <Node id="5631" />Could I have judged, indeed, by the wild overstrained air of vivacity with which he hearkened, or apparently hearkened, to the words of the tale, I might well have congratulated myself upon the success of my design.<Node id="5846" />
+
+<Node id="5848" />I had arrived at that well-known portion of the story where Ethelred, the hero of the Trist, having sought in vain for peaceable admission into the dwelling of the hermit, proceeds to make good an entrance by force.<Node id="6063" /> <Node id="6064" />Here, it will be remembered, the words of the narrative run thus:<Node id="6129" />
+
+<Node id="6131" />“<Node id="6132" />And Ethelred, who was by nature of a doughty heart, and who was now mighty withal, on account of the powerfulness of the wine which he had drunken, waited no longer to hold parley with the hermit, who, in sooth, was of an obstinate and maliceful turn, but, feeling the rain upon his shoulders, and fearing the rising of the tempest, uplifted his mace outright, and, with blows, made quickly room in the plankings of the door for his gauntleted hand; and now pulling therewith sturdily, he so cracked, and ripped, and tore all asunder, that the noise of the dry and hollow-sounding wood alarumed and reverberated throughout the forest.<Node id="6766" />”<Node id="6767" />
+
+<Node id="6769" />At the termination of this sentence I started and, for a moment, paused; for it appeared to me (although I at once concluded that my excited fancy had deceived me)—it appeared to me that, from some very remote portion of the mansion, there came, indistinctly to my ears, what might have been, in its exact similarity of character, the echo (but a stifled and dull one certainly) of the very cracking and ripping sound which Sir Launcelot had so particularly described.<Node id="7237" /> <Node id="7238" />It was, beyond doubt, the coincidence alone which had arrested my attention; for, amid the rattling of the sashes of the casements, and the ordinary commingled noises of the still increasing storm, the sound, in itself, had nothing, surely, which should have interested or disturbed me.<Node id="7524" /> <Node id="7525" />I continued the story:<Node id="7547" />
+
+<Node id="7549" />“<Node id="7550" />But the good champion Ethelred, now entering within the door, was sore enraged and amazed to perceive no signal of the maliceful hermit; but, in the stead thereof, a dragon of a scaly and prodigious demeanor, and of a fiery tongue, which sate in guard before a palace of gold, with a floor of silver; and upon the wall there hung a shield of shining brass with this legend enwritten—<Node id="7933" />
+<Node id="7934" />Who entereth herein, a conqueror hath bin;
+<Node id="7977" />Who slayeth the dragon, the shield he shall win.<Node id="8025" />
+<Node id="8026" />
+<Node id="8027" />And Ethelred uplifted his mace, and struck upon the head of the dragon, which fell before him, and gave up his pesty breath, with a shriek so horrid and harsh, and withal so piercing, that Ethelred had fain to close his ears with his hands against the dreadful noise of it, the like whereof was never before heard.<Node id="8341" />”
+<Node id="8343" />Here again I paused abruptly, and now with a feeling of wild amazement—for there could be no doubt whatever that, in this instance, I did actually hear (although from what direction it proceeded I found it impossible to say) a low and apparently distant, but harsh, protracted, and most unusual screaming or grating sound—the exact counterpart of what my fancy had already conjured up for the dragon’s unnatural shriek as described by the romancer.<Node id="8791" />
+
+<Node id="8793" />Oppressed, as I certainly was, upon the occurrence of this second and most extraordinary coincidence, by a thousand conflicting sensations, in which wonder and extreme terror were predominant, I still retained sufficient presence of mind to avoid exciting, by any observation, the sensitive nervousness of my companion.<Node id="9112" /> <Node id="9113" />I was by no means certain that he had noticed the sounds in question; although, assuredly, a strange alteration had, during the last few minutes, taken place in his demeanor.<Node id="9287" /> <Node id="9288" />From a position fronting my own, he had gradually brought round his chair, so as to sit with his face to the door of the chamber; and thus I could but partially perceive his features, although I saw that his lips trembled as if he were murmuring inaudibly.<Node id="9544" /> <Node id="9545" />His head had dropped upon his breast—yet I knew that he was not asleep, from the wide and rigid opening of the eye as I caught a glance of it in profile.<Node id="9698" /> <Node id="9699" />The motion of his body, too, was at variance with this idea—for he rocked from side to side with a gentle yet constant and uniform sway.<Node id="9835" /> <Node id="9836" />Having rapidly taken notice of all this, I resumed the narrative of Sir Launcelot, which thus proceeded:<Node id="9940" />
+
+<Node id="9942" />“<Node id="9943" />And now, the champion, having escaped from the terrible fury of the dragon, bethinking himself of the brazen shield, and of the breaking up of the enchantment which was upon it, removed the carcass from out of the way before him, and approached valorously over the silver pavement of the castle to where the shield was upon the wall; which in sooth tarried not for his full coming, but fell down at his feet upon the silver floor, with a mighty great and terrible ringing sound.<Node id="10421" />”<Node id="10422" />
+
+<Node id="10424" />No sooner had these syllables passed my lips, than—as if a shield of brass had indeed, at the moment, fallen heavily upon a floor of silver—I became aware of a distinct, hollow, metallic, and clangorous, yet apparently muffled, reverberation.<Node id="10666" /> <Node id="10667" />Completely unnerved, I leaped to my feet; but the measured rocking movement of Usher was undisturbed.<Node id="10768" /> <Node id="10769" />I rushed to the chair in which he sat.<Node id="10807" /> <Node id="10808" />His eyes were bent fixedly before him, and throughout his whole countenance there reigned a stony rigidity.<Node id="10915" /> <Node id="10916" />But, as I placed my hand upon his shoulder, there came a strong shudder over his whole person; a sickly smile quivered about his lips; and I saw that he spoke in a low, hurried, and gibbering murmur, as if unconscious of my presence.<Node id="11149" /> <Node id="11150" />Bending closely over him, I at length drank in the hideous import of his words.<Node id="11229" />
+
+<Node id="11231" />“<Node id="11232" />Not hear it?<Node id="11244" />—<Node id="11245" />yes, I hear it, and <Node id="11265" />have<Node id="11269" /> heard it.<Node id="11279" /> <Node id="11280" />Long—long—long—many minutes, many hours, many days, have I heard it—yet I dared not—oh, pity me, miserable wretch that I am!<Node id="11404" />—<Node id="11405" />I dared not—I <Node id="11419" />dared<Node id="11424" /> not speak!<Node id="11435" /> <Node id="11436" />We have put her living in the tomb!<Node id="11471" /> <Node id="11472" />Said I not that my senses were acute?<Node id="11509" /> <Node id="11510" />I <Node id="11512" />now<Node id="11515" /> tell you that I heard her first feeble movements in the hollow coffin.<Node id="11586" /> <Node id="11587" />I heard them—many, many days ago—yet I dared not— <Node id="11637" />I dared not speak!<Node id="11655" /> <Node id="11656" />And now—to-night—Ethelred—ha!<Node id="11685" /> <Node id="11686" />ha!<Node id="11689" />—<Node id="11690" />the breaking of the hermit’s door, and the death-cry of the dragon, and the clangor of the shield!<Node id="11788" />—<Node id="11789" />say, rather, the rending of her coffin, and the grating of the iron hinges of her prison, and her struggles within the coppered archway of the vault!<Node id="11938" /> <Node id="11939" />Oh!<Node id="11942" /> <Node id="11943" />whither shall I fly?<Node id="11963" /> <Node id="11964" />Will she not be here anon?<Node id="11990" /> <Node id="11991" />Is she not hurrying to upbraid me for my haste?<Node id="12038" /> <Node id="12039" />Have I not heard her footstep on the stair?<Node id="12082" /> <Node id="12083" />Do I not distinguish that heavy and horrible beating of her heart?<Node id="12149" /> <Node id="12150" />Madman!<Node id="12157" />”—<Node id="12159" />here he sprang furiously to his feet, and shrieked out his syllables, as if in the effort he were giving up his soul— <Node id="12277" />“Madman!<Node id="12285" /> <Node id="12286" />I tell you that she now stands without the door!<Node id="12334" />”<Node id="12335" />
+
+<Node id="12337" />As if in the superhuman energy of his utterance there had been found the potency of a spell, the huge antique panels to which the speaker pointed threw slowly back, upon the instant, their ponderous and ebony jaws.<Node id="12551" /> <Node id="12552" />It was the work of the rushing gust—but then without those doors there <Node id="12623" />did<Node id="12626" /> stand the lofty and enshrouded figure of the lady Madeline of Usher.<Node id="12695" /> <Node id="12696" />There was blood upon her white robes, and the evidence of some bitter struggle upon every portion of her emaciated frame.<Node id="12817" /> <Node id="12818" />For a moment she remained trembling and reeling to and fro upon the threshold—then, with a low moaning cry, fell heavily inward upon the person of her brother, and in her violent and now final death-agonies, bore him to the floor a corpse, and a victim to the terrors he had anticipated.<Node id="13105" />
+
+<Node id="13107" />From that chamber, and from that mansion, I fled aghast.<Node id="13163" /> <Node id="13164" />The storm was still abroad in all its wrath as I found myself crossing the old causeway.<Node id="13252" /> <Node id="13253" />Suddenly there shot along the path a wild light, and I turned to see whence a gleam so unusual could have issued; for the vast house and its shadows were alone behind me.<Node id="13423" /> <Node id="13424" />The radiance was that of the full, setting, and blood-red moon which now shone vividly through that once barely-discernible fissure of which I have before spoken as extending from the roof of the building, in a zigzag direction, to the base.<Node id="13665" /> <Node id="13666" />While I gazed, this fissure rapidly widened—there came a fierce breath of the whirlwind—the entire orb of the satellite burst at once upon my sight—my brain reeled as I saw the mighty walls rushing asunder—there was a long tumultuous shouting sound like the voice of a thousand waters—and the deep and dank tarn at my feet closed sullenly and silently over the fragments of the “ <Node id="14046" />House of Usher<Node id="14060" /> .<Node id="14062" />”
+<Node id="14064" />
+<Node id="14065" />«<Node id="14066" />Et maintenant, le brave champion, ayant échappé à la terrible furie du dragon, se souvenant du bouclier d'airain, et que l'enchantement qui était dessus était rompu, écarta le cadavre de devant son chemin et s'avança courageusement, sur le pavé d'argent du château, vers l'endroit du mur où pendait le bouclier, lequel, en vérité, n'attendit pas qu'il fût arrivé tout auprès, mais tomba à ses pieds sur le pavé d'argent avec un puissant et terrible retentissement.<Node id="14530" />»<Node id="14531" />
+
+<Node id="14533" />À peine ces dernières syllabes avaient-elles fui mes lèvres, que,—comme si un bouclier d'airain était pesamment tombé, en ce moment même, sur un plancher d'argent,—j'en entendis l'écho distinct, profond, métallique, retentissant, mais comme assourdi.<Node id="14783" /> <Node id="14784" />J'étais complètement énervé; je sautai sur mes pieds; mais Usher n'avait pas interrompu son balancement régulier.<Node id="14897" /> <Node id="14898" />Je me précipitai vers le fauteuil où il était toujours assis.<Node id="14959" /> <Node id="14960" />Ses yeux étaient braqués droit devant lui, et toute sa physionomie était tendue par une rigidité de pierre.<Node id="15067" /> <Node id="15068" />Mais, quand je posai la main sur son épaule, un violent frisson parcourut tout son être, un sourire malsain trembla sur ses lèvres, et je vis qu'il parlait bas, très-bas,—un murmure précipité et inarticulé,—comme s'il n'avait pas conscience de ma présence.<Node id="15324" /> <Node id="15325" />Je me penchai tout à fait contre lui, et enfin je dévorai l'horrible signification de ses paroles:<Node id="15423" />
+
+<Node id="15425" />—<Node id="15426" />Vous n'entendez pas?<Node id="15446" />—<Node id="15447" />Moi, j'entends, et <Node id="15466" />j'ai<Node id="15470" /> entendu pendant longtemps,—longtemps, bien longtemps, bien des minutes, bien des heures, bien des jours, j'ai entendu,—mais je n'osais pas—oh!<Node id="15613" /> <Node id="15614" />pitié pour moi, misérable infortuné que je suis!<Node id="15662" /> <Node id="15663" />je n'osais pas,— <Node id="15680" />je n'osais pas<Node id="15694" /> parler!<Node id="15702" /> <Node id="15703" />Nous l'avons mise vivante dans la tombe!<Node id="15743" /> <Node id="15744" />Ne vous ai-je pas dit que mes sens étaient très-fins?<Node id="15797" /> <Node id="15798" />Je vous dis <Node id="15810" />maintenant<Node id="15820" /> que j'ai entendu ses premiers faibles mouvements dans le fond de la bière.<Node id="15895" /> <Node id="15896" />Je les ai entendus,—il y a déjà bien des jours, bien des jours,—mais je n'osais pas,— <Node id="15982" />je n'osais pas parler!<Node id="16004" /> <Node id="16005" />Et maintenant,—cette nuit,—Ethelred,—ha!<Node id="16045" /> <Node id="16046" />ha!<Node id="16049" />—<Node id="16050" />la porte de l'ermite enfoncée, et le râle du dragon et le retentissement du bouclier!<Node id="16135" />—<Node id="16136" />Dites plutôt le bris de sa bière, et le grincement des gonds de fer de sa prison, et son affreuse lutte dans le vestibule de cuivre!<Node id="16268" /> <Node id="16269" />Oh!<Node id="16272" /> <Node id="16273" />où fuir?<Node id="16281" /> <Node id="16282" />Ne sera-t-elle pas ici tout à l'heure?<Node id="16320" /> <Node id="16321" />N'arrive-t-elle pas pour me reprocher ma précipitation?<Node id="16376" /> <Node id="16377" />N'ai-je pas entendu son pas sur l'escalier?<Node id="16420" /> <Node id="16421" />Est-ce que je ne distingue pas l'horrible et lourd battement de son cœur!<Node id="16494" /> <Node id="16495" />Insensé!<Node id="16503" /> <Node id="16504" />Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si dans cet effort suprême il rendait son âme:— <Node id="16627" />Insensé!<Node id="16635" /> <Node id="16636" />je vous dis qu'elle est maintenant derrière la porte!<Node id="16689" />
+
+<Node id="16691" />À l'instant même, comme si l'énergie surhumaine de sa parole eût acquis la toute puissance d'un charme, les vastes et antiques panneaux que désignait Usher entrouvrirent lentement leurs lourdes mâchoires d'ébène.<Node id="16903" /> <Node id="16904" />C'était l'œuvre d'un furieux coup de vent;—mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire.<Node id="17054" /> <Node id="17055" />Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte.<Node id="17185" /> <Node id="17186" />Pendant un moment, elle resta tremblante et vacillante sur le seuil;—puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l'entraîna à terre,—cadavre maintenant et victime de ses terreurs anticipées.<Node id="17465" />
+
+<Node id="17467" />Je m'enfuis de cette chambre et de ce manoir, frappé d'horreur.<Node id="17530" /> <Node id="17531" />La tempête était encore dans toute sa rage quand je franchissais la vieille avenue.<Node id="17614" /> <Node id="17615" />Tout d'un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d'où pouvait jaillir une lueur si singulière, car je n'avais derrière moi que le vaste château avec toutes ses ombres.<Node id="17823" /> <Node id="17824" />Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l'ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu'à la base.<Node id="18068" /> <Node id="18069" />Pendant que je regardais, cette fissure s'élargit rapidement;—il survint une reprise de vent, un tourbillon furieux;—le disque entier de la planète éclata tout à coup à ma vue.<Node id="18245" /> <Node id="18246" />La tête me tourna quand je vis les puissantes murailles s'écrouler en deux.<Node id="18321" />—<Node id="18322" />Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes,—et l'étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la <Node id="18516" />Maison Usher<Node id="18528" /> .<Node id="18530" />
+<Node id="18531" />
+<Node id="18532" />Je gewissenhafter Tom sich bemühte, seine Gedanken an das Buch zu fesseln, um so mehr schweiften sie in die Ferne.<Node id="18646" /> <Node id="18647" />So gab er es schließlich mit einem Seufzer auf und gähnte.<Node id="18705" /> <Node id="18706" />Es wollte ihm scheinen, als werde es heute niemals Mittagszeit.<Node id="18769" /> <Node id="18770" />Die Luft stand bewegungslos; kein Hauch.<Node id="18810" /> <Node id="18811" />Es war der schläfrigste aller schläfrigen Tage.<Node id="18858" /> <Node id="18859" />Das halb erstickte Murmeln der fünfundzwanzig Kinder, die da so eifrig studierten, lullte Toms Seele ein, gleich dem Gesumse der Bienen.<Node id="18995" /> <Node id="18996" />Draußen im prallen Sonnenschein reckte Cardiff Hill sein im saftigsten Grün prangendes Haupt durch den schimmernden Schleier der Luft, die aus der Ferne gesehen, die Farbe des Purpurs angenommen hatte — infolge der großen Hitze.<Node id="19224" /> <Node id="19225" />Ein paar Vögel wiegten sich auf müßigen Schwingen hoch im Zenith.<Node id="19290" /> <Node id="19291" />Sonst war kein Lebewesen sichtbar, außer ein paar Kühen, und die schliefen auch.<Node id="19371" /> <Node id="19372" />Toms Herz lechzte nach Freiheit oder wenigstens irgend welcher Beschäftigung, um damit diese traurigen Stunden totzuschlagen.<Node id="19497" /> <Node id="19498" />Seine Hand wanderte in die Tasche, und über sein Gesicht huschte ein Schimmer freudiger Dankbarkeit, ihm selbst unbewußt.<Node id="19619" /> <Node id="19620" />Dann wurde die Zündholzschachtel ans Tageslicht befördert.<Node id="19678" /> <Node id="19679" />Er befreite die Wanze und setzte sie vor sich auf die Bank.<Node id="19738" /> <Node id="19739" />Das unvernünftige Tier wurde wahrhaftig von demselben Ausdruck des Dankes verschönt, aber es hatte zu früh frohlockt, denn als es Miene machte, sich dankerfüllt davonzubegeben, schubste Tom es mit dem Griffel zurück und zwang es, eine andere Richtung einzuschlagen.<Node id="20004" /> <Node id="20005" />Toms Busenfreund saß neben ihm, seufzend, wie es Tom noch eben getan hatte; jetzt war er sofort von tiefstem und dankbarstem Interesse erfüllt für diesen reizenden Zeitvertreib.<Node id="20182" /> <Node id="20183" />Dieser Busenfreund war Joe Harper.<Node id="20217" /> <Node id="20218" />Die beiden Burschen waren die Woche hindurch unzertrennliche Freunde — Samstags waren sie erbitterte Feinde.<Node id="20326" /> <Node id="20327" />Joe zog einen Griffel aus seinem Kasten und begann sich an den Exerzitien des Gefangenen zu beteiligen.<Node id="20430" /> <Node id="20431" />Der neue Sport gewann von Minute zu Minute an Interesse.<Node id="20487" /> <Node id="20488" />Aber bald bemerkte Tom, daß sie einander ins Gehege kamen und eigentlich keiner recht was von der Wanze habe.<Node id="20597" /> <Node id="20598" />So legte er Joes Tafel auf den Tisch und zog daran entlang einen senkrechten Strich mit dem Griffel.<Node id="20698" /> „<Node id="20700" />So,“ sagte er, „so lange sie auf deiner Seite ist, kannst du mit ihr herumschubsen, und ich lasse sie in Ruhe, sobald du sie aber auf <Node id="20834" />meine<Node id="20839" /> Seite entkommen läßt, mußt du sie in Ruhe lassen, und ich darf sie behalten, so lange ich sie auf meiner Seite halten kann.<Node id="20963" />“<Node id="20964" />
+
+<Node id="20966" />„<Node id="20967" />Na, also — los!<Node id="20982" />“<Node id="20983" />
+
+<Node id="20985" />Die Wanze entschlüpfte sofort von Toms Gebiet und überschritt den Äquator.<Node id="21059" /> <Node id="21060" />Joe drangsalierte sie eine Weile, und dann kroch sie wieder zu Tom.<Node id="21127" /> <Node id="21128" />So ging es mehrmals hin und her.<Node id="21160" /> <Node id="21161" />Während sich einer der beiden voll Eifer mit der Wanze herumschlug, schaute der andere begierig zu; beider Köpfe waren, dicht aneinander gedrängt, über den Tisch gebeugt, und beider Geist war von gleichem Interesse erfüllt.<Node id="21384" /> <Node id="21385" />Schließlich schien sich das Glück für Joe zu entscheiden.<Node id="21442" /> <Node id="21443" />Die Wanze versuchte dies und das, schlug immer neue Wege ein und wurde so hitzig und aufgeregt wie die Jungen selbst, aber jedesmal, wenn sie Joe überlistet und den Sieg davongetragen zu haben schien, und es Tom bereits in den Fingern zuckte, zu beginnen, trieb Joes Griffel die Wanze noch im letzten Augenblick zurück und hielt sie wiederum gefangen.<Node id="21794" /> <Node id="21795" />Schließlich konnte Tom es nicht länger aushalten.<Node id="21844" /> <Node id="21845" />Die Versuchung war zu groß.<Node id="21872" /> <Node id="21873" />So holte er aus und half mit seinem Griffel ein bißchen nach.<Node id="21934" /> <Node id="21935" />Das ärgerte Joe mächtig.<Node id="21959" /> „<Node id="21961" />Tom, laß das!<Node id="21974" />“<Node id="21975" />
+
+<Node id="21977" />„<Node id="21978" />Ich will sie jetzt auch mal wieder ein bißchen zum Spielen haben, Joe.<Node id="22048" />“<Node id="22049" />
+
+<Node id="22051" />„<Node id="22052" />Halt, das gibt‘s nicht; laß sie los!<Node id="22088" />“<Node id="22089" />
+
+<Node id="22091" />„<Node id="22092" />Sag, was du willst — ich <Node id="22117" />muß<Node id="22120" /> sie jetzt mal haben!<Node id="22141" />“<Node id="22142" />
+
+<Node id="22144" />„<Node id="22145" />Ich sag dir — laß sie!<Node id="22167" />“<Node id="22168" />
+
+<Node id="22170" />„<Node id="22171" />Fällt mit grad ein!<Node id="22190" />“<Node id="22191" />
+
+<Node id="22193" />„<Node id="22194" />Du sollst aber — sie ist auf meiner Seite!<Node id="22236" />“<Node id="22237" />
+
+<Node id="22239" />„<Node id="22240" />Du hör‘, Joe — wem gehört die Wanze?<Node id="22276" />“<Node id="22277" />
+
+<Node id="22279" />„<Node id="22280" />Ist mit ganz egal, wem sie gehört — sie ist auf meiner Seite, und du sollst sie nicht anfassen!<Node id="22375" />“<Node id="22376" />
+
+<Node id="22378" />„<Node id="22379" />Sooo — ich <Node id="22390" />will<Node id="22394" /> aber — nu grade!<Node id="22411" /> <Node id="22412" />Zum Teufel, mir gehört die Wanze!<Node id="22445" /> <Node id="22446" />Ich werd‘ doch mit ihr tun dürfen, was ich will!<Node id="22494" />“<Node id="22495" />
+
+<Node id="22497" />Tom fühlte einen schrecklichen Schlag auf der Schulter, im nächsten Augenblick fühlte Joe ihn, und während der nächsten Minuten flog der Staub in dichten Wolken von ihren Jacken, und die ganze Schule jubilierte.<Node id="22708" /> <Node id="22709" />Die beiden waren viel zu sehr in ihren Streit vertieft gewesen, um die plötzliche Stille zu bemerken, die sich über die Klasse gelagert hatte, während der Lehrer auf den Zehen von seinem Pult heruntergeschlichen kam.<Node id="22925" /> <Node id="22926" />Er hatte einen guten Teil der Auseinandersetzung mit angehört, bis er tätig eingriff.<Node id="23011" />
+
+<Node id="23013" />Als die Schule mittags aus war, schlich Tom zu Becky und flüsterte ihr ins Ohr:<Node id="23092" />
+
+<Node id="23094" />„<Node id="23095" />Setz deinen Hut auf und tu so, als wenn du nach Hause gingest.<Node id="23157" /> <Node id="23158" />Wenn du um die Ecke bist, laß die anderen laufen und komm durch die Seitengasse zurück.<Node id="23245" /> <Node id="23246" />Ich will ‘nen anderen Weg gehen und komme dann auch zurück.<Node id="23305" />“<Node id="23306" />
+
+<Node id="23308" />So ging eins mit einem Trupp Schüler fort, das andere mit ‘nem andern.<Node id="23378" /> <Node id="23379" />Eine kurze Weile danach trafen sie sich am Ende des Gäßchens wieder, und als sie wieder bei der Schule anlangten, waren sie da ganz ungestört.<Node id="23521" />
+
+<Node id="23523" />Dann saßen sie zusammen, vor sich eine Tafel, und Tom gab Becky seinen Griffel, führte ihr die Hand, und sie zeichneten zusammen ein wundervolles Haus.<Node id="23674" /> <Node id="23675" />Sobald das Interesse an der Kunst zu schwinden begann, fingen sie an, sich was zu erzählen.<Node id="23766" /> <Node id="23767" />Tom schwamm in Seligkeit.<Node id="23792" />
+
+<Node id="23794" />„<Node id="23795" />Hast du Ratten gern?<Node id="23815" />“ <Node id="23817" />fragte er Becky.<Node id="23833" />
+
+<Node id="23835" />„<Node id="23836" />Pfui, ich hasse sie!<Node id="23856" />“<Node id="23857" />
+
+<Node id="23859" />„<Node id="23860" />Ja, ich auch — das heißt lebendige.<Node id="23895" /> <Node id="23896" />Aber ich meinte tote, die man an ‘nem Strick sich um den Kopf herumschwingen lassen kann.<Node id="23985" />“<Node id="23986" />
+
+<Node id="23988" />„<Node id="23989" />Nein, ich mag überhaupt gar keine Ratten.<Node id="24030" /> <Node id="24031" />Ich möchte Gummi zum Kauen.<Node id="24058" />“<Node id="24059" />
+
+<Node id="24061" />„<Node id="24062" />Das mein ich!<Node id="24075" /> <Node id="24076" />Ich wollt‘, ich hätt‘ welchen!<Node id="24106" />“<Node id="24107" />
+
+<Node id="24109" />„<Node id="24110" />Möchtest du?<Node id="24122" /> <Node id="24123" />Ich hab‘ welchen.<Node id="24140" /> <Node id="24141" />Du kannst ihn ‘ne Weile kriegen, aber dann mußt du ihn mir wiedergeben!<Node id="24212" />“<Node id="24213" />
+
+<Node id="24215" />Und dann kauten sie Gummi und stemmten die Knie gegen die Bank und waren seelenvergnügt.<Node id="24303" />
+
+<Node id="24305" />„<Node id="24306" />Warst du schon mal im Zirkus?<Node id="24335" />“ <Node id="24337" />fragte Tom.<Node id="24348" />
+
+<Node id="24350" />„<Node id="24351" />M — ja, mein Papa hat mich schon ‘n paarmal mitgenommen, wenn ich artig war.<Node id="24427" />“<Node id="24428" />
+
+<Node id="24430" />„<Node id="24431" />Ich bin schon drei- oder viermal dort gewesen — vielmal!<Node id="24487" /> — <Node id="24490" />Die Kirche ist gräßlich langweilig neben dem Zirkus.<Node id="24542" /> <Node id="24543" />Ich möchte immer in den Zirkus gehen.<Node id="24580" /> <Node id="24581" />Wenn ich groß bin, will ich Clown im Zirkus werden.<Node id="24632" />“<Node id="24633" />
+
+<Node id="24635" />„<Node id="24636" />Ach, willst du wirklich?<Node id="24660" /> <Node id="24661" />Das ist aber nett.<Node id="24679" /> <Node id="24680" />Die sind alle so hübsch geputzt.<Node id="24712" />“<Node id="24713" />
+
+<Node id="24715" />„<Node id="24716" />M — ja.<Node id="24723" /> <Node id="24724" />Und dann verdienen sie eine Unmenge Geld — Ben Rogers sagt, mehr als einen Dollar täglich.<Node id="24814" /> — <Node id="24817" />Sag, Becky, warst du schon mal verlobt?<Node id="24856" />“<Node id="24857" />
+
+<Node id="24859" />„<Node id="24860" />Was ist das?<Node id="24872" />“<Node id="24873" />
+
+<Node id="24875" />„<Node id="24876" />Nun — wenn man sich heiraten will.<Node id="24910" />“<Node id="24911" />
+
+<Node id="24913" />„<Node id="24914" />Nein.<Node id="24919" />“<Node id="24920" />
+
+<Node id="24922" />„<Node id="24923" />Möcht‘s du‘s mal sein?<Node id="24945" />“<Node id="24946" />
+
+<Node id="24948" />„<Node id="24949" />Ich weiß nicht.<Node id="24964" /> <Node id="24965" />Ich denke ja.<Node id="24978" /> <Node id="24979" />Ist denn das nett?<Node id="24997" />“<Node id="24998" />
+
+<Node id="25000" />„<Node id="25001" />Nett?<Node id="25006" /> <Node id="25007" />Ich<Node id="25010" /> weiß nicht, was netter ist.<Node id="25038" /> <Node id="25039" />Du brauchst nur zu einem Knaben zu sagen, du möchtest keinen anderen jemals als ihn, niemals, niemals, <Node id="25142" />niemals<Node id="25149" /> , und dann küßt ihr euch — und dann ist‘s fertig.<Node id="25199" /> <Node id="25200" />Jeder kann das.<Node id="25215" />“<Node id="25216" />
+
+<Node id="25218" />„<Node id="25219" />Küssen?<Node id="25226" /> <Node id="25227" />Warum denn küssen?<Node id="25245" />“<Node id="25246" />
+
+<Node id="25248" />„<Node id="25249" />Weil das halt <Node id="25263" />zu<Node id="25265" /> schön ist, weißt du!<Node id="25286" /> <Node id="25287" />Die Leute tun das immerfort.<Node id="25315" />“<Node id="25316" />
+
+<Node id="25318" />„<Node id="25319" />Immer?<Node id="25325" />“<Node id="25326" />
+
+<Node id="25328" />„<Node id="25329" />Natürlich, jeder, der ‘nen andern lieb hat, tut‘s.<Node id="25379" /> <Node id="25380" />Weißt du nicht mehr, was ich auf die Tafel geschrieben habe?<Node id="25440" />“<Node id="25441" />
+
+<Node id="25443" />„<Node id="25444" />J — ja“<Node id="25451" />
+
+<Node id="25453" />„<Node id="25454" />Was denn?<Node id="25463" />“<Node id="25464" />
+
+<Node id="25466" />„<Node id="25467" />Ich — ich kann‘s nicht sagen.<Node id="25496" />“<Node id="25497" />
+
+<Node id="25499" />„<Node id="25500" />Soll ich‘s <Node id="25511" />dir<Node id="25514" /> sagen?<Node id="25521" />“<Node id="25522" />
+
+<Node id="25524" />„<Node id="25525" />J — ja — aber ein andermal.<Node id="25552" />“<Node id="25553" />
+
+<Node id="25555" />„<Node id="25556" />Nein, <Node id="25562" />jetzt<Node id="25567" /> .<Node id="25569" />“<Node id="25570" />
+
+<Node id="25572" />„<Node id="25573" />Nein, nicht jetzt — morgen.<Node id="25600" />“<Node id="25601" />
+
+<Node id="25603" />„<Node id="25604" />Nein — jetzt, Becky.<Node id="25624" /> <Node id="25625" />Bitte!<Node id="25631" /> <Node id="25632" />Ich will‘s auch ganz leise sagen; ins Ohr will ich‘s dir sagen.<Node id="25695" />“<Node id="25696" />
+
+<Node id="25698" />Als Becky zögerte, nahm Tom ihr Stillschweigen für Zustimmung, schlang seinen Arm um ihre Schulter, legte seinen Mund an ihr Ohr und flüsterte ihr die alte Zauberformel zu.<Node id="25870" /> <Node id="25871" />Und dann sagte er: „Nun, mußt du‘s <Node id="25906" />mir<Node id="25909" /> sagen — grad so!<Node id="25926" />“<Node id="25927" />
+
+<Node id="25929" />Sie wehrte sich eine Weile und bat dann: „Aber, du mußt das Gesicht fortwenden, daß du‘s nicht sehen kannst — dann tu ich‘s.<Node id="26053" /> <Node id="26054" />Aber du darfst es niemand sagen, willst du, Tom?<Node id="26102" /> <Node id="26103" />Na, sag, <Node id="26112" />willst<Node id="26118" /> du?<Node id="26122" />“<Node id="26123" />
+
+<Node id="26125" />„<Node id="26126" />Selbstverständlich, Becky!<Node id="26152" /> <Node id="26153" />Also jetzt!<Node id="26164" />“<Node id="26165" />
+
+<Node id="26167" />Er drehte den Kopf zur Seite.<Node id="26196" /> <Node id="26197" />Sie beugte sich hinüber, bis ihr Atem ihn berührte, und flüsterte dann ganz leise: „Ich — liebe — dich!<Node id="26300" />“<Node id="26301" />
+
+<Node id="26303" />Und dann sprang sie auf und lief um Tische und Bänke herum, Tom hinterher, und flüchtete schließlich in einen Winkel, ihre weiße Schürze vor dem Gesicht.<Node id="26456" /> <Node id="26457" />Tom faßte sie um und sprach leise auf sie ein.<Node id="26503" />
+
+<Node id="26505" />„<Node id="26506" />Na, Becky — ‘s ist ja schon gut — alles, bis auf den Kuß!<Node id="26563" /> <Node id="26564" />Fürchte dich nur nicht davor, ich tu dir gewiß nichts.<Node id="26618" /> <Node id="26619" />Sei gut, Becky!<Node id="26634" />“<Node id="26635" />
+
+<Node id="26637" />Damit zupfte er an der Schürze und an den Händen.<Node id="26686" /> <Node id="26687" />Allmählich gab sie nach und ließ die Hände sinken.<Node id="26737" /> <Node id="26738" />Ihr Gesichtchen, glühend vor Scham, erschien wieder.<Node id="26790" /> <Node id="26791" />Tom küßte sie auf die roten Lippen und sagte: „So, nun ist‘s ganz vorbei, Becky!<Node id="26871" /> <Node id="26872" />Und jetzt weißt du wohl, darfst du nie wieder ‘nen anderen gern haben, außer mir, und darfst auch keinen heiraten, außer mir, nie, nie nie!<Node id="27011" /> <Node id="27012" />Willst du?<Node id="27022" />“<Node id="27023" />
+
+<Node id="27025" />„<Node id="27026" />Nein, ich will nie ‘nen anderen lieb haben als dich, Tom, und ich will nie ‘nen anderen heiraten als dich, und du darfst auch nie eine andere heiraten als mich, niemals.<Node id="27195" />“<Node id="27196" />
+
+<Node id="27198" />„<Node id="27199" />Na, gewiß!<Node id="27209" /> <Node id="27210" />Versteht sich doch!<Node id="27229" /> <Node id="27230" />Und, wenn wir jetzt wieder in die Schule gehen, oder wenn wir <Node id="27292" />von<Node id="27295" /> der Schule nach Haus kommen, mußt du immer mit mir gehen, wenn‘s die anderen nicht sehen — und du wählst mich und ich dich beim Spazierengehen — so ist‘s unter Verlobten!<Node id="27466" />“<Node id="27467" />
+
+<Node id="27469" />„<Node id="27470" />Nett ist das.<Node id="27483" /> <Node id="27484" />Ich hatte davon noch nie gehört.<Node id="27516" />“<Node id="27517" />
+
+<Node id="27519" />„<Node id="27520" />O, es ist so lustig!<Node id="27540" /> <Node id="27541" />Als ich und Amy Lawrence —“<Node id="27568" />
+
+<Node id="27570" />Die erstaunten Augen belehrten Tom über seine Dummheit, und er hielt verwirrt inne.<Node id="27653" />
+
+<Node id="27655" />„<Node id="27656" />Ach, Tom, also bin ich nicht die erste, mit der du verlobt warst?<Node id="27721" />“<Node id="27722" />
+
+<Node id="27724" />Das Mädchen begann zu heulen.<Node id="27753" />
+
+<Node id="27755" />Tom bat: „Nicht weinen, Becky.<Node id="27785" /> <Node id="27786" />Ich mag sie ja gar nicht mehr leiden.<Node id="27823" />“<Node id="27824" />
+
+<Node id="27826" />„<Node id="27827" />Doch, du magst sie noch, Tom, du weißt ganz gut, daß du sie noch magst!<Node id="27898" />“<Node id="27899" />
+
+<Node id="27901" />Tom versuchte, seinen Arm um ihren Hals zu legen, aber sie stieß ihn fort, drehte das Gesicht nach der Wand und fing wieder an zu heulen.<Node id="28038" /> <Node id="28039" />Tom machte mit seinen süßesten Schmeicheleien einen neuen Versuch und wurde abermals abgeschlagen.<Node id="28137" /> <Node id="28138" />Da erwachte sein Stolz, er wandte sich ab und ging hinaus.<Node id="28196" /> <Node id="28197" />Draußen blieb er ein wenig stehen, schwankend und unentschlossen, schielte nach der Tür und hoffte, sie würde bereuen und ihm nachkommen.<Node id="28334" /> <Node id="28335" />Aber sie kam nicht.<Node id="28354" /> <Node id="28355" />Schließlich wurde er weich; er fühlte, daß das Unrecht auf seiner Seite wäre.<Node id="28432" /> <Node id="28433" />Es war wohl sehr sauer, ihr nochmals entgegenzukommen, aber er machte sich selbst Mut und ging hinein.<Node id="28535" /> <Node id="28536" />Sie stand immer noch in ihrem Winkel, das Gesicht zur Wand gekehrt.<Node id="28603" /> <Node id="28604" />Toms Herz wollte brechen.<Node id="28629" /> <Node id="28630" />Er ging zu ihr, stand einen Augenblick zögernd und wußte nicht, was tun.<Node id="28702" /> <Node id="28703" />Dann sagte er ganz schüchtern: „Becky — ich — ich kümmere mich um keine andere als dich.<Node id="28791" />“<Node id="28792" />
+
+<Node id="28794" />Keine Antwort.<Node id="28808" /> <Node id="28809" />Schluchzen.<Node id="28820" />
+
+<Node id="28822" />„<Node id="28823" />Becky,“ in bittendem Ton.<Node id="28848" /> „<Node id="28850" />Becky, willst du nicht wenigstens was sagen?<Node id="28894" />“<Node id="28895" />
+
+<Node id="28897" />Immer lauteres Schluchzen.<Node id="28923" /> <Node id="28924" />Tom zog seinen kostbarsten Schatz hervor, den abgebrochenen Knopf irgend eines alten Hausgerätes, hielt ihn ihr dicht vor die Augen und schmeichelte: „Na, Becky, willst du den haben?<Node id="29106" />“<Node id="29107" />
+
+<Node id="29109" />Sie schlug ihn ihm aus der Hand, daß er bis zur Tür flog.<Node id="29166" /> <Node id="29167" />Da marschierte Tom denn aus der Tür, über Berg und Tal, um an dem Tage nicht mehr zur Schule zurückzukehren.<Node id="29275" /> <Node id="29276" />Sofort drehte sich Becky um.<Node id="29304" /> <Node id="29305" />Sie lief zur Tür.<Node id="29322" /> <Node id="29323" />Er war nicht mehr zu sehen.<Node id="29350" /> <Node id="29351" />Sie rannte hinaus auf den Spielplatz.<Node id="29388" /> <Node id="29389" />Er war nicht dort.<Node id="29407" /> <Node id="29408" />Nun begann sie aus Leibeskräften zu schreien: „Tom, komm zurück — Tom!!<Node id="29479" />“<Node id="29480" />
+
+<Node id="29482" />Sie horchte angestrengt, aber keine Antwort kam.<Node id="29530" /> <Node id="29531" />Sie war also allein in der Stille und Verlassenheit ringsum.<Node id="29591" /> <Node id="29592" />So fing sie wieder an zu schreien, um sich selbst zu ermutigen, bis die Schüler wieder zur Schule zu kommen begannen und sie ihren Kummer hinunterschlucken und ihr gebrochenes Herz einstweilen beruhigen mußte.<Node id="29801" /> <Node id="29802" />So nahm sie ihr Kreuz eines ganzen langweiligen Nachmittags auf sich, ohne unter all diesen Fremden eine einzige mitfühlende Seele zu finden, die ihren Schmerz mit ihr geteilt hätte.<Node id="29984" />
+<Node id="29985" />Achtes Kapitel.<Node id="30000" />
+
+<Node id="30002" />Tom schlenderte immer weiter durch die Gassen, bis er zu weit von der Schule entfernt war, um noch zum Nachmittagsunterricht gehen zu können, dann setzte er sich in Trab.<Node id="30172" /> <Node id="30173" />Ein paarmal passierte er kleine „Flußarme“, da ihm ein weitverbreiteter, jugendlicher Aberglaube sagte, daß er sich dadurch vor Verfolgung sichern könne.<Node id="30326" /> <Node id="30327" />Nach einer halben Stunde war er hinter Douglas Mansion auf dem Gipfel von Cardiff Hill verschwunden, das Schulhaus lag weit unten im Nebel, kaum noch sichtbar.<Node id="30486" /> <Node id="30487" />Er „nahm“ einen dichten Wald, schlug einen Weg in das Innere ein, der keiner war, und setzte sich auf eine Moosbank unter das weite Blätterdach einer Eiche.<Node id="30643" /> <Node id="30644" />Kein Lüftchen regte sich.<Node id="30669" /> <Node id="30670" />Die schwere Nachmittagsluft ließ sogar die Vögel verstummen.<Node id="30730" /> <Node id="30731" />Die ganze Natur lag in starrer Dumpfheit, nur zuweilen unterbrochen durch entferntes Pochen eines Spechtes, wodurch das Schweigen und das Gefühl des Alleinseins nur um so fühlbarer wurde.<Node id="30918" /> <Node id="30919" />Der kleine Bursche versank in melancholische Träume.<Node id="30971" /> <Node id="30972" />Seine Empfindungen standen vollkommen in Einklang mit seiner Umgebung.<Node id="31042" /> <Node id="31043" />Lange saß er, die Ellbogen auf die Knie gestemmt, das Kinn in der Hand, und dachte nach.<Node id="31131" /> <Node id="31132" />Es wollte ihm scheinen, daß das ganze Leben im besten Fall eitel Kummer und Sorge sei, und er beneidete mehr als je Jimmy Hodges.<Node id="31261" /> <Node id="31262" />Es muß sehr friedvoll sein, dachte er, für immer zu liegen und zu schlummern und zu träumen, wenn der Wind in den Blättern flüstert und Gras und Blumen auf dem Grab fächelt — und von nichts mehr gedrückt und belästigt zu werden — nie mehr.<Node id="31501" /> <Node id="31502" />Hätte er nur ein gutes Sonntagsschulzeugnis gehabt — wie leicht hätte er für immer dem Leben Valet gesagt.<Node id="31608" /> <Node id="31609" />Und dann dieses Mädchen.<Node id="31633" /> <Node id="31634" />Was hatte er ihr eigentlich getan?<Node id="31668" /> <Node id="31669" />Nichts!<Node id="31676" /> <Node id="31677" />Er hatte die beste Absicht von der Welt gehabt und war artig gewesen wie ein Hund — wie ein wohlerzogener Hund.<Node id="31788" /> <Node id="31789" />Sie würde ein paar Tage traurig sein — vielleicht!<Node id="31839" /> <Node id="31840" />Ach, wenn er doch für einige Zeit wenigstens hätte sterben können.<Node id="31906" />
+
+<Node id="31908" />Aber der leichte Sinn der Jugend läßt sich nicht lange niederdrücken.<Node id="31977" /> <Node id="31978" />Tom begann sehr bald wieder in sein altes Lebenselement zurückzutreiben.<Node id="32050" /> <Node id="32051" />Wie, wenn er jetzt fortging und auf geheimnisvolle Weise verschwände?<Node id="32120" /> <Node id="32121" />Wenn er weit, weit in unbekannte Länder, jenseits des großen Wassers, gelangte und nie wieder zurückkäme.<Node id="32226" /> <Node id="32227" />Was würde sie dann wohl fühlen?<Node id="32258" /> <Node id="32259" />Der Gedanke, ein Clown zu werden, kam ihm wieder, wurde aber mit Abscheu abgewiesen.<Node id="32343" /> <Node id="32344" />Für dumme Witze und Possen und gemalte Kleider war sein Geist, der sich eben noch in den kühnsten Träumen verloren hatte im Reich der Romantik, wenig disponiert.<Node id="32505" /> <Node id="32506" />Nein, er wollte Soldat werden und nach langen Jahren als kriegserfahrener, berühmter Mann zurückkehren.<Node id="32609" /> <Node id="32610" />Oder noch besser, er wollte zu den Indianern gehen, mit ihnen Büffel jagen, in den wilden Bergen und den verlassenen Prärien den Kriegspfad beschreiten, um dann einmal als großer Häuptling, geschmückt mit Federn, mit allen nur denkbaren Farben scheußlich bemalt, zurückzukommen, eines schönen Morgens mit blutdürstigem Kriegsgeheul in die Sonntagsschule einbrechen und alle seine Gefährten in unerträglichem Neid vergehen zu sehen!<Node id="33041" />
+
+<Node id="33043" />Aber ihm fiel etwas noch Großartigeres ein!<Node id="33086" /> <Node id="33087" />Ein Pirat wollte er werden!<Node id="33114" /> <Node id="33115" />Das war‘s!<Node id="33125" /> <Node id="33126" />Jetzt erst lag seine Zukunft klar vor ihm, strahlend in unaussprechlichem Glanz.<Node id="33206" /> <Node id="33207" />Wie würde sein Name die Welt erfüllen und die Menschen schaudern machen.<Node id="33279" /> <Node id="33280" />Wie stolz würde er die schäumende See durchfurchen auf seinem großen, kohlschwarzen Dreimaster, dem „Sturmgeist“, mit der gräßlichen Flagge am Mast!<Node id="33428" /> <Node id="33429" />Und dann, auf dem Höhepunkt seines Ruhmes angelangt, würde er plötzlich in dem alten Dorfe erscheinen, und, ein braungebrannter, wetterfester Held in schwarzer Jacke, langschaftigen Seemannsstiefeln, hochroter Schärpe, den Hut mit wallenden Federn geschmückt, die schwarze Fahne mit den Totenschädeln und den gekreuzten Gebeinen darauf entfaltet, mit lähmendem Entsetzen die guten Leute in der Kirche erfüllen!<Node id="33839" /> „<Node id="33841" />Es ist Tom Sawyer, der Pirat!<Node id="33870" /> <Node id="33871" />Der schwarze Rächer des spanischen Meeres!!<Node id="33914" />“<Node id="33915" />
+
+<Node id="33917" />Ja — es war beschlossen, sein Schicksal besiegelt.<Node id="33967" /> <Node id="33968" />Er wollte von zu Hause fortlaufen und drauf los!<Node id="34016" /> <Node id="34017" />Gleich am nächsten Morgen mußte er anfangen.<Node id="34061" /> <Node id="34062" />Deshalb hieß es jetzt mit den Vorbereitungen beginnen.<Node id="34116" /> <Node id="34117" />Er wollte zunächst seine Schätze zusammenscharren.<Node id="34167" /> <Node id="34168" />Er ging zu einem hohlen Baum in der Nähe und begann am Fuße desselben mit seinem Messer den Boden aufzukratzen.<Node id="34279" /> <Node id="34280" />Bald traf er auf hohlklingendes Holz.<Node id="34317" /> <Node id="34318" />Er legte seine Hand drauf und deklamierte mit feierlicher Stimme: „Was nicht hier ist, komme, was schon hier ist, bleibe!<Node id="34439" />“<Node id="34440" />
+
+<Node id="34442" />Dann entfernte er die Erde und förderte einen von Schindeln gebildeten Behälter zu Tage.<Node id="34530" /> <Node id="34531" />Er hob ihn auf und öffnete eine kleine Schatzkammer, deren Boden und Seiten gleichfalls durch Schindeln gebildet wurden.<Node id="34651" /> <Node id="34652" />Darin lag <Node id="34662" />eine<Node id="34666" /> Glaskugel.<Node id="34677" /> <Node id="34678" />Toms Erstaunen war grenzenlos!<Node id="34708" /> <Node id="34709" />Er schüttelte den Kopf, machte ein verdutztes Gesicht und sagte: „Nun, <Node id="34780" />das<Node id="34783" /> ist stark!<Node id="34794" />“<Node id="34795" />
+
+<Node id="34797" />Dann schleuderte er die Glaskugel wütend von sich und versank in Nachdenken.<Node id="34873" /> <Node id="34874" />Die Wahrheit war, daß hier ein alter Aberglaube zunichte geworden war, den er und alle seine Kameraden stets für unfehlbar gehalten hatten.<Node id="35013" /> <Node id="35014" />Wenn man nämlich <Node id="35031" />eine<Node id="35035" /> Glaskugel mit gewissen vorgeschriebenen Worten vergrub und nach einer Zeitlang die Grube mit den gleichen Worten wieder öffnete, so fand man alle Kugeln, die man nur jemals besessen und verloren hatte, beisammen, und wären sie auch noch so weit zerstreut gewesen.<Node id="35299" /> <Node id="35300" />Und nun war das auf so schmerzliche Weise und so augenscheinlich fehlgeschlagen.<Node id="35380" /> <Node id="35381" />Toms ganzer Glaube war in seinen Grundfesten erschüttert.<Node id="35438" /> <Node id="35439" />Er hatte wohl sehr oft von derartigen geglückten Unternehmungen, niemals aber von fehlgeschlagenen gehört.<Node id="35545" /> <Node id="35546" />Es fiel ihm nicht ein, daß er es schon mehrmals versucht und nachher den Platz des Begräbnisses nicht hatte wiederfinden können.<Node id="35674" /> <Node id="35675" />Er grübelte eine Zeitlang darüber nach und entschied schließlich, daß irgend eine Hexe den Zauber gestört haben müsse.<Node id="35793" /> <Node id="35794" />Er dachte sich von diesem Punkt zu überzeugen, so suchte er, bis er eine Sandstelle mit einer trichterartigen Vertiefung darin fand.<Node id="35926" /> <Node id="35927" />Gleich legte er sich nieder, preßte den Mund fest darauf und rief:<Node id="35993" />
+
+<Node id="35995" />„<Node id="35996" />Wanze, komm herauf vom Grund,
+<Node id="36026" />Tu mir, was ich möchte, kund!<Node id="36055" />“<Node id="36056" />
+
+<Node id="36058" />Der Sand begann sich zu heben und eine kleine, schwarze Wanze erschien für einen Augenblick, verschwand aber schleunigst wieder.<Node id="36186" />
+
+<Node id="36188" />„<Node id="36189" />Sie wagt‘s nicht!<Node id="36206" /> <Node id="36207" />Es <Node id="36210" />war<Node id="36213" /> also eine Hexe!<Node id="36229" /> <Node id="36230" />Ich wußte es ja!<Node id="36246" />“<Node id="36247" />
+
+<Node id="36249" />Er sah sofort die Nutzlosigkeit eines Kampfes gegen Hexen ein und gab es mutlos auf.<Node id="36333" /> <Node id="36334" />Aber wenigstens hätte er die eben fortgeworfene Glaskugel gern wieder gehabt und begann sofort umherzusuchen, konnte sie aber nicht finden.<Node id="36473" /> <Node id="36474" />Nun ging er zu seiner Schatzkammer zurück und stellte sich genau so, wie er vorher gestanden, als er die Kugel fortwarf.<Node id="36594" /> <Node id="36595" />Dann zog er eine andere aus der Tasche, warf sie ebenso fort und deklamierte dabei: „Bruder, such den Bruder!<Node id="36704" />“ <Node id="36706" />Er paßte genau auf, wo sie niederfiel, ging dorthin und suchte umher.<Node id="36775" /> <Node id="36776" />Aber sie mußte entweder näher oder weiter geflogen sein — er wiederholte also den Versuch noch zweimal.<Node id="36879" /> <Node id="36880" />Der letzte Versuch hatte Erfolg.<Node id="36912" /> <Node id="36913" />Die beiden Kugeln lagen kaum einen Fuß voneinander.<Node id="36964" />
+
+<Node id="36966" />In diesem Augenblick drang der Ton einer Zinntrompete durch den Wald herüber.<Node id="37043" /> <Node id="37044" />Tom entledigte sich blitzartig seiner Jacke und Hose, machte sich aus einem Hosenträger einen Gürtel, räumte einen Haufen Gestrüpp hinter dem hohlen Baum fort, holte einen rohgeschnitzten Bogen und Pfeil hervor, ein hölzernes Schwert, eine Zinntrompete, raffte alles zusammen und raste davon, barbeinig, in flatterndem Hemd.<Node id="37368" /> <Node id="37369" />Bald hielt er unter einer großen Ulme, stieß antwortend in die Trompete und schlich auf den Zehen vorwärts, um vorsichtig nach allen Richtungen auszulugen.<Node id="37524" /> <Node id="37525" />Zu einer eingebildeten Heldenschar gewandt, flüsterte er:<Node id="37582" />
+
+<Node id="37584" />„<Node id="37585" />Halt, tapfere Gefährten!<Node id="37609" /> <Node id="37610" />Haltet hier, bis ich blase!<Node id="37637" />“<Node id="37638" />
+
+<Node id="37640" />In diesem Augenblick erschien Joe Harper, ebenso gekleidet und bewaffnet wie Tom.<Node id="37721" /> <Node id="37722" />Tom rief: „Halt!<Node id="37738" /> <Node id="37739" />Wer kommt ohne meine Erlaubnis in den Sherwood-Wald?!<Node id="37792" />“<Node id="37793" />
+
+<Node id="37795" />„<Node id="37796" />Guy von Guisborne wagt‘s!<Node id="37821" /> <Node id="37822" />Wer bist du, daß — daß —“<Node id="37847" />
+
+<Node id="37849" />„<Node id="37850" />Daß du es wagen darfst, so zu sprechen,“ ergänzte Tom prompt, denn sie spielten „nach dem Buch“ und deklamierten aus dem Gedächtnis.<Node id="37982" />
+
+<Node id="37984" />„<Node id="37985" />Daß du es wagen darfst, so zu sprechen?<Node id="38024" />“<Node id="38025" />
+
+<Node id="38027" />„<Node id="38028" />Wer ich bin?<Node id="38040" /> <Node id="38041" />Robin Hood, wie dein schuftiger Leichnam bald fühlen soll!<Node id="38099" />“<Node id="38100" />
+
+<Node id="38102" />„<Node id="38103" />Du wärest in der Tat jener berühmte Geächtete?<Node id="38149" /> <Node id="38150" />Mit Vergnügen will ich mit dir um die Herrschaft dieses herrlichen Waldes streiten!<Node id="38233" /> <Node id="38234" />Paß auf!<Node id="38242" />“<Node id="38243" />
+
+<Node id="38245" />Sie zogen ihre hölzernen Schwerter, warfen alle anderen Waffen auf die Erde, nahmen eine Fechterstellung an, Fuß bei Fuß, und begannen einen heißen, kühnen Kampf „zwei oben und zwei unten.<Node id="38433" />“ <Node id="38435" />Plötzlich sagte Tom:<Node id="38455" />
+
+<Node id="38457" />„<Node id="38458" />Du, wenn‘s dir recht ist — stärker!<Node id="38493" />“<Node id="38494" />
+
+<Node id="38496" />So gingen sie denn noch stärker los, schnaufend und schwitzend.<Node id="38559" />
+
+<Node id="38561" />Zuweilen stieß Tom hervor: „Fall‘, fall‘, warum fällst du nicht?!<Node id="38626" />“<Node id="38627" />
+
+<Node id="38629" />„<Node id="38630" />Fällt mir nicht ein!<Node id="38650" /> <Node id="38651" />Warum fällst du nicht selbst?<Node id="38680" /> <Node id="38681" />Du<Node id="38683" /> bekommst die meisten Schläge!<Node id="38713" />“<Node id="38714" />
+
+<Node id="38716" />„<Node id="38717" />Ach, das ist ja gleich!<Node id="38740" /> <Node id="38741" />Ich <Node id="38745" />kann<Node id="38749" /> doch nicht fallen!<Node id="38768" /> <Node id="38769" />Das steht doch nicht im Buch!<Node id="38798" /> <Node id="38799" />Im Buch steht doch: Und mit einem schrecklichen Hieb fällte er den armen Guy von Guisborne!<Node id="38890" /> <Node id="38891" />Du mußt dich umdrehen, und ich geb dir eins hinten drauf!<Node id="38948" />“<Node id="38949" />
+
+<Node id="38951" />Gegen solche Autorität ließ sich nicht streiten, Joe drehte sich um, erhielt seinen Hieb und fiel.<Node id="39049" /> „<Node id="39051" />So,“ sagte er, sich wieder aufrappelnd, „nun laß du mich dich töten.<Node id="39119" /> <Node id="39120" />Das ist recht und billig!<Node id="39145" />“<Node id="39146" />
+
+<Node id="39148" />„<Node id="39149" />Gibt‘s nicht, steht nicht im Buch!<Node id="39183" />“<Node id="39184" />
+
+<Node id="39186" />„<Node id="39187" />So?<Node id="39190" /> <Node id="39191" />Na, meinetwegen.<Node id="39207" /> ‘<Node id="39209" />s ist aber eine rechte Gemeinheit von dem Buch!<Node id="39256" /> — <Node id="39259" />So, jetzt kannst du Friar Tuck sein, Tom, oder Much, des Müllers Sohn, und mich mit einem Zaunpfahl lahm prügeln; oder ich bin der Sheriff von Nottingham, und du bist jetzt mal Robin Hood und tötest mich.<Node id="39463" />“<Node id="39464" />
+
+<Node id="39466" />Tom war‘s zufrieden, und auch diese Abenteuer wurden durchgefochten.<Node id="39534" /> <Node id="39535" />Dann war wieder Joe Robin Hood und bekam von der verräterischen Nonne die Erlaubnis, all seine furchtbare Kraft mit dem Blut seiner Wunden davonfließen zu sehen.<Node id="39696" /> <Node id="39697" />Zuletzt schleifte ihn Joe, der jetzt eine ganze Bande weinender Geächteter repräsentierte, vorsichtig davon, gab ihm seinen Bogen in die schwache Rechte, und Tom flüsterte mit ersterbender Stimme:<Node id="39893" />
+
+<Node id="39895" />„<Node id="39896" />Wo dieser Pfeil niederfällt, da begrabt den armen Robin Hood unter grünen Bäumen.<Node id="39977" />“ <Node id="39979" />Dann schoß er einen Pfeil ab, fiel zurück und würde tot gewesen sein — aber er hatte sich in Nesseln geworfen und sprang in die Höhe — etwas zu schnell für einen Toten.<Node id="40147" />
+
+<Node id="40149" />Sie zogen sich wieder an, verbargen ihre Kriegsgeräte und gingen fort, bedauernd, daß es keine Geächteten mehr gab, und sich fragend, was die moderne Zivilisation getan habe, um diesen Verlust verschmerzen zu lassen.<Node id="40365" /> <Node id="40366" />Sie waren sich beide vollkommen klar, daß sie lieber ein Jahr hindurch Geächtete im Sherwood-Walde gewesen wären als für Lebenszeit Präsident der Vereinigten Staaten.<Node id="40532" />
+<Node id="40533" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="50648" Type="Sentence" StartNode="40149" EndNode="40365">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50649" Type="Sentence" StartNode="40366" EndNode="40532">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50642" Type="Sentence" StartNode="39259" EndNode="39463">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50643" Type="Sentence" StartNode="39466" EndNode="39534">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50640" Type="Sentence" StartNode="39191" EndNode="39207">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50641" Type="Sentence" StartNode="39209" EndNode="39256">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50646" Type="Sentence" StartNode="39896" EndNode="39977">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50647" Type="Sentence" StartNode="39979" EndNode="40147">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50644" Type="Sentence" StartNode="39535" EndNode="39696">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50645" Type="Sentence" StartNode="39697" EndNode="39893">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50635" Type="Sentence" StartNode="38951" EndNode="39049">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50634" Type="Sentence" StartNode="38891" EndNode="38948">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50633" Type="Sentence" StartNode="38799" EndNode="38890">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50632" Type="Sentence" StartNode="38769" EndNode="38798">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50639" Type="Sentence" StartNode="39187" EndNode="39190">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50638" Type="Sentence" StartNode="39149" EndNode="39183">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50637" Type="Sentence" StartNode="39120" EndNode="39145">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50636" Type="Sentence" StartNode="39051" EndNode="39119">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50627" Type="Sentence" StartNode="38630" EndNode="38650">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50626" Type="Sentence" StartNode="38561" EndNode="38626">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50625" Type="Sentence" StartNode="38496" EndNode="38559">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50624" Type="Sentence" StartNode="38458" EndNode="38493">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50631" Type="Sentence" StartNode="38741" EndNode="38768">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50630" Type="Sentence" StartNode="38717" EndNode="38740">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50629" Type="Sentence" StartNode="38681" EndNode="38713">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50628" Type="Sentence" StartNode="38651" EndNode="38680">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50590" Type="Sentence" StartNode="35927" EndNode="35993">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50591" Type="Sentence" StartNode="35996" EndNode="36055">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50588" Type="Sentence" StartNode="35675" EndNode="35793">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50589" Type="Sentence" StartNode="35794" EndNode="35926">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50586" Type="Sentence" StartNode="35439" EndNode="35545">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50587" Type="Sentence" StartNode="35546" EndNode="35674">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50584" Type="Sentence" StartNode="35300" EndNode="35380">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50585" Type="Sentence" StartNode="35381" EndNode="35438">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50582" Type="Sentence" StartNode="34874" EndNode="35013">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50583" Type="Sentence" StartNode="35014" EndNode="35299">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50580" Type="Sentence" StartNode="34709" EndNode="34794">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50581" Type="Sentence" StartNode="34797" EndNode="34873">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50578" Type="Sentence" StartNode="34652" EndNode="34677">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50579" Type="Sentence" StartNode="34678" EndNode="34708">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50576" Type="Sentence" StartNode="34442" EndNode="34530">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50577" Type="Sentence" StartNode="34531" EndNode="34651">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50575" Type="Sentence" StartNode="34318" EndNode="34439">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50574" Type="Sentence" StartNode="34280" EndNode="34317">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50573" Type="Sentence" StartNode="34168" EndNode="34279">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50572" Type="Sentence" StartNode="34117" EndNode="34167">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50571" Type="Sentence" StartNode="34062" EndNode="34116">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50570" Type="Sentence" StartNode="34017" EndNode="34061">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50569" Type="Sentence" StartNode="33968" EndNode="34016">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50568" Type="Sentence" StartNode="33917" EndNode="33967">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50567" Type="Sentence" StartNode="33871" EndNode="33914">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50566" Type="Sentence" StartNode="33841" EndNode="33870">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50565" Type="Sentence" StartNode="33429" EndNode="33839">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50564" Type="Sentence" StartNode="33280" EndNode="33428">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50563" Type="Sentence" StartNode="33207" EndNode="33279">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50562" Type="Sentence" StartNode="33126" EndNode="33206">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50561" Type="Sentence" StartNode="33115" EndNode="33125">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50560" Type="Sentence" StartNode="33087" EndNode="33114">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50620" Type="Sentence" StartNode="38150" EndNode="38233">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50621" Type="Sentence" StartNode="38234" EndNode="38242">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50622" Type="Sentence" StartNode="38245" EndNode="38433">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50623" Type="Sentence" StartNode="38435" EndNode="38455">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50616" Type="Sentence" StartNode="37985" EndNode="38024">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50617" Type="Sentence" StartNode="38028" EndNode="38040">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50618" Type="Sentence" StartNode="38041" EndNode="38099">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50619" Type="Sentence" StartNode="38103" EndNode="38149">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50612" Type="Sentence" StartNode="37739" EndNode="37792">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50613" Type="Sentence" StartNode="37796" EndNode="37821">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50614" Type="Sentence" StartNode="37822" EndNode="37847">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50615" Type="Sentence" StartNode="37850" EndNode="37982">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50608" Type="Sentence" StartNode="37585" EndNode="37609">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50609" Type="Sentence" StartNode="37610" EndNode="37637">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50610" Type="Sentence" StartNode="37640" EndNode="37721">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50611" Type="Sentence" StartNode="37722" EndNode="37738">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50605" Type="Sentence" StartNode="37044" EndNode="37368">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50604" Type="Sentence" StartNode="36966" EndNode="37043">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50607" Type="Sentence" StartNode="37525" EndNode="37582">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50606" Type="Sentence" StartNode="37369" EndNode="37524">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50601" Type="Sentence" StartNode="36776" EndNode="36879">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50600" Type="Sentence" StartNode="36706" EndNode="36775">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50603" Type="Sentence" StartNode="36913" EndNode="36964">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50602" Type="Sentence" StartNode="36880" EndNode="36912">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50597" Type="Sentence" StartNode="36334" EndNode="36473">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50596" Type="Sentence" StartNode="36249" EndNode="36333">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50599" Type="Sentence" StartNode="36595" EndNode="36704">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50598" Type="Sentence" StartNode="36474" EndNode="36594">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50593" Type="Sentence" StartNode="36189" EndNode="36206">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50592" Type="Sentence" StartNode="36058" EndNode="36186">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50595" Type="Sentence" StartNode="36230" EndNode="36246">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50594" Type="Sentence" StartNode="36207" EndNode="36229">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50515" Type="Sentence" StartNode="28850" EndNode="28894">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50514" Type="Sentence" StartNode="28823" EndNode="28848">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50513" Type="Sentence" StartNode="28809" EndNode="28820">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50512" Type="Sentence" StartNode="28794" EndNode="28808">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50519" Type="Sentence" StartNode="29167" EndNode="29275">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50518" Type="Sentence" StartNode="29109" EndNode="29166">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50517" Type="Sentence" StartNode="28924" EndNode="29106">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50516" Type="Sentence" StartNode="28897" EndNode="28923">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50523" Type="Sentence" StartNode="29351" EndNode="29388">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50522" Type="Sentence" StartNode="29323" EndNode="29350">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50521" Type="Sentence" StartNode="29305" EndNode="29322">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50520" Type="Sentence" StartNode="29276" EndNode="29304">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50527" Type="Sentence" StartNode="29531" EndNode="29591">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50526" Type="Sentence" StartNode="29482" EndNode="29530">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50525" Type="Sentence" StartNode="29408" EndNode="29479">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50524" Type="Sentence" StartNode="29389" EndNode="29407">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50498" Type="Sentence" StartNode="27755" EndNode="27785">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50499" Type="Sentence" StartNode="27786" EndNode="27823">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50496" Type="Sentence" StartNode="27656" EndNode="27721">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50497" Type="Sentence" StartNode="27724" EndNode="27753">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50502" Type="Sentence" StartNode="28039" EndNode="28137">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50503" Type="Sentence" StartNode="28138" EndNode="28196">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50500" Type="Sentence" StartNode="27827" EndNode="27898">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50501" Type="Sentence" StartNode="27901" EndNode="28038">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50506" Type="Sentence" StartNode="28355" EndNode="28432">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50507" Type="Sentence" StartNode="28433" EndNode="28535">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50504" Type="Sentence" StartNode="28197" EndNode="28334">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50505" Type="Sentence" StartNode="28335" EndNode="28354">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50510" Type="Sentence" StartNode="28630" EndNode="28702">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50511" Type="Sentence" StartNode="28703" EndNode="28791">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50508" Type="Sentence" StartNode="28536" EndNode="28603">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50509" Type="Sentence" StartNode="28604" EndNode="28629">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50545" Type="Sentence" StartNode="31634" EndNode="31668">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50544" Type="Sentence" StartNode="31609" EndNode="31633">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50547" Type="Sentence" StartNode="31677" EndNode="31788">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50546" Type="Sentence" StartNode="31669" EndNode="31676">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50549" Type="Sentence" StartNode="31840" EndNode="31906">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50548" Type="Sentence" StartNode="31789" EndNode="31839">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50551" Type="Sentence" StartNode="31978" EndNode="32050">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50550" Type="Sentence" StartNode="31908" EndNode="31977">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50553" Type="Sentence" StartNode="32121" EndNode="32226">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50552" Type="Sentence" StartNode="32051" EndNode="32120">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50555" Type="Sentence" StartNode="32259" EndNode="32343">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50554" Type="Sentence" StartNode="32227" EndNode="32258">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50557" Type="Sentence" StartNode="32506" EndNode="32609">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50556" Type="Sentence" StartNode="32344" EndNode="32505">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50559" Type="Sentence" StartNode="33043" EndNode="33086">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50558" Type="Sentence" StartNode="32610" EndNode="33041">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50528" Type="Sentence" StartNode="29592" EndNode="29801">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50529" Type="Sentence" StartNode="29802" EndNode="29984">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50530" Type="Sentence" StartNode="29985" EndNode="30000">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50531" Type="Sentence" StartNode="30002" EndNode="30172">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50532" Type="Sentence" StartNode="30173" EndNode="30326">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50533" Type="Sentence" StartNode="30327" EndNode="30486">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50534" Type="Sentence" StartNode="30487" EndNode="30643">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50535" Type="Sentence" StartNode="30644" EndNode="30669">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50536" Type="Sentence" StartNode="30670" EndNode="30730">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50537" Type="Sentence" StartNode="30731" EndNode="30918">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50538" Type="Sentence" StartNode="30919" EndNode="30971">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50539" Type="Sentence" StartNode="30972" EndNode="31042">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50540" Type="Sentence" StartNode="31043" EndNode="31131">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50541" Type="Sentence" StartNode="31132" EndNode="31261">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50542" Type="Sentence" StartNode="31262" EndNode="31501">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50543" Type="Sentence" StartNode="31502" EndNode="31608">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50455" Type="Sentence" StartNode="25329" EndNode="25379">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50454" Type="Sentence" StartNode="25319" EndNode="25325">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50453" Type="Sentence" StartNode="25287" EndNode="25315">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50452" Type="Sentence" StartNode="25249" EndNode="25286">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50451" Type="Sentence" StartNode="25227" EndNode="25245">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50450" Type="Sentence" StartNode="25219" EndNode="25226">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50449" Type="Sentence" StartNode="25200" EndNode="25215">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50448" Type="Sentence" StartNode="25039" EndNode="25199">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50463" Type="Sentence" StartNode="25573" EndNode="25600">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50462" Type="Sentence" StartNode="25556" EndNode="25569">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50461" Type="Sentence" StartNode="25525" EndNode="25552">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50460" Type="Sentence" StartNode="25500" EndNode="25521">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50459" Type="Sentence" StartNode="25467" EndNode="25496">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50458" Type="Sentence" StartNode="25454" EndNode="25463">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50457" Type="Sentence" StartNode="25444" EndNode="25451">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50456" Type="Sentence" StartNode="25380" EndNode="25440">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50438" Type="Sentence" StartNode="24817" EndNode="24856">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50439" Type="Sentence" StartNode="24860" EndNode="24872">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50436" Type="Sentence" StartNode="24716" EndNode="24723">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50437" Type="Sentence" StartNode="24724" EndNode="24814">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50434" Type="Sentence" StartNode="24661" EndNode="24679">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50435" Type="Sentence" StartNode="24680" EndNode="24712">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50432" Type="Sentence" StartNode="24581" EndNode="24632">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50433" Type="Sentence" StartNode="24636" EndNode="24660">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50446" Type="Sentence" StartNode="25001" EndNode="25006">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50447" Type="Sentence" StartNode="25007" EndNode="25038">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50444" Type="Sentence" StartNode="24965" EndNode="24978">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50445" Type="Sentence" StartNode="24979" EndNode="24997">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50442" Type="Sentence" StartNode="24923" EndNode="24945">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50443" Type="Sentence" StartNode="24949" EndNode="24964">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50440" Type="Sentence" StartNode="24876" EndNode="24910">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50441" Type="Sentence" StartNode="24914" EndNode="24919">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50485" Type="Sentence" StartNode="26872" EndNode="27011">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50484" Type="Sentence" StartNode="26791" EndNode="26871">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50487" Type="Sentence" StartNode="27026" EndNode="27195">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50486" Type="Sentence" StartNode="27012" EndNode="27022">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50481" Type="Sentence" StartNode="26637" EndNode="26686">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50480" Type="Sentence" StartNode="26619" EndNode="26634">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50483" Type="Sentence" StartNode="26738" EndNode="26790">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50482" Type="Sentence" StartNode="26687" EndNode="26737">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50493" Type="Sentence" StartNode="27520" EndNode="27540">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50492" Type="Sentence" StartNode="27484" EndNode="27516">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50495" Type="Sentence" StartNode="27570" EndNode="27653">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50494" Type="Sentence" StartNode="27541" EndNode="27568">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50489" Type="Sentence" StartNode="27210" EndNode="27229">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50488" Type="Sentence" StartNode="27199" EndNode="27209">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50491" Type="Sentence" StartNode="27470" EndNode="27483">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50490" Type="Sentence" StartNode="27230" EndNode="27466">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50468" Type="Sentence" StartNode="25871" EndNode="25926">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50469" Type="Sentence" StartNode="25929" EndNode="26053">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50470" Type="Sentence" StartNode="26054" EndNode="26102">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50471" Type="Sentence" StartNode="26103" EndNode="26122">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50464" Type="Sentence" StartNode="25604" EndNode="25624">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50465" Type="Sentence" StartNode="25625" EndNode="25631">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50466" Type="Sentence" StartNode="25632" EndNode="25695">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50467" Type="Sentence" StartNode="25698" EndNode="25870">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50476" Type="Sentence" StartNode="26303" EndNode="26456">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50477" Type="Sentence" StartNode="26457" EndNode="26503">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50478" Type="Sentence" StartNode="26506" EndNode="26563">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50479" Type="Sentence" StartNode="26564" EndNode="26618">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50472" Type="Sentence" StartNode="26126" EndNode="26152">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50473" Type="Sentence" StartNode="26153" EndNode="26164">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50474" Type="Sentence" StartNode="26167" EndNode="26196">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50475" Type="Sentence" StartNode="26197" EndNode="26300">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50377" Type="Sentence" StartNode="20700" EndNode="20963">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50376" Type="Sentence" StartNode="20598" EndNode="20698">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50379" Type="Sentence" StartNode="20985" EndNode="21059">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50378" Type="Sentence" StartNode="20967" EndNode="20982">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50381" Type="Sentence" StartNode="21128" EndNode="21160">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50380" Type="Sentence" StartNode="21060" EndNode="21127">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50383" Type="Sentence" StartNode="21385" EndNode="21442">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50382" Type="Sentence" StartNode="21161" EndNode="21384">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50369" Type="Sentence" StartNode="19739" EndNode="20004">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50368" Type="Sentence" StartNode="19679" EndNode="19738">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50371" Type="Sentence" StartNode="20183" EndNode="20217">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50370" Type="Sentence" StartNode="20005" EndNode="20182">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50373" Type="Sentence" StartNode="20327" EndNode="20430">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50372" Type="Sentence" StartNode="20218" EndNode="20326">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50375" Type="Sentence" StartNode="20488" EndNode="20597">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50374" Type="Sentence" StartNode="20431" EndNode="20487">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50392" Type="Sentence" StartNode="22092" EndNode="22141">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50393" Type="Sentence" StartNode="22145" EndNode="22167">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50394" Type="Sentence" StartNode="22171" EndNode="22190">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50395" Type="Sentence" StartNode="22194" EndNode="22236">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50396" Type="Sentence" StartNode="22240" EndNode="22276">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50397" Type="Sentence" StartNode="22280" EndNode="22375">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50398" Type="Sentence" StartNode="22379" EndNode="22411">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50399" Type="Sentence" StartNode="22412" EndNode="22445">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50384" Type="Sentence" StartNode="21443" EndNode="21794">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50385" Type="Sentence" StartNode="21795" EndNode="21844">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50386" Type="Sentence" StartNode="21845" EndNode="21872">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50387" Type="Sentence" StartNode="21873" EndNode="21934">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50388" Type="Sentence" StartNode="21935" EndNode="21959">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50389" Type="Sentence" StartNode="21961" EndNode="21974">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50390" Type="Sentence" StartNode="21978" EndNode="22048">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50391" Type="Sentence" StartNode="22052" EndNode="22088">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50411" Type="Sentence" StartNode="23675" EndNode="23766">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50410" Type="Sentence" StartNode="23523" EndNode="23674">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50409" Type="Sentence" StartNode="23379" EndNode="23521">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50408" Type="Sentence" StartNode="23308" EndNode="23378">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50415" Type="Sentence" StartNode="23836" EndNode="23856">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50414" Type="Sentence" StartNode="23817" EndNode="23833">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50413" Type="Sentence" StartNode="23795" EndNode="23815">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50412" Type="Sentence" StartNode="23767" EndNode="23792">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50403" Type="Sentence" StartNode="22926" EndNode="23011">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50402" Type="Sentence" StartNode="22709" EndNode="22925">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50401" Type="Sentence" StartNode="22497" EndNode="22708">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50400" Type="Sentence" StartNode="22446" EndNode="22494">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50407" Type="Sentence" StartNode="23246" EndNode="23305">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50406" Type="Sentence" StartNode="23158" EndNode="23245">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50405" Type="Sentence" StartNode="23095" EndNode="23157">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50404" Type="Sentence" StartNode="23013" EndNode="23092">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50426" Type="Sentence" StartNode="24306" EndNode="24335">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50427" Type="Sentence" StartNode="24337" EndNode="24348">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50424" Type="Sentence" StartNode="24141" EndNode="24212">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50425" Type="Sentence" StartNode="24215" EndNode="24303">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50430" Type="Sentence" StartNode="24490" EndNode="24542">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50431" Type="Sentence" StartNode="24543" EndNode="24580">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50428" Type="Sentence" StartNode="24351" EndNode="24427">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50429" Type="Sentence" StartNode="24431" EndNode="24487">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50418" Type="Sentence" StartNode="23989" EndNode="24030">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50419" Type="Sentence" StartNode="24031" EndNode="24058">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50416" Type="Sentence" StartNode="23860" EndNode="23895">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50417" Type="Sentence" StartNode="23896" EndNode="23985">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50422" Type="Sentence" StartNode="24110" EndNode="24122">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50423" Type="Sentence" StartNode="24123" EndNode="24140">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50420" Type="Sentence" StartNode="24062" EndNode="24075">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50421" Type="Sentence" StartNode="24076" EndNode="24106">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50317" Type="Sentence" StartNode="14066" EndNode="14530">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50316" Type="Sentence" StartNode="13666" EndNode="14062">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50319" Type="Sentence" StartNode="14784" EndNode="14897">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50318" Type="Sentence" StartNode="14533" EndNode="14783">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50313" Type="Sentence" StartNode="13164" EndNode="13252">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50312" Type="Sentence" StartNode="13107" EndNode="13163">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50315" Type="Sentence" StartNode="13424" EndNode="13665">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50314" Type="Sentence" StartNode="13253" EndNode="13423">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50309" Type="Sentence" StartNode="12552" EndNode="12695">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50308" Type="Sentence" StartNode="12337" EndNode="12551">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50311" Type="Sentence" StartNode="12818" EndNode="13105">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50310" Type="Sentence" StartNode="12696" EndNode="12817">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50305" Type="Sentence" StartNode="12150" EndNode="12157">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50304" Type="Sentence" StartNode="12083" EndNode="12149">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50307" Type="Sentence" StartNode="12286" EndNode="12334">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50306" Type="Sentence" StartNode="12159" EndNode="12285">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50332" Type="Sentence" StartNode="16005" EndNode="16045">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50333" Type="Sentence" StartNode="16046" EndNode="16049">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50334" Type="Sentence" StartNode="16050" EndNode="16135">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50335" Type="Sentence" StartNode="16136" EndNode="16268">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50328" Type="Sentence" StartNode="15703" EndNode="15743">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50329" Type="Sentence" StartNode="15744" EndNode="15797">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50330" Type="Sentence" StartNode="15798" EndNode="15895">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50331" Type="Sentence" StartNode="15896" EndNode="16004">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50324" Type="Sentence" StartNode="15426" EndNode="15446">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50325" Type="Sentence" StartNode="15447" EndNode="15613">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50326" Type="Sentence" StartNode="15614" EndNode="15662">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50327" Type="Sentence" StartNode="15663" EndNode="15702">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50320" Type="Sentence" StartNode="14898" EndNode="14959">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50321" Type="Sentence" StartNode="14960" EndNode="15067">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50322" Type="Sentence" StartNode="15068" EndNode="15324">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50323" Type="Sentence" StartNode="15325" EndNode="15423">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50351" Type="Sentence" StartNode="17615" EndNode="17823">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50350" Type="Sentence" StartNode="17531" EndNode="17614">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50349" Type="Sentence" StartNode="17467" EndNode="17530">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50348" Type="Sentence" StartNode="17186" EndNode="17465">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50347" Type="Sentence" StartNode="17055" EndNode="17185">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50346" Type="Sentence" StartNode="16904" EndNode="17054">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50345" Type="Sentence" StartNode="16691" EndNode="16903">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50344" Type="Sentence" StartNode="16636" EndNode="16689">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50343" Type="Sentence" StartNode="16504" EndNode="16635">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50342" Type="Sentence" StartNode="16495" EndNode="16503">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50341" Type="Sentence" StartNode="16421" EndNode="16494">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50340" Type="Sentence" StartNode="16377" EndNode="16420">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50339" Type="Sentence" StartNode="16321" EndNode="16376">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50338" Type="Sentence" StartNode="16282" EndNode="16320">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50337" Type="Sentence" StartNode="16273" EndNode="16281">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50336" Type="Sentence" StartNode="16269" EndNode="16272">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50366" Type="Sentence" StartNode="19498" EndNode="19619">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50367" Type="Sentence" StartNode="19620" EndNode="19678">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50364" Type="Sentence" StartNode="19291" EndNode="19371">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50365" Type="Sentence" StartNode="19372" EndNode="19497">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50362" Type="Sentence" StartNode="18996" EndNode="19224">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50363" Type="Sentence" StartNode="19225" EndNode="19290">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50360" Type="Sentence" StartNode="18811" EndNode="18858">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50361" Type="Sentence" StartNode="18859" EndNode="18995">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50358" Type="Sentence" StartNode="18706" EndNode="18769">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50359" Type="Sentence" StartNode="18770" EndNode="18810">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50356" Type="Sentence" StartNode="18532" EndNode="18646">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50357" Type="Sentence" StartNode="18647" EndNode="18705">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">de</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50354" Type="Sentence" StartNode="18246" EndNode="18321">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50355" Type="Sentence" StartNode="18322" EndNode="18530">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50352" Type="Sentence" StartNode="17824" EndNode="18068">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50353" Type="Sentence" StartNode="18069" EndNode="18245">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">fr</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50240" Type="Sentence" StartNode="2348" EndNode="2654">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50241" Type="Sentence" StartNode="2656" EndNode="2764">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50242" Type="Sentence" StartNode="2765" EndNode="2808">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50243" Type="Sentence" StartNode="2809" EndNode="2905">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50244" Type="Sentence" StartNode="2906" EndNode="3072">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50245" Type="Sentence" StartNode="3073" EndNode="3211">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50246" Type="Sentence" StartNode="3214" EndNode="3239">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50247" Type="Sentence" StartNode="3241" EndNode="3344">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50248" Type="Sentence" StartNode="3345" EndNode="3355">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50249" Type="Sentence" StartNode="3356" EndNode="3366">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50250" Type="Sentence" StartNode="3368" EndNode="3495">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50251" Type="Sentence" StartNode="3497" EndNode="3568">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50252" Type="Sentence" StartNode="3569" EndNode="3681">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50253" Type="Sentence" StartNode="3682" EndNode="4086">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50254" Type="Sentence" StartNode="4087" EndNode="4257">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50255" Type="Sentence" StartNode="4258" EndNode="4521">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50257" Type="Sentence" StartNode="4565" EndNode="4659">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50256" Type="Sentence" StartNode="4524" EndNode="4563">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50259" Type="Sentence" StartNode="4826" EndNode="4902">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50258" Type="Sentence" StartNode="4661" EndNode="4825">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50261" Type="Sentence" StartNode="4942" EndNode="5031">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50260" Type="Sentence" StartNode="4903" EndNode="4941">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50263" Type="Sentence" StartNode="5351" EndNode="5630">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50262" Type="Sentence" StartNode="5034" EndNode="5350">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50265" Type="Sentence" StartNode="5848" EndNode="6063">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50264" Type="Sentence" StartNode="5631" EndNode="5846">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50267" Type="Sentence" StartNode="6132" EndNode="6766">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50266" Type="Sentence" StartNode="6064" EndNode="6129">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50269" Type="Sentence" StartNode="7238" EndNode="7524">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50268" Type="Sentence" StartNode="6769" EndNode="7237">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50271" Type="Sentence" StartNode="7550" EndNode="8025">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50270" Type="Sentence" StartNode="7525" EndNode="7547">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50274" Type="Sentence" StartNode="8793" EndNode="9112">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50275" Type="Sentence" StartNode="9113" EndNode="9287">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50272" Type="Sentence" StartNode="8027" EndNode="8341">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50273" Type="Sentence" StartNode="8343" EndNode="8791">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50278" Type="Sentence" StartNode="9699" EndNode="9835">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50279" Type="Sentence" StartNode="9836" EndNode="9940">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50276" Type="Sentence" StartNode="9288" EndNode="9544">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50277" Type="Sentence" StartNode="9545" EndNode="9698">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50282" Type="Sentence" StartNode="10667" EndNode="10768">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50283" Type="Sentence" StartNode="10769" EndNode="10807">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50280" Type="Sentence" StartNode="9943" EndNode="10421">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50281" Type="Sentence" StartNode="10424" EndNode="10666">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50286" Type="Sentence" StartNode="11150" EndNode="11229">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50287" Type="Sentence" StartNode="11232" EndNode="11244">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50284" Type="Sentence" StartNode="10808" EndNode="10915">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50285" Type="Sentence" StartNode="10916" EndNode="11149">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50291" Type="Sentence" StartNode="11436" EndNode="11471">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50290" Type="Sentence" StartNode="11405" EndNode="11435">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50289" Type="Sentence" StartNode="11280" EndNode="11404">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50288" Type="Sentence" StartNode="11245" EndNode="11279">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50295" Type="Sentence" StartNode="11656" EndNode="11685">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50294" Type="Sentence" StartNode="11587" EndNode="11655">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50293" Type="Sentence" StartNode="11510" EndNode="11586">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50292" Type="Sentence" StartNode="11472" EndNode="11509">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50299" Type="Sentence" StartNode="11939" EndNode="11942">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50298" Type="Sentence" StartNode="11789" EndNode="11938">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50297" Type="Sentence" StartNode="11690" EndNode="11788">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50296" Type="Sentence" StartNode="11686" EndNode="11689">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50303" Type="Sentence" StartNode="12039" EndNode="12082">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50302" Type="Sentence" StartNode="11991" EndNode="12038">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50301" Type="Sentence" StartNode="11964" EndNode="11990">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50300" Type="Sentence" StartNode="11943" EndNode="11963">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50223" Type="Sentence" StartNode="0" EndNode="131">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50231" Type="Sentence" StartNode="980" EndNode="1046">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50230" Type="Sentence" StartNode="747" EndNode="979">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50229" Type="Sentence" StartNode="577" EndNode="746">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50228" Type="Sentence" StartNode="427" EndNode="576">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50227" Type="Sentence" StartNode="298" EndNode="426">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50226" Type="Sentence" StartNode="220" EndNode="297">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50225" Type="Sentence" StartNode="166" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50224" Type="Sentence" StartNode="132" EndNode="165">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50239" Type="Sentence" StartNode="2008" EndNode="2347">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50238" Type="Sentence" StartNode="1871" EndNode="2007">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50237" Type="Sentence" StartNode="1840" EndNode="1870">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50236" Type="Sentence" StartNode="1508" EndNode="1839">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50235" Type="Sentence" StartNode="1438" EndNode="1507">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50234" Type="Sentence" StartNode="1371" EndNode="1437">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50233" Type="Sentence" StartNode="1173" EndNode="1370">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+<Annotation Id="50232" Type="Sentence" StartNode="1047" EndNode="1171">
+<Feature>
+  <Name className="java.lang.String">lang</Name>
+  <Value className="java.lang.String">en</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="html" StartNode="0" EndNode="40533">
+</Annotation>
+<Annotation Id="1" Type="head" StartNode="0" EndNode="0">
+<Feature>
+  <Name className="java.lang.String">isEmptyAndSpan</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="body" StartNode="0" EndNode="40533">
+</Annotation>
+<Annotation Id="3" Type="en" StartNode="0" EndNode="14065">
+</Annotation>
+<Annotation Id="4" Type="p" StartNode="0" EndNode="1171">
+</Annotation>
+<Annotation Id="5" Type="p" StartNode="1173" EndNode="2654">
+</Annotation>
+<Annotation Id="6" Type="p" StartNode="2656" EndNode="3211">
+</Annotation>
+<Annotation Id="7" Type="i" StartNode="3041" EndNode="3049">
+</Annotation>
+<Annotation Id="8" Type="p" StartNode="3213" EndNode="3495">
+</Annotation>
+<Annotation Id="9" Type="p" StartNode="3497" EndNode="4521">
+</Annotation>
+<Annotation Id="10" Type="p" StartNode="4523" EndNode="5032">
+</Annotation>
+<Annotation Id="11" Type="p" StartNode="5034" EndNode="5846">
+</Annotation>
+<Annotation Id="12" Type="p" StartNode="5848" EndNode="6129">
+</Annotation>
+<Annotation Id="13" Type="p" StartNode="6131" EndNode="6767">
+</Annotation>
+<Annotation Id="14" Type="p" StartNode="6769" EndNode="7547">
+</Annotation>
+<Annotation Id="15" Type="p" StartNode="7549" EndNode="7933">
+</Annotation>
+<Annotation Id="17" Type="table" StartNode="7934" EndNode="8026">
+<Feature>
+  <Name className="java.lang.String">summary</Name>
+  <Value className="java.lang.String">verse</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="center" StartNode="7934" EndNode="8026">
+</Annotation>
+<Annotation Id="19" Type="tr" StartNode="7934" EndNode="8025">
+</Annotation>
+<Annotation Id="18" Type="tbody" StartNode="7934" EndNode="8026">
+</Annotation>
+<Annotation Id="21" Type="br" StartNode="7977" EndNode="7977">
+</Annotation>
+<Annotation Id="20" Type="td" StartNode="7934" EndNode="8025">
+</Annotation>
+<Annotation Id="23" Type="p" StartNode="8793" EndNode="9940">
+</Annotation>
+<Annotation Id="22" Type="p" StartNode="8343" EndNode="8791">
+</Annotation>
+<Annotation Id="25" Type="p" StartNode="10424" EndNode="11229">
+</Annotation>
+<Annotation Id="24" Type="p" StartNode="9942" EndNode="10422">
+</Annotation>
+<Annotation Id="27" Type="i" StartNode="11265" EndNode="11269">
+</Annotation>
+<Annotation Id="26" Type="p" StartNode="11231" EndNode="12335">
+</Annotation>
+<Annotation Id="29" Type="i" StartNode="11436" EndNode="11471">
+</Annotation>
+<Annotation Id="28" Type="i" StartNode="11419" EndNode="11424">
+</Annotation>
+<Annotation Id="31" Type="i" StartNode="11637" EndNode="11655">
+</Annotation>
+<Annotation Id="30" Type="i" StartNode="11512" EndNode="11515">
+</Annotation>
+<Annotation Id="34" Type="i" StartNode="12623" EndNode="12626">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="13107" EndNode="14064">
+</Annotation>
+<Annotation Id="32" Type="i" StartNode="12277" EndNode="12335">
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="12337" EndNode="13105">
+</Annotation>
+<Annotation Id="38" Type="fr" StartNode="14065" EndNode="18531">
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="14065" EndNode="14531">
+</Annotation>
+<Annotation Id="36" Type="i" StartNode="14046" EndNode="14060">
+</Annotation>
+<Annotation Id="37" Type="br" StartNode="14064" EndNode="14064">
+</Annotation>
+<Annotation Id="42" Type="i" StartNode="15466" EndNode="15470">
+</Annotation>
+<Annotation Id="43" Type="i" StartNode="15680" EndNode="15694">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="14533" EndNode="15423">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="15425" EndNode="16689">
+</Annotation>
+<Annotation Id="46" Type="i" StartNode="15982" EndNode="16004">
+</Annotation>
+<Annotation Id="47" Type="i" StartNode="16627" EndNode="16689">
+</Annotation>
+<Annotation Id="44" Type="i" StartNode="15703" EndNode="15743">
+</Annotation>
+<Annotation Id="45" Type="i" StartNode="15810" EndNode="15820">
+</Annotation>
+<Annotation Id="51" Type="de" StartNode="18531" EndNode="40533">
+</Annotation>
+<Annotation Id="50" Type="i" StartNode="18516" EndNode="18528">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="17467" EndNode="18530">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="16691" EndNode="17465">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="20985" EndNode="21975">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="20966" EndNode="20983">
+</Annotation>
+<Annotation Id="53" Type="i" StartNode="20834" EndNode="20839">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="18532" EndNode="20964">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">first</Value>
+</Feature>
+</Annotation>
+<Annotation Id="59" Type="i" StartNode="22117" EndNode="22120">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="22091" EndNode="22142">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="22051" EndNode="22089">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="21977" EndNode="22049">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="22239" EndNode="22277">
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="22193" EndNode="22237">
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="22170" EndNode="22191">
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="22144" EndNode="22168">
+</Annotation>
+<Annotation Id="68" Type="p" StartNode="23013" EndNode="23092">
+</Annotation>
+<Annotation Id="69" Type="p" StartNode="23094" EndNode="23306">
+</Annotation>
+<Annotation Id="70" Type="p" StartNode="23308" EndNode="23521">
+</Annotation>
+<Annotation Id="71" Type="p" StartNode="23523" EndNode="23792">
+</Annotation>
+<Annotation Id="64" Type="p" StartNode="22279" EndNode="22376">
+</Annotation>
+<Annotation Id="65" Type="p" StartNode="22378" EndNode="22495">
+</Annotation>
+<Annotation Id="66" Type="i" StartNode="22390" EndNode="22394">
+</Annotation>
+<Annotation Id="67" Type="p" StartNode="22497" EndNode="23011">
+</Annotation>
+<Annotation Id="76" Type="p" StartNode="24061" EndNode="24107">
+</Annotation>
+<Annotation Id="77" Type="p" StartNode="24109" EndNode="24213">
+</Annotation>
+<Annotation Id="78" Type="p" StartNode="24215" EndNode="24303">
+</Annotation>
+<Annotation Id="79" Type="p" StartNode="24305" EndNode="24348">
+</Annotation>
+<Annotation Id="72" Type="p" StartNode="23794" EndNode="23833">
+</Annotation>
+<Annotation Id="73" Type="p" StartNode="23835" EndNode="23857">
+</Annotation>
+<Annotation Id="74" Type="p" StartNode="23859" EndNode="23986">
+</Annotation>
+<Annotation Id="75" Type="p" StartNode="23988" EndNode="24059">
+</Annotation>
+<Annotation Id="85" Type="p" StartNode="24875" EndNode="24911">
+</Annotation>
+<Annotation Id="84" Type="p" StartNode="24859" EndNode="24873">
+</Annotation>
+<Annotation Id="87" Type="p" StartNode="24922" EndNode="24946">
+</Annotation>
+<Annotation Id="86" Type="p" StartNode="24913" EndNode="24920">
+</Annotation>
+<Annotation Id="81" Type="p" StartNode="24430" EndNode="24633">
+</Annotation>
+<Annotation Id="80" Type="p" StartNode="24350" EndNode="24428">
+</Annotation>
+<Annotation Id="83" Type="p" StartNode="24715" EndNode="24857">
+</Annotation>
+<Annotation Id="82" Type="p" StartNode="24635" EndNode="24713">
+</Annotation>
+<Annotation Id="93" Type="p" StartNode="25248" EndNode="25316">
+</Annotation>
+<Annotation Id="92" Type="p" StartNode="25218" EndNode="25246">
+</Annotation>
+<Annotation Id="95" Type="p" StartNode="25318" EndNode="25326">
+</Annotation>
+<Annotation Id="94" Type="i" StartNode="25263" EndNode="25265">
+</Annotation>
+<Annotation Id="89" Type="p" StartNode="25000" EndNode="25216">
+</Annotation>
+<Annotation Id="88" Type="p" StartNode="24948" EndNode="24998">
+</Annotation>
+<Annotation Id="91" Type="i" StartNode="25142" EndNode="25149">
+</Annotation>
+<Annotation Id="90" Type="i" StartNode="25007" EndNode="25010">
+</Annotation>
+<Annotation Id="102" Type="p" StartNode="25524" EndNode="25553">
+</Annotation>
+<Annotation Id="103" Type="p" StartNode="25555" EndNode="25570">
+</Annotation>
+<Annotation Id="100" Type="p" StartNode="25499" EndNode="25522">
+</Annotation>
+<Annotation Id="101" Type="i" StartNode="25511" EndNode="25514">
+</Annotation>
+<Annotation Id="98" Type="p" StartNode="25453" EndNode="25464">
+</Annotation>
+<Annotation Id="99" Type="p" StartNode="25466" EndNode="25497">
+</Annotation>
+<Annotation Id="96" Type="p" StartNode="25328" EndNode="25441">
+</Annotation>
+<Annotation Id="97" Type="p" StartNode="25443" EndNode="25451">
+</Annotation>
+<Annotation Id="110" Type="i" StartNode="26112" EndNode="26118">
+</Annotation>
+<Annotation Id="111" Type="p" StartNode="26125" EndNode="26165">
+</Annotation>
+<Annotation Id="108" Type="i" StartNode="25906" EndNode="25909">
+</Annotation>
+<Annotation Id="109" Type="p" StartNode="25929" EndNode="26123">
+</Annotation>
+<Annotation Id="106" Type="p" StartNode="25603" EndNode="25696">
+</Annotation>
+<Annotation Id="107" Type="p" StartNode="25698" EndNode="25927">
+</Annotation>
+<Annotation Id="104" Type="i" StartNode="25562" EndNode="25567">
+</Annotation>
+<Annotation Id="105" Type="p" StartNode="25572" EndNode="25601">
+</Annotation>
+<Annotation Id="119" Type="p" StartNode="27469" EndNode="27517">
+</Annotation>
+<Annotation Id="118" Type="i" StartNode="27292" EndNode="27295">
+</Annotation>
+<Annotation Id="117" Type="p" StartNode="27198" EndNode="27467">
+</Annotation>
+<Annotation Id="116" Type="p" StartNode="27025" EndNode="27196">
+</Annotation>
+<Annotation Id="115" Type="p" StartNode="26637" EndNode="27023">
+</Annotation>
+<Annotation Id="114" Type="p" StartNode="26505" EndNode="26635">
+</Annotation>
+<Annotation Id="113" Type="p" StartNode="26303" EndNode="26503">
+</Annotation>
+<Annotation Id="112" Type="p" StartNode="26167" EndNode="26301">
+</Annotation>
+<Annotation Id="127" Type="p" StartNode="28794" EndNode="28820">
+</Annotation>
+<Annotation Id="126" Type="p" StartNode="27901" EndNode="28792">
+</Annotation>
+<Annotation Id="125" Type="p" StartNode="27826" EndNode="27899">
+</Annotation>
+<Annotation Id="124" Type="p" StartNode="27755" EndNode="27824">
+</Annotation>
+<Annotation Id="123" Type="p" StartNode="27724" EndNode="27753">
+</Annotation>
+<Annotation Id="122" Type="p" StartNode="27655" EndNode="27722">
+</Annotation>
+<Annotation Id="121" Type="p" StartNode="27570" EndNode="27653">
+</Annotation>
+<Annotation Id="120" Type="p" StartNode="27519" EndNode="27568">
+</Annotation>
+<Annotation Id="137" Type="p" StartNode="34442" EndNode="34795">
+</Annotation>
+<Annotation Id="136" Type="p" StartNode="33917" EndNode="34440">
+</Annotation>
+<Annotation Id="139" Type="i" StartNode="34780" EndNode="34783">
+</Annotation>
+<Annotation Id="138" Type="i" StartNode="34662" EndNode="34666">
+</Annotation>
+<Annotation Id="141" Type="i" StartNode="35031" EndNode="35035">
+</Annotation>
+<Annotation Id="140" Type="p" StartNode="34797" EndNode="35993">
+</Annotation>
+<Annotation Id="143" Type="br" StartNode="36026" EndNode="36026">
+</Annotation>
+<Annotation Id="142" Type="p" StartNode="35995" EndNode="36056">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">poem</Value>
+</Feature>
+</Annotation>
+<Annotation Id="129" Type="p" StartNode="28897" EndNode="29107">
+</Annotation>
+<Annotation Id="128" Type="p" StartNode="28822" EndNode="28895">
+</Annotation>
+<Annotation Id="131" Type="p" StartNode="29482" EndNode="29984">
+</Annotation>
+<Annotation Id="130" Type="p" StartNode="29109" EndNode="29480">
+</Annotation>
+<Annotation Id="133" Type="p" StartNode="30002" EndNode="31906">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">first</Value>
+</Feature>
+</Annotation>
+<Annotation Id="132" Type="h2" StartNode="29985" EndNode="30000">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">chapter</Value>
+</Feature>
+</Annotation>
+<Annotation Id="135" Type="p" StartNode="33043" EndNode="33915">
+</Annotation>
+<Annotation Id="134" Type="p" StartNode="31908" EndNode="33041">
+</Annotation>
+<Annotation Id="152" Type="p" StartNode="37849" EndNode="37982">
+</Annotation>
+<Annotation Id="153" Type="p" StartNode="37984" EndNode="38025">
+</Annotation>
+<Annotation Id="154" Type="p" StartNode="38027" EndNode="38100">
+</Annotation>
+<Annotation Id="155" Type="p" StartNode="38102" EndNode="38243">
+</Annotation>
+<Annotation Id="156" Type="p" StartNode="38245" EndNode="38455">
+</Annotation>
+<Annotation Id="157" Type="p" StartNode="38457" EndNode="38494">
+</Annotation>
+<Annotation Id="158" Type="p" StartNode="38496" EndNode="38559">
+</Annotation>
+<Annotation Id="159" Type="p" StartNode="38561" EndNode="38627">
+</Annotation>
+<Annotation Id="144" Type="p" StartNode="36058" EndNode="36186">
+</Annotation>
+<Annotation Id="145" Type="p" StartNode="36188" EndNode="36247">
+</Annotation>
+<Annotation Id="146" Type="i" StartNode="36210" EndNode="36213">
+</Annotation>
+<Annotation Id="147" Type="p" StartNode="36249" EndNode="36964">
+</Annotation>
+<Annotation Id="148" Type="p" StartNode="36966" EndNode="37582">
+</Annotation>
+<Annotation Id="149" Type="p" StartNode="37584" EndNode="37638">
+</Annotation>
+<Annotation Id="150" Type="p" StartNode="37640" EndNode="37793">
+</Annotation>
+<Annotation Id="151" Type="p" StartNode="37795" EndNode="37847">
+</Annotation>
+<Annotation Id="169" Type="p" StartNode="40149" EndNode="40532">
+</Annotation>
+<Annotation Id="168" Type="p" StartNode="39895" EndNode="40147">
+</Annotation>
+<Annotation Id="163" Type="i" StartNode="38745" EndNode="38749">
+</Annotation>
+<Annotation Id="162" Type="p" StartNode="38716" EndNode="38949">
+</Annotation>
+<Annotation Id="161" Type="i" StartNode="38681" EndNode="38683">
+</Annotation>
+<Annotation Id="160" Type="p" StartNode="38629" EndNode="38714">
+</Annotation>
+<Annotation Id="167" Type="p" StartNode="39466" EndNode="39893">
+</Annotation>
+<Annotation Id="166" Type="p" StartNode="39186" EndNode="39464">
+</Annotation>
+<Annotation Id="165" Type="p" StartNode="39148" EndNode="39184">
+</Annotation>
+<Annotation Id="164" Type="p" StartNode="38951" EndNode="39146">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

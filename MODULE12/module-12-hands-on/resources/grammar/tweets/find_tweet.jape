@@ -1,0 +1,11 @@
+Phase:	Tweet
+Input: TweetID SpaceToken
+Options: control = appelt
+
+Rule: FindTweet
+(
+ {TweetID}
+ ({SpaceToken})+
+):tag
+-->
+:tag.Tweet = {rule = "FindTweet"}

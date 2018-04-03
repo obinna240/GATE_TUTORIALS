@@ -1,0 +1,27 @@
+Phase:	FindLink
+Input: Lookup Address
+Options: control = appelt
+
+Rule: FindLinkSimple
+(
+ {Address.kind == url}
+):tag
+--> 
+:tag.Link = {rule = "FindLinkSimple", kind = "URL"}
+
+
+Rule: TweetMethod
+(
+ {Lookup.majorType == "link_start"}
+ ({Address})*
+ {Lookup.majorType == "link_end"}
+):tag
+--> 
+:tag.TweetMethod = {rule = "TweetMethod"}
+
+Rule: TweetMethodSimple
+(
+ {Lookup.majorType == tweet_method}
+ ):tag
+ --> 
+ :tag.TweetMethod = {rule = "TweetMethodSimple"}

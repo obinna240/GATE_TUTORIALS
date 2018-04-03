@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/in-rover-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/in-rover-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc7</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>MG Rover<Node id="8"/>, the only remaining British-owned volume car maker, has been left out of a high-powered government task force set up to promote the motor industry and influence policy across Whitehall.<Node id="194"/>
+
+<Node id="196"/>The automotive innovation and growth team, appointed in <Node id="252"/>April<Node id="257"/> to develop a long-term vision for the industry and advise ministers on ways of boosting car production, contains representatives from <Node id="392"/>Nissan<Node id="398"/>, <Node id="400"/>Peugeot<Node id="407"/>, <Node id="409"/>Ford<Node id="413"/>, <Node id="415"/>BMW<Node id="418"/> and <Node id="423"/>Jaguar<Node id="429"/>. Major component suppliers such as <Node id="465"/>GKN<Node id="468"/> and <Node id="473"/>Perkins Engines<Node id="488"/> are also represented.<Node id="510"/>
+
+<Node id="512"/>However, the task force contains no executives from <Node id="564"/>MG Rover<Node id="572"/>, either on its steering group or the four individual project groups. This is despite the fact <Node id="667"/>MG Rover<Node id="675"/> was rescued from closure in <Node id="704"/>May last year<Node id="717"/> after a campaign supported by the then Secretary of State for Trade and Industry, <Node id="800"/>Stephen Byers<Node id="813"/>, to persuade its former owner, <Node id="845"/>BMW<Node id="848"/>, to sell the company as a going concern.<Node id="889"/>
+
+<Node id="891"/>Sir Ian Gibson<Node id="905"/>, the former head of <Node id="926"/>Nissan<Node id="932"/>&apos;s <Node id="935"/>UK<Node id="937"/> operations who is chairing the task force, stressed that <Node id="995"/>MG Rover<Node id="1003"/> executives had not been deliberately excluded. He said: &quot;They are fully loaded running the company. <Node id="1104"/>MG Rover<Node id="1112"/> does not have the same kind of corporate operation as other car makers.&quot;<Node id="1185"/>
+
+<Node id="1187"/>Ironically, one of the objectives of the task force will be to foster better relationships between industry and government to avoid the communication breakdown which preceded the <Node id="1366"/>Rover<Node id="1371"/> crisis when ministers were kept in the dark about <Node id="1422"/>BMW<Node id="1425"/>&apos;s decision to pull out.<Node id="1449"/>
+
+<Node id="1451"/>The four project groups also contain members drawn from <Node id="1507"/>Whitehall<Node id="1516"/> and academia and have been asked to devise policy initiatives on the environment, new technology, manufacturing and distribution of cars spanning the <Node id="1667"/>next 15 years<Node id="1680"/>.<Node id="1681"/>
+
+<Node id="1683"/>Their initial recommendations are due to be discussed at a one-day seminar <Node id="1758"/>next month<Node id="1768"/> and then presented to ministers <Node id="1801"/>early next year<Node id="1816"/> before the task force is wound up in <Node id="1854"/>April<Node id="1859"/>.<Node id="1860"/>
+
+<Node id="1862"/>Sir Ian<Node id="1869"/> said he did not intend to present a 200-page report which would then be left on a shelf but would produce a limited number or recommendations on key areas of policy.<Node id="2035"/>
+
+<Node id="2037"/>Among the ideas he floated <Node id="2064"/>yesterday<Node id="2073"/> were tax breaks for motorists who wanted to lease rather than buy cars and experiments with the use of LPG-powered and hybrid cars in city centres.<Node id="2221"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Organization" StartNode="845" EndNode="848">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="0" EndNode="8">
+</Annotation>
+<Annotation Id="23" Type="Date" StartNode="252" EndNode="257">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Person" StartNode="800" EndNode="813">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="473" EndNode="488">
+</Annotation>
+<Annotation Id="22" Type="Organization" StartNode="392" EndNode="398">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Person" StartNode="1862" EndNode="1869">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFirstTitle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="400" EndNode="407">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="564" EndNode="572">
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="704" EndNode="717">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Person" StartNode="891" EndNode="905">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitleGender</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Location" StartNode="1507" EndNode="1516">
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="995" EndNode="1003">
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="415" EndNode="418">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Date" StartNode="1758" EndNode="1768">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1422" EndNode="1425">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="423" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="1104" EndNode="1112">
+</Annotation>
+<Annotation Id="12" Type="Location" StartNode="935" EndNode="937">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Date" StartNode="1801" EndNode="1816">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Organization" StartNode="465" EndNode="468">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="1366" EndNode="1371">
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="926" EndNode="932">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Organization" StartNode="409" EndNode="413">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Date" StartNode="1667" EndNode="1680">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Date" StartNode="1854" EndNode="1859">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="667" EndNode="675">
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="2064" EndNode="2073">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="79" Type="html" StartNode="0" EndNode="2221">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="1862" EndNode="2035">
+</Annotation>
+<Annotation Id="80" Type="TEXT" StartNode="0" EndNode="2221">
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="2037" EndNode="2221">
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="1187" EndNode="1449">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="1683" EndNode="1860">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="196" EndNode="510">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="512" EndNode="889">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="891" EndNode="1185">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="0" EndNode="194">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="1451" EndNode="1681">
+</Annotation>
+<Annotation Id="76" Type="body" StartNode="0" EndNode="2221">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#ffffff</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">text</Name>
+  <Value className="java.lang.String">#000000</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+</GateDocument>

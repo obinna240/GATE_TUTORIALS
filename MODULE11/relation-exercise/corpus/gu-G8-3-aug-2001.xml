@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-G8-3-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-G8-3-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The <Node id="4" />G8<Node id="6" /> summit in <Node id="17" />Genoa<Node id="22" /> will be remembered for its police brutality and the clashes, mostly peaceful but sometimes violent, between protesters and the Italian security forces.
+<Node id="175" />Yet, paradoxically, on one issue most demonstrators were united with the rich nations' leaders. In the streets as well as the suites there was a general belief that globalisation has accelerated the world's economic growth.<Node id="398" />
+
+<Node id="400" />Some protesters argued that the growth has been grotesquely uneven, with little trickling down to <Node id="498" />Africa<Node id="504" />. Some said it has increased the inequalities of income within countries, as well as between poor and rich ones. Some attacked the fact that faster growth has been environmentally unsound, creating excessive carbon emissions and destroying natural habitats.<Node id="761" />
+
+<Node id="763" />While the criticisms vary, the underlying assumption is that overall economic growth has been speeding up. This was also the message proclaimed by the <Node id="914" />UN<Node id="916" /> development programme, which published its annual human development report on the eve of <Node id="1006" />Genoa<Node id="1011" />.<Node id="1012" />
+
+<Node id="1014" />"Thirty years of impressive progress," it trumpeted. "Too few people recognise that the impressive gains in the developing world in the <Node id="1150" />past 30 years<Node id="1163" /> demonstrate the possibility of eradicating poverty."<Node id="1216" />
+
+<Node id="1218" />It was the <Node id="1229" />UNDP<Node id="1233" /> which first elaborated the concept of a human development index as a progressive step away from assessing people's welfare purely by income measurements. The <Node id="1392" />UNDP<Node id="1396" /> added other standards such as infant mortality, literacy, and gender empowerment.<Node id="1478" />
+
+<Node id="1480" />So it is surprising that its latest report should also push the complacent line about general growth. How did its authors decide that the <Node id="1618" />last 30 years<Node id="1631" /> is the right period for assessing progress?<Node id="1675" />
+
+<Node id="1677" />In a powerful new paper, The Emperor Has No Growth, a group of researchers in <Node id="1755" />Washington<Node id="1765" /> challenges the conventional view of history. They have drawn up a globalisation scorecard which compares the period <Node id="1882" />from 1980 to 2000<Node id="1899" /> - the era of Reaganite neo-liberal globalisation when the drive for capital deregulation, privatisation, and the lifting of barriers to international investment was at its height - with the period <Node id="2097" />from 1960 to 1980<Node id="2114" /> when most developing countries had a more restrictive and inward-looking economy.<Node id="2196" />
+
+<Node id="2198" />The comparison is dramatic. The researchers took all the <Node id="2255" />UNDP<Node id="2259" />'s indicators and found that <Node id="2288" />between 1980 and 2000<Node id="2309" /> there was "a very clear decline in progress". The poorest countries went from a per capita growth rate of <Node id="2416" />1.9%<Node id="2420" /> annually in the <Node id="2437" />1960-1980<Node id="2446" /> period to a decline of <Node id="2470" />0.5%<Node id="2474" /> a year <Node id="2482" />between 1980 and 2000<Node id="2503" />. The middle group of countries did worse, dropping from annual growth of <Node id="2577" />3.6%<Node id="2581" /> to growth of just under <Node id="2606" />1%<Node id="2608" /> after <Node id="2615" />1980<Node id="2619" />. The world's richest countries also showed a slowdown.<Node id="2674" />
+
+<Node id="2676" />For life expectancy, the picture was similar. Only the richest countries showed a higher rate of improvement in the <Node id="2792" />past 20 years<Node id="2805" />. Among middle-income and poor countries progress in reducing child mortality and raising school enrolments was faster before <Node id="2931" />1980<Node id="2935" />.<Node id="2936" />
+
+<Node id="2938" />Impressive though their evi dence is, the paper's authors draw deliberately modest conclusions. They say they cannot prove the liberalisation of trade and capital flows has caused the decline in progress.<Node id="3142" />
+
+<Node id="3144" />Nor can they link it to particular policy prescriptions by the <Node id="3207" />International Monetary Fund<Node id="3234" /> and the <Node id="3243" />World Bank<Node id="3253" />, such as public spending cuts, user fees for health and education, and increased foreign exchange requirements. But they do insist the burden of proof must be squarely placed on those who claim success for the neo-liberal experiment.<Node id="3487" />
+
+<Node id="3489" />Their call is welcome. It chimes in with the views of other non-governmental organisations, such as the British-based <Node id="3607" />World Development Movement<Node id="3633" />, as well as many developing countries' governments.<Node id="3685" />
+
+<Node id="3687" />The <Node id="3691" />G8<Node id="3693" /> wants the next big push for its version of globalisation to come in <Node id="3762" />November<Node id="3770" /> when the <Node id="3780" />World Trade Organisation<Node id="3804" /> is due to meet in <Node id="3823" />Qatar<Node id="3828" />. After <Node id="3836" />Genoa<Node id="3841" />, <Node id="3843" />Clare Short<Node id="3854" />, <Node id="3856" />Britain<Node id="3863" />'s development minister, used the unworthy tactic of trying to dismiss the protesters as middle-class European interferers in contrast to informed African leaders.<Node id="4026" />
+
+<Node id="4028" />She seemed unaware that on the eve of <Node id="4066" />Genoa<Node id="4071" />, 30 African countries, including the regional giants <Node id="4125" />South Africa<Node id="4137" /> and <Node id="4142" />Nigeria<Node id="4149" />, signed a declaration in <Node id="4175" />Addis Ababa<Node id="4186" /> rejecting new powers for the <Node id="4216" />WTO<Node id="4219" />.<Node id="4220" />
+
+<Node id="4222" />They also called for existing trade agreements to be implemented fully rather than in their partial form, which discriminates in favour of the <Node id="4365" />EU<Node id="4367" /> and other rich countries. Their position has more support from the developmental NGOs than from the <Node id="4468" />G8<Node id="4470" />. So let us have a bit more humble pie from the <Node id="4518" />G8<Node id="4520" />, and an honest review of the reasons for their poor record on growth and social progress before they plunge further into error.<Node id="4648" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Date" StartNode="1618" EndNode="1631">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="1150" EndNode="1163">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="3691" EndNode="3693">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="2255" EndNode="2259">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Percent" StartNode="2416" EndNode="2420">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Percent" StartNode="2470" EndNode="2474">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Date" StartNode="2437" EndNode="2446">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Percent" StartNode="2577" EndNode="2581">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="3607" EndNode="3633">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Percent" StartNode="2606" EndNode="2608">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Location" StartNode="17" EndNode="22">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Location" StartNode="498" EndNode="504">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Location" StartNode="1006" EndNode="1011">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Location" StartNode="1755" EndNode="1765">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Date" StartNode="1882" EndNode="1899">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearSpan3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Date" StartNode="2097" EndNode="2114">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearSpan3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Date" StartNode="2482" EndNode="2503">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearSpan3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Date" StartNode="2288" EndNode="2309">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">YearSpan3</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Date" StartNode="2931" EndNode="2935">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Date" StartNode="2615" EndNode="2619">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="3243" EndNode="3253">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">21</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Organization" StartNode="3207" EndNode="3234">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">20</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="3823" EndNode="3828">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Date" StartNode="3762" EndNode="3770">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Person" StartNode="3843" EndNode="3854">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">25</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">female</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Location" StartNode="3836" EndNode="3841">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Location" StartNode="3856" EndNode="3863">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Organization" StartNode="914" EndNode="916">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">26</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Location" StartNode="4125" EndNode="4137">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Location" StartNode="4066" EndNode="4071">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Location" StartNode="4175" EndNode="4186">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Location" StartNode="4142" EndNode="4149">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Organization" StartNode="3780" EndNode="3804">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">34</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Organization" StartNode="4216" EndNode="4219">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">35</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Organization" StartNode="1229" EndNode="1233">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">32</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Organization" StartNode="1392" EndNode="1396">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">33</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Organization" StartNode="4468" EndNode="4470">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">38</Value>
+</Feature>
+</Annotation>
+<Annotation Id="39" Type="Organization" StartNode="4518" EndNode="4520">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">39</Value>
+</Feature>
+</Annotation>
+<Annotation Id="36" Type="Organization" StartNode="4365" EndNode="4367">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">36</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Organization" StartNode="4" EndNode="6">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">37</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="Date" StartNode="2792" EndNode="2805">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="69" Type="html" StartNode="0" EndNode="4648">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="0" EndNode="4648">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="400" EndNode="761">
+</Annotation>
+<Annotation Id="72" Type="body" StartNode="0" EndNode="4648">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="47" Type="p" StartNode="763" EndNode="1012">
+</Annotation>
+<Annotation Id="44" Type="font" StartNode="0" EndNode="4648">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="175" EndNode="398">
+</Annotation>
+<Annotation Id="75" Type="font" StartNode="0" EndNode="4648">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="51" Type="p" StartNode="1677" EndNode="2196">
+</Annotation>
+<Annotation Id="50" Type="p" StartNode="1480" EndNode="1675">
+</Annotation>
+<Annotation Id="49" Type="p" StartNode="1218" EndNode="1478">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="1014" EndNode="1216">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="3144" EndNode="3487">
+</Annotation>
+<Annotation Id="54" Type="p" StartNode="2938" EndNode="3142">
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="2676" EndNode="2936">
+</Annotation>
+<Annotation Id="52" Type="p" StartNode="2198" EndNode="2674">
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="4222" EndNode="4648">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="4028" EndNode="4220">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="3687" EndNode="4026">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="3489" EndNode="3685">
+</Annotation>
+<Annotation Id="90" Type="TEXT" StartNode="0" EndNode="4648">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

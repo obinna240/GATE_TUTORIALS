@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/gatecorpora/news/business/clean/gu-Am-Brit-4-aug-2001.html
+Organization 2172 2174 EU
+Organization 2892 2916 Internal Revenue Service
+Organization 690 722 The Observer Politics Education
+Organization 1957 1972 United Airlines
+Organization 1102 1117 British Airways
+Person 1352 1362 Bob Ayling
+Date 873 896 Saturday August 4, 2001
+Organization 665 689 Books Money Film Society
+Location 316 318 UK
+Location 2690 2697 Britain
+Date 4625 4634 last year
+Location 2849 2851 US
+Date 2031 2044 yesterday one
+Organization 1943 1952 Lufthansa
+Organization 2703 2718 Bank of England
+Organization 3898 3905 The Fed
+Organization 4139 4146 the Fed
+Organization 5648 5675 Guardian Newspapers Limited
+Location 3372 3374 US
+Organization 723 756 Shopping Work Football Jobs Media
+Location 2666 2674 Atlantic
+Organization 4861 4869 Unilever
+Organization 4648 4656 Unilever
+Organization 5099 5110 Ben &amp; Jerry
+Date 4779 4788 last year
+Date 5676 5680 2001
+Location 644 646 UK
+Organization 5402 5410 Unilever
+Organization 921 936 British Airways
+Location 3999 4006 Britain
+Location 3658 3660 US
+Date 1369 1378 yesterday
+Organization 4376 4384 Unilever
+Location 4040 4042 US
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/gatecorpora/news/business/clean/gu-Am-Brit-4-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MatchesAnnots</Name>
+  <Value className="java.lang.String">{Key=[[5381, 5379, 5377, 5375], [5374, 5371], [5357, 5356, 5450, 5451, 5452], [5373, 5370, 5369, 5367], [5351, 5350], [5372, 5365], [5378, 5376], [5382, 5447, 5448, 5449, 5453, 5455, 5456], [5353, 5454, 5457], [5354, 5446]]}</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>It is five years since <Node id="23"/>British Airways<Node id="38"/> first attempted to cook up a cooperation deal with <Node id="90"/>American Airlines<Node id="107"/>. That approach came to nought when the rock of the competition authorites met the hard place of <Node id="204"/>British Airways<Node id="219"/>&apos; refusal to give up enough valuable slots at <Node id="265"/>Heathrow<Node id="273"/> to get the deal through.
+The negotiations were seemingly interminable, cost a fortune, distracted management and eventually contributed to the demise of <Node id="427"/>BA<Node id="429"/>&apos;s then chief executive, <Node id="454"/>Bob Ayling<Node id="464"/>.
+
+But <Node id="471"/>yesterday<Node id="480"/> the two parties announced they were trying again, and this time the deal is different. Last time it was all about selling tickets on one another&apos;s planes. This time it is a &quot;profit-sharing&quot; joint venture, which will allow them to put one big, economical plane on a route instead of two smaller, less efficient ones.
+
+They are planning to work together on just nine routes, instead of the 22 they had aimed for last time.
+
+Since the last deal was mooted, competition has altered on the transatlantic routes, with <Node id="993"/>British Midland<Node id="1008"/> joining the <Node id="1021"/>Star Alliance<Node id="1034"/> headed by <Node id="1045"/>Lufthansa<Node id="1054"/> and <Node id="1059"/>United Airlines<Node id="1074"/>. The savings for <Node id="1092"/>BA<Node id="1094"/> from the new deal would be enormous - <Node id="1133"/>yesterday<Node id="1142"/> one analyst hastily calculated they could be <Node id="1188"/>15%<Node id="1191"/> on each route.
+
+The sticking point will again be slots at <Node id="1250"/>Heathrow<Node id="1258"/>. Last time the <Node id="1274"/>EU<Node id="1276"/> wanted the airlines to surrender 267 a week. This time, with the changes in competition, it could be half that and <Node id="1392"/>BA<Node id="1394"/> may be allowed to sell them rather than give them away. The two airlines would not have come back with a new plan without some inkling from the competition watchdogs that their flight path might now be cleared for take-off. This time, it might just fly.
+
+ First, dig a hole 
+
+Who cares about the imbalances, go for growth. That seems to be the message on both sides of the <Node id="1768"/>Atlantic<Node id="1776"/> these days. In <Node id="1792"/>Britain<Node id="1799"/>, the <Node id="1805"/>Bank of England<Node id="1820"/> has sent a clear signal that if the only way to prop up the economy is a consumer and housing market boom, then so be it.
+
+In the <Node id="1951"/>US<Node id="1953"/>, policymakers are even less subtle. The <Node id="1994"/>Internal Revenue Service<Node id="2018"/> website offers some handy tips for households wondering what to do with the <Node id="2095"/>$300<Node id="2099"/> tax rebate cheques they received this week: &quot;Let&apos;s see&quot; it says. &quot;New barbecue, early holiday shopping . . .&quot;
+
+There are two schools of thought on whether the consumer can rescue the world economy from the mess it seems to have got itself into. One advocates throwing caution to the wind, with interest rate cuts and fiscal boosts.
+
+The other worries that the imbalances in <Node id="2474"/>US<Node id="2476"/> and British economies will have to be corrected, and they may have a point. Both are running large current account deficits and their personal sectors are increasingly dipping into the red. At some stage the rest of the world will decide it no longer wants to finance the British or <Node id="2760"/>US<Node id="2762"/> consumption habit.
+
+On this occasion, though, we find ourselves in sympathy with the &quot;shop till you drop&quot; approach.
+
+It seems like good Keynesian common sense. With growth faltering, both economies need an old-fashioned boost to demand. The <Node id="3004"/>Fed<Node id="3007"/> and the <Node id="3016"/>Bank<Node id="3020"/> have both responded with lower borrowing costs. The boost to public spending in <Node id="3101"/>Britain<Node id="3108"/> together with tax rebates in the <Node id="3142"/>US<Node id="3144"/> should add some more momentum.
+
+If there were any signs of inflationary pressures, the Bank and the <Node id="3245"/>Fed<Node id="3248"/> are capable of reacting quickly. In the meantime, it is time to indulge in a little retail therapy for the sake of the economy - and prove we can spend our way out of recession.
+
+ Unileveraged 
+
+Looming recession did not prevent <Node id="3478"/>Unilever<Node id="3486"/> from sticking to its forecasts of double-digit earnings growth for this year. The food and personal care group is in the throes of a vast restructuring - which goes by the title of &quot;Path to Growth&quot;.
+
+The plan, revealed with much hullabaloo <Node id="3727"/>last year<Node id="3736"/>, is to focus <Node id="3750"/>Unilever<Node id="3758"/>&apos;s considerable resources behind only power brands, so it is axing or selling 1,200 of the 1,600 brands it owned this time <Node id="3881"/>last year<Node id="3890"/>.
+
+Out have gone dowdy old products like Batchelors dried peas, to allow <Node id="3963"/>Unilever<Node id="3971"/> to put more oomph behind winners like Dove soap and Magnum ice creams. At the same time it has been buying labels it can leverage worldwide - like Hellmans mayonnaise, the French Amora mustard business, diet product Slimfast and <Node id="4201"/>Ben &amp; Jerry<Node id="4212"/>&apos;s right-on ice cream parlor.
+
+The fallout from this overhaul is 125 redundant factories and a 30,000 cut in its payroll. So far it all seems to be going according to plan - 700 brands have gone so far. In a year the shares have climbed from <Node id="4454"/>340p<Node id="4458"/> to more than <Node id="4472"/>600p<Node id="4476"/>. If recession should bite, <Node id="4504"/>Unilever<Node id="4512"/> will be better placed than many to ride it out - its core food, personal care and cleaning products will be the last to feel the impact of any prudent consumer belt-tightening. The shares are a firm hold.<Node id="4717"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Date" StartNode="3881" EndNode="3890">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5378, 5376]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Organization" StartNode="1045" EndNode="1054">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Location" StartNode="265" EndNode="273">
+</Annotation>
+<Annotation Id="23" Type="Organization" StartNode="1994" EndNode="2018">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">government</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Date" StartNode="471" EndNode="480">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDateWords</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="3750" EndNode="3758">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5381, 5379, 5377, 5375]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="35" Type="Money" StartNode="4472" EndNode="4476">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Organization" StartNode="993" EndNode="1008">
+</Annotation>
+<Annotation Id="22" Type="Location" StartNode="2474" EndNode="2476">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5373, 5370, 5369, 5367]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="Organization" StartNode="23" EndNode="38">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5357, 5356, 5450, 5451, 5452]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="32" Type="Person" StartNode="454" EndNode="464">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="427" EndNode="429">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5357, 5356, 5450, 5451, 5452]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">PN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">NMRule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="33" Type="Organization" StartNode="204" EndNode="219">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5357, 5356, 5450, 5451, 5452]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Location" StartNode="2760" EndNode="2762">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5373, 5370, 5369, 5367]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="1021" EndNode="1034">
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="3016" EndNode="3020">
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="1059" EndNode="1074">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="3963" EndNode="3971">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5381, 5379, 5377, 5375]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Location" StartNode="1951" EndNode="1953">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5373, 5370, 5369, 5367]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Location" StartNode="1250" EndNode="1258">
+</Annotation>
+<Annotation Id="36" Type="Money" StartNode="4454" EndNode="4458">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="3142" EndNode="3144">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5373, 5370, 5369, 5367]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Location" StartNode="1792" EndNode="1799">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5372, 5365]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1392" EndNode="1394">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5357, 5356, 5450, 5451, 5452]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">PN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">NMRule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="3478" EndNode="3486">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5381, 5379, 5377, 5375]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="3004" EndNode="3007">
+</Annotation>
+<Annotation Id="39" Type="Person" StartNode="0" EndNode="4717">
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="4504" EndNode="4512">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5381, 5379, 5377, 5375]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Location" StartNode="1768" EndNode="1776">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">region</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Date" StartNode="3727" EndNode="3736">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5378, 5376]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="3245" EndNode="3248">
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="4201" EndNode="4212">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXandY</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="Percent" StartNode="1188" EndNode="1191">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="1274" EndNode="1276">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Location" StartNode="3101" EndNode="3108">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5372, 5365]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="Money" StartNode="2095" EndNode="2099">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="1805" EndNode="1820">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">BaseofOrg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1092" EndNode="1094">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[5357, 5356, 5450, 5451, 5452]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">PN</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">NMRule</Name>
+  <Value className="java.lang.String">Unknown</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Date" StartNode="1133" EndNode="1142">
+</Annotation>
+<Annotation Id="0" Type="Organization" StartNode="90" EndNode="107">
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="40" Type="TEXT" StartNode="0" EndNode="4717">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

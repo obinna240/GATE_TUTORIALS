@@ -1,0 +1,53 @@
+Phase: instances
+
+Input: Sentence
+
+Options: control = all
+
+
+Rule: pair
+({Sentence}):s
+-->
+{
+
+   // Get the sentence
+   Annotation sent = ((AnnotationSet)bindings.get("s")).iterator().next();
+
+   // Get all Organizations and Persons in this sentence
+   Long sentStart = sent.getStartNode().getOffset();
+   Long sentEnd = sent.getEndNode().getOffset();
+   AnnotationSet orgs = inputAS.get("Organization", sentStart, sentEnd);
+   AnnotationSet pers = inputAS.get("Person", sentStart, sentEnd);
+
+   // for each Person, consider each Organization
+   for(Annotation p : pers) {
+     for(Annotation o : orgs) {
+
+       gate.FeatureMap fm = gate.Factory.newFeatureMap();
+
+       // Find the left and right boundaries of the instance
+       Long pStart = p.getStartNode().getOffset();
+       Long oStart = o.getStartNode().getOffset();
+       Long pEnd = p.getEndNode().getOffset();
+       Long oEnd = o.getEndNode().getOffset();
+       Long left = (pStart < oStart) ? pStart : oStart; 
+       Long right = (pEnd > oEnd) ? pEnd : oEnd; 
+    
+
+       // Create the instance
+       fm.put("pers-id",p.getId().toString());
+       fm.put("org-id",o.getId().toString());
+       try{
+         outputAS.add(left, right, "RelationInstance", fm);
+       }catch(Exception e){
+    
+       }
+
+     }
+   }
+
+}
+
+
+
+

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/gu-telewest-10-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/gu-telewest-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>The storm surrounding the debt levels of the cable industry, which pummelled shares in <Node id="87"/>New York<Node id="95"/>-listed <Node id="103"/>NTL<Node id="106"/> and <Node id="111"/>Telewest<Node id="119"/> weeks ago, appear to have abated, but <Node id="158"/>yesterday<Node id="167"/> the anxieties were back for no solid reason.
+<Node id="213"/>Dealers said concerns about the economic outlook revived worries about issues such as debt levels in the sector. <Node id="326"/>Telewest<Node id="334"/>, along with other hi-tech stocks, was a serious drag on the FTSE 100. Shares in the company fell <Node id="432"/>6%<Node id="434"/> to <Node id="438"/>73.5p<Node id="443"/>, valuing the company at <Node id="468"/>£2.3bn<Node id="475"/> and threatening its berth among the blue chips.<Node id="523"/>
+
+<Node id="525"/>During the dot.com boom, <Node id="550"/>Telewest<Node id="558"/> shares were valued at <Node id="581"/>563p<Node id="585"/>.<Node id="586"/>
+
+<Node id="588"/>The company maintains that it is fully funded through to breakeven in <Node id="658"/>2003-04<Node id="665"/>. It has about <Node id="680"/>£1.2bn<Node id="687"/> still available and admittedly there is little margin for error.<Node id="752"/>
+
+<Node id="754"/>But revenues and earnings have been moving in the right direction for the <Node id="828"/>past four quarters<Node id="846"/>, as have subscriber numbers after a troublesome start to <Node id="904"/>last year<Node id="913"/>.<Node id="914"/>
+
+<Node id="916"/>After <Node id="922"/>Telewest<Node id="930"/>&apos;s half-year results <Node id="951"/>last week<Node id="960"/>, investment bank <Node id="978"/>Merrill Lynch<Node id="991"/> on <Node id="995"/>Tuesday<Node id="1002"/> issued a note rating it a long-term buy.<Node id="1043"/>
+
+<Node id="1045"/>Reports <Node id="1053"/>yesterday<Node id="1062"/> of a deepening operating relationship with <Node id="1106"/>NTL<Node id="1109"/> reiterated the grounds for optimism. After the bullishness that saw both companies through the necessary consolidation in the industry, they are knuckling down to less headline-making operational issues.<Node id="1313"/>
+
+<Node id="1315"/>Joint procurement of set-top boxes and marketing of broadband are the right things for them to be undertaking. In the longer term a full merger makes sense but not at a time when the emphasis is on earnings and meeting a business plan.<Node id="1550"/>
+
+<Node id="1552"/>Telewest<Node id="1560"/> and <Node id="1565"/>NTL<Node id="1568"/> are beginning to make inroads with their broadband products, which lift average revenues to around <Node id="1668"/>£66<Node id="1672"/> a month. That is annual revenues per customer of <Node id="1722"/>£792<Node id="1727"/>, the kind of number that <Node id="1753"/>BSkyB<Node id="1758"/> can only dream of.<Node id="1777"/>
+
+<Node id="1779"/>The fact that <Node id="1793"/>British Telecom<Node id="1808"/> continues to flounder only makes <Node id="1842"/>Telewest<Node id="1850"/> a better buy.<Node id="1864"/>
+<Node id="1865"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Organization" StartNode="1793" EndNode="1808">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="8" Type="Money" StartNode="581" EndNode="585">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Organization" StartNode="1753" EndNode="1758">
+</Annotation>
+<Annotation Id="16" Type="Organization" StartNode="550" EndNode="558">
+<Feature>
+  <Name className="java.lang.String">rule </Name>
+  <Value className="java.lang.String">OrgContext3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Money" StartNode="468" EndNode="475">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Organization" StartNode="1565" EndNode="1568">
+</Annotation>
+<Annotation Id="9" Type="Money" StartNode="680" EndNode="687">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="1106" EndNode="1109">
+</Annotation>
+<Annotation Id="6" Type="Money" StartNode="438" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneyCurrencyUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Date" StartNode="951" EndNode="960">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="978" EndNode="991">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Organization" StartNode="1842" EndNode="1850">
+</Annotation>
+<Annotation Id="4" Type="Date" StartNode="158" EndNode="167">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="326" EndNode="334">
+</Annotation>
+<Annotation Id="26" Type="Money" StartNode="1668" EndNode="1672">
+</Annotation>
+<Annotation Id="11" Type="Location" StartNode="87" EndNode="95">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="111" EndNode="119">
+</Annotation>
+<Annotation Id="3" Type="Date" StartNode="828" EndNode="846">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Date" StartNode="658" EndNode="665">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">DateNumDashRev</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Date" StartNode="995" EndNode="1002">
+</Annotation>
+<Annotation Id="17" Type="Organization" StartNode="103" EndNode="106">
+</Annotation>
+<Annotation Id="2" Type="Date" StartNode="904" EndNode="913">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Organization" StartNode="1552" EndNode="1560">
+</Annotation>
+<Annotation Id="20" Type="Organization" StartNode="922" EndNode="930">
+</Annotation>
+<Annotation Id="25" Type="Date" StartNode="995" EndNode="1002">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Money" StartNode="1722" EndNode="1727">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Percent" StartNode="432" EndNode="434">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Date" StartNode="1053" EndNode="1062">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="51" Type="font" StartNode="0" EndNode="1865">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="40" Type="font" StartNode="0" EndNode="1865">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="p" StartNode="1779" EndNode="1864">
+</Annotation>
+<Annotation Id="35" Type="p" StartNode="916" EndNode="1043">
+</Annotation>
+<Annotation Id="54" Type="body" StartNode="0" EndNode="1865">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="34" Type="p" StartNode="1045" EndNode="1313">
+</Annotation>
+<Annotation Id="32" Type="p" StartNode="1552" EndNode="1777">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="0" EndNode="1865">
+</Annotation>
+<Annotation Id="33" Type="p" StartNode="1315" EndNode="1550">
+</Annotation>
+<Annotation Id="36" Type="p" StartNode="754" EndNode="914">
+</Annotation>
+<Annotation Id="58" Type="TEXT" StartNode="0" EndNode="1865">
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="213" EndNode="523">
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="525" EndNode="586">
+</Annotation>
+<Annotation Id="57" Type="html" StartNode="0" EndNode="1865">
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="588" EndNode="752">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

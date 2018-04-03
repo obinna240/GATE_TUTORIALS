@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/work/Corpus/gu-airlines-DVT-05-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /D:/work/Corpus/gu-airlines-DVT-05-aug-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />Airlines will be ordered to hand out health warnings with tickets for long-haul flights as the <Node id="95" />Government<Node id="105" /> acts to end the scandal of deaths and injuries caused by deep vein thrombosis (DVT), also known as 'economy class syndrome'.
+<Node id="231" />Despite repeated denials by airlines, the <Node id="273" />Government<Node id="283" /> is now convinced there is enough evidence to link potentially lethal blood clots with hours spent in cramped plane seats.<Node id="405" />
+
+<Node id="407" />The <Node id="411" />Transport and Health departments<Node id="443" /> will announce the guidelines in the next few weeks. They will be launched as a voluntary set of rules but will be backed by statutory regulation if the airlines do not carry out the order. A senior government figure told The Observer that the airlines were in a mood between 'deep concern' and 'panic' over the development, which is certain to raise health fears in the minds of the millions who fly from <Node id="849" />Britain<Node id="856" /> every year.<Node id="868" />
+
+<Node id="870" />The Observer can also reveal that the industry-approved body representing passenger interests has told the <Node id="977" />Government<Node id="987" /> there is a direct link between DVT and long-haul flights, contradicting the airlines themselves.<Node id="1084" />
+
+<Node id="1086" />In a document written for officials involved in the <Node id="1138" />Department of Transport<Node id="1161" />'s aviation review, the <Node id="1185" />Air Transport Users Council<Node id="1212" /> (<Node id="1214" />AUC<Node id="1217" />) said the risk is of 'great concern'. 'There appears to be sufficient evidence to suggest a relationship between long-haul flying and DVT,' says the document, submitted to the <Node id="1394" />Government<Node id="1404" /> in <Node id="1408" />April<Node id="1413" />. 'It may be attributable to being seated for a long time, but may also be related to aspects of the cabin environment.'<Node id="1533" />
+
+<Node id="1535" />It is the first time an organisation so closely linked to the airline industry has made such a direct association between the two issues.<Node id="1672" />
+
+<Node id="1674" />The document, written by <Node id="1699" />Philip Martin<Node id="1712" />, director-general of the <Node id="1738" />AUC<Node id="1741" /> until his retirement in <Node id="1766" />June<Node id="1770" />, says there needs to be far more research before the public can be satisfied they are being told the full extent of the risks.<Node id="1897" />
+
+<Node id="1899" />'The results of this research are necessary to allow the <Node id="1956" />Department of Health<Node id="1976" /> to issue definitive information on the level of risk and authoritative guidance on action to reduce the risk,' it says.<Node id="2096" />
+
+<Node id="2098" />Campaigners seized on the developments as evidence that a 'conspiracy of silence' on DVT is beginning to break down. 'It is about time all those organisations involved in this came clean,' said <Node id="2292" />John Smith<Node id="2302" />, <Node id="2304" />Labour<Node id="2310" /> MP for the <Node id="2322" />Vale of Glamorgan<Node id="2339" />, who has led a <Node id="2355" />House of Commons<Node id="2371" /> campaign on DVT after a constituent's son died from a blood clot soon after a 16-hour flight home from his honeymoon in <Node id="2492" />Hawaii<Node id="2498" />.<Node id="2499" />
+
+<Node id="2501" />'This problem is no respecter of age or health - it could be killing thousands of people a year. We just don't know. We are talking about a major public health problem - we need to know the answers now, not in 10 years' time.'<Node id="2727" />
+
+<Node id="2729" />The revelations are the latest in a series of blows to the airline industry. <Node id="2806" />Last week<Node id="2815" /> The Observer revealed that lawyers acting for families who lost relatives to DVT are launching a multi-million-pound lawsuit against airlines, including <Node id="2969" />British Airways<Node id="2984" />. In <Node id="2989" />January<Node id="2996" /> the paper reported that up to 300 people a year could be dying from blood clots linked to flying.<Node id="3094" />
+
+<Node id="3096" />The government health warnings on DVT will be aimed at those believed to be in a 'high risk' category when flying, particularly the elderly and those who have had heart or circulatory disease. The advice is expected to include taking an aspirin to thin the blood before flying, exercising during the flight, drinking plenty of fluids and keeping down alcohol levels.<Node id="3462" />
+
+<Node id="3464" />The <Node id="3468" />Government<Node id="3478" /> will ask organisations which offer immunisation services to give advice on how to avoid blood clots.<Node id="3579" />
+
+<Node id="3581" />In two weeks' time the <Node id="3604" />Government<Node id="3614" /> will publish its review of air cabin quality, which will demand new rules to ensure that recycled air on flights does not affect people's health.<Node id="3760" />
+
+<Node id="3762" />A government official said it would like to announce the DVT health warnings on the same day, but these might not be ready in time.<Node id="3893" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key">
+<Annotation Id="0" Type="Organization" StartNode="1394" EndNode="1404">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">0</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Organization" StartNode="977" EndNode="987">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">1</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Organization" StartNode="273" EndNode="283">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Organization" StartNode="95" EndNode="105">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Organization" StartNode="2355" EndNode="2371">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Location" StartNode="2322" EndNode="2339">
+</Annotation>
+<Annotation Id="6" Type="Organization" StartNode="2304" EndNode="2310">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Date" StartNode="1766" EndNode="1770">
+</Annotation>
+<Annotation Id="8" Type="Organization" StartNode="411" EndNode="443">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">8</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="1956" EndNode="1976">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">9</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Organization" StartNode="1738" EndNode="1741">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">10</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Organization" StartNode="1214" EndNode="1217">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">11</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Organization" StartNode="1138" EndNode="1161">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">12</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Date" StartNode="2989" EndNode="2996">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="14" Type="Organization" StartNode="2969" EndNode="2984">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">company</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazOrganization</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">14</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="15" Type="Location" StartNode="2492" EndNode="2498">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">province</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Person" StartNode="1699" EndNode="1712">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">17</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="16" Type="Person" StartNode="2292" EndNode="2302">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Organization" StartNode="1185" EndNode="1212">
+<Feature>
+  <Name className="java.lang.String">orgType</Name>
+  <Value className="java.lang.String">unknown</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">19</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Date" StartNode="1408" EndNode="1413">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Organization" StartNode="3604" EndNode="3614">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">21</Value>
+</Feature>
+</Annotation>
+<Annotation Id="20" Type="Location" StartNode="849" EndNode="856">
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazLocation</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Date" StartNode="2806" EndNode="2815">
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Organization" StartNode="3468" EndNode="3478">
+<Feature>
+  <Name className="java.lang.String">id</Name>
+  <Value className="java.lang.Integer">22</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7646" Type="RelationClass" StartNode="2292" EndNode="2310">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">6</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7645" Type="RelationClass" StartNode="2292" EndNode="2371">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">16</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">4</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7644" Type="RelationClass" StartNode="1699" EndNode="1741">
+<Feature>
+  <Name className="java.lang.String">rel-type</Name>
+  <Value className="java.lang.String">employed-by</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">pers-id</Name>
+  <Value className="java.lang.String">17</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">org-id</Name>
+  <Value className="java.lang.String">10</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="68" Type="p" StartNode="3762" EndNode="3893">
+</Annotation>
+<Annotation Id="64" Type="p" StartNode="2729" EndNode="3094">
+</Annotation>
+<Annotation Id="39" Type="body" StartNode="0" EndNode="3893">
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">#FFFFFF</Value>
+</Feature>
+</Annotation>
+<Annotation Id="65" Type="p" StartNode="3096" EndNode="3462">
+</Annotation>
+<Annotation Id="36" Type="html" StartNode="0" EndNode="3893">
+</Annotation>
+<Annotation Id="66" Type="p" StartNode="3464" EndNode="3579">
+</Annotation>
+<Annotation Id="67" Type="p" StartNode="3581" EndNode="3760">
+</Annotation>
+<Annotation Id="42" Type="font" StartNode="0" EndNode="3893">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Arial,Helvetica,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">3</Value>
+</Feature>
+</Annotation>
+<Annotation Id="72" Type="TEXT" StartNode="0" EndNode="3893">
+</Annotation>
+<Annotation Id="55" Type="p" StartNode="231" EndNode="405">
+</Annotation>
+<Annotation Id="54" Type="font" StartNode="0" EndNode="3893">
+<Feature>
+  <Name className="java.lang.String">face</Name>
+  <Value className="java.lang.String">Geneva,Arial,sans-serif</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">size</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+<Annotation Id="53" Type="p" StartNode="0" EndNode="3893">
+</Annotation>
+<Annotation Id="59" Type="p" StartNode="1535" EndNode="1672">
+</Annotation>
+<Annotation Id="58" Type="p" StartNode="1086" EndNode="1533">
+</Annotation>
+<Annotation Id="57" Type="p" StartNode="870" EndNode="1084">
+</Annotation>
+<Annotation Id="56" Type="p" StartNode="407" EndNode="868">
+</Annotation>
+<Annotation Id="63" Type="p" StartNode="2501" EndNode="2727">
+</Annotation>
+<Annotation Id="62" Type="p" StartNode="2098" EndNode="2499">
+</Annotation>
+<Annotation Id="61" Type="p" StartNode="1899" EndNode="2096">
+</Annotation>
+<Annotation Id="60" Type="p" StartNode="1674" EndNode="1897">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

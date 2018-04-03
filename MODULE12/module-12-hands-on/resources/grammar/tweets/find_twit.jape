@@ -1,0 +1,21 @@
+Phase:	Twit
+Input: Token SpaceToken
+Options: control = appelt
+
+Rule: ToTwit
+(
+ {Token.string == "@"}
+ {Token.string == "user"}
+ {Token.category == CD}
+):tag
+-->
+:tag.ToTwit = {rule = "ToTwit"}
+
+
+Rule: FromTwit
+(
+ {Token.string == "user"}
+ {Token.category == CD}
+):tag
+-->
+:tag.FromTwit = {rule = "FromTwit"}

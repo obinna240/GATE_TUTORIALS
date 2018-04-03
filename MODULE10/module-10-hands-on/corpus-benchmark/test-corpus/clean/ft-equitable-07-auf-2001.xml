@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/Corpus/ft-equitable-07-auf-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.NAME</Name>
+  <Value className="java.lang.String">doc6</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/Corpus/ft-equitable-07-auf-2001.html
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0" />The Financial Services Authority is seeking independent legal advice on whether Equitable Life members who did not have guaranteed annuity policies were victims of mis-selling.<Node id="176" />
+
+<Node id="178" />This move by the City watchdog could affect other pension companies that are reeling from the cost to the industry of honouring guaranteed annuity liabilities, estimated at up to £10bn ($14bn).<Node id="371" />
+
+<Node id="373" />The FSA announced in February it was examining whether Equitable policyholders who bought policies last year could claim they had been mis-sold - particularly those who bought policies after the Law Lords ruled in July against the mutual's stance on guaranteed annuities.<Node id="644" />
+
+<Node id="646" />Depending on its legal advice, the FSA's could affect other pension groups. If the regulator decides these policyholders were misled and suffered a loss, they could be eligible for compensation.<Node id="840" />
+
+<Node id="842" />More than 50 life assurers had some exposure to guaranteed annuity-type products. However, most have dealt with the problem by drawing on their "orphan assets" of surplus capital in their with-profits funds, or by receiving capital injections from shareholders.<Node id="1103" />
+
+<Node id="1105" />Analysts said it would not be easy for other policyholders to prove they had suffered a loss as a result of the existence of the guaranteed annuity policies - a must if they are to claim compensation.<Node id="1305" />
+
+<Node id="1307" />Equitable has asked Nicholas Warren QC to advise whether customers sold pension policies without annuity guarantees should have been told about the troubled mutual's exposure to guaranteed annuity liabilities - now put at £2.6bn.<Node id="1536" />
+
+<Node id="1538" />Vanni Treves, Equitable's chairman, has acknowledged that any liability arising from mis-selling could be "a substantial amount", though he said it would not be of the same scale as the guaranteed annuity liability.<Node id="1753" />
+
+<Node id="1755" />He said quantification of any mis-selling claims would have to be from part of the forthcoming compromise deal between the 90,000 Equitable policyholders with guaranteed annuity policies and the majority who do not have guarantees.<Node id="1986" />
+
+<Node id="1988" />Of Mr Warren's report, Mr Treves said: "I think it will be a very, very important piece of work for the industry as a whole, which is one reason why the FSA is taking its own independent advice upon it".<Node id="2191" /></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="68" Type="body" StartNode="0" EndNode="2191">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="70" Type="html" StartNode="0" EndNode="2191">
+<Feature>
+  <Name className="java.lang.String">_implied_</Name>
+  <Value className="java.lang.String">true</Value>
+</Feature>
+</Annotation>
+<Annotation Id="38" Type="p" StartNode="1755" EndNode="1986">
+</Annotation>
+<Annotation Id="39" Type="p" StartNode="1538" EndNode="1753">
+</Annotation>
+<Annotation Id="67" Type="table" StartNode="0" EndNode="2191">
+<Feature>
+  <Name className="java.lang.String">leftmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginheight</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">topmargin</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">alink</Name>
+  <Value className="java.lang.String">#996600</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">link</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">width</Name>
+  <Value className="java.lang.String">618</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">marginwidth</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellpadding</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">border</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">cellspacing</Name>
+  <Value className="java.lang.String">0</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">bgcolor</Name>
+  <Value className="java.lang.String">white</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">vlink</Name>
+  <Value className="java.lang.String">#330033</Value>
+</Feature>
+</Annotation>
+<Annotation Id="37" Type="p" StartNode="1988" EndNode="2191">
+</Annotation>
+<Annotation Id="42" Type="p" StartNode="842" EndNode="1103">
+</Annotation>
+<Annotation Id="43" Type="p" StartNode="646" EndNode="840">
+</Annotation>
+<Annotation Id="40" Type="p" StartNode="1307" EndNode="1536">
+</Annotation>
+<Annotation Id="41" Type="p" StartNode="1105" EndNode="1305">
+</Annotation>
+<Annotation Id="46" Type="p" StartNode="0" EndNode="176">
+</Annotation>
+<Annotation Id="47" Type="font" StartNode="0" EndNode="2191">
+<Feature>
+  <Name className="java.lang.String">class</Name>
+  <Value className="java.lang.String">allWide</Value>
+</Feature>
+</Annotation>
+<Annotation Id="44" Type="p" StartNode="373" EndNode="644">
+</Annotation>
+<Annotation Id="45" Type="p" StartNode="178" EndNode="371">
+</Annotation>
+<Annotation Id="48" Type="p" StartNode="0" EndNode="2191">
+</Annotation>
+<Annotation Id="81" Type="TEXT" StartNode="0" EndNode="2191">
+</Annotation>
+<Annotation Id="59" Type="tr" StartNode="0" EndNode="2191">
+</Annotation>
+<Annotation Id="58" Type="td" StartNode="0" EndNode="2191">
+<Feature>
+  <Name className="java.lang.String">colspan</Name>
+  <Value className="java.lang.String">2</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

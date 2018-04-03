@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<GateDocument>
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">entitySet</Name>
+  <Value className="java.lang.String">==== FILE: /Z:/gatecorpora/news/business/clean/gu-singtel-10-aug-2001.html
+Organization 282 304 Cable &amp; Wireless Optus
+Date 754 763 yesterday
+Date 2151 2155 2001
+Location 1523 1532 Australia
+Person 1968 1977 Mr Stokes
+Location 1369 1378 Australia
+Location 584 593 Australia
+Organization 1766 1778 Kerry Stokes
+Location 1825 1834 Australia
+Location 188 197 Singapore
+Organization 540 562 Cable &amp; Wireless Optus
+Date 133 155 Friday August 10, 2001
+Location 348 357 Australia
+Date 1618 1622 1981
+Location 96 105 Australia
+Date 1540 1551 last decade
+Organization 2123 2150 Guardian Newspapers Limited
+Location 781 790 Singapore
+Location 670 679 Singapore
+Date 568 577 next year
+Organization 1456 1486 Australian National University
+Person 1045 1057 Ross Babbage
+Location 211 217 Sydney
+Location 306 315 Australia
+Location 448 457 Australia
+Location 1492 1501 Singapore
+Organization 1901 1923 Cable &amp; Wireless Optus
+Location 866 875 Australia
+Location 126 132 Sydney
+Location 1648 1657 Singapore
+Organization 48 62 Australia Spy
+</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/Z:/gatecorpora/news/business/clean/gu-singtel-10-aug-2001.html</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MatchesAnnots</Name>
+  <Value className="java.lang.String">{Key=[[892, 896, 913], [895, 894, 893, 887, 912, 907, 904, 902, 898], [891, 888], [890, 910, 906, 901, 899], [915, 936, 937, 939], [934, 938]]}</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/html</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Allegations that <Node id="17"/>Singapore<Node id="26"/> has spied on <Node id="40"/>Sydney<Node id="46"/> for decades threaten to undermine state-owned <Node id="93"/>SingTel<Node id="100"/>&apos;s bid for <Node id="111"/>Cable &amp; Wireless Optus<Node id="133"/>, <Node id="135"/>Australia<Node id="144"/>&apos;s second-largest telecoms firm.
+<Node id="177"/>Australia<Node id="186"/>&apos;s defence minister has forced both firms to sign a contract guaranteeing the integrity of <Node id="277"/>Australia<Node id="286"/>&apos;s military communications - much of which will be carried on a satellite owned by <Node id="369"/>Cable &amp; Wireless Optus<Node id="391"/> from <Node id="397"/>next year<Node id="406"/>.
+
+But <Node id="413"/>Australia<Node id="422"/>&apos;s foreign investment review board has yet to approve the takeover, and anti-<Node id="499"/>Singapore<Node id="508"/> sentiment could scupper the A<Node id="538"/>$14bn<Node id="543"/> (<Node id="545"/>£5bn<Node id="550"/>) deal.
+
+Several defence analysts <Node id="584"/>yesterday<Node id="593"/> claimed that the <Node id="611"/>Singapore<Node id="620"/> government&apos;s history of illicitly obtained sensitive military secrets from <Node id="696"/>Australia<Node id="705"/> rendered the <Node id="719"/>78%<Node id="722"/> government-owned <Node id="740"/>SingTel<Node id="747"/> unsuited to run an important telephone company and suggested it may even compromise the security of domestic telephone lines.
+
+<Node id="875"/>Ross Babbage<Node id="887"/>, a former defence secretary, said there was a lot of discomfort in Australian defence circles about the takeover bid because of Singaporeans&apos; &quot;congenital&quot; inclination to secretly collect and pass on information.
+
+&quot;I personally would take a lot of convincing this [satellite] can be organised in such a way that <Node id="1199"/>Australia<Node id="1208"/>&apos;s interests are really going to be safeguarded,&quot; he said.
+
+<Node id="1268"/>Des Ball<Node id="1276"/> from the <Node id="1286"/>Australian National University<Node id="1316"/> said <Node id="1322"/>Singapore<Node id="1331"/> spy planes patrolled <Node id="1353"/>Australia<Node id="1362"/> in the <Node id="1370"/>last decade<Node id="1381"/>, while agents had infiltrated Australian military complexes since <Node id="1448"/>1981<Node id="1452"/>.
+
+Business anxiety about <Node id="1478"/>Singapore<Node id="1487"/> firms buying Australian assets comes as the pair are poised to sign a groundbreaking free trade agreement.
+
+<Node id="1596"/>Kerry Stokes<Node id="1608"/>, the multimillionaire owner of Channel Seven, <Node id="1655"/>Australia<Node id="1664"/>&apos;s second-largest commercial TV station, savaged <Node id="1713"/>SingTel<Node id="1720"/>&apos;s bid for <Node id="1731"/>Cable &amp; Wireless Optus<Node id="1753"/>, which carries his pay-TV sports channels.
+
+<Node id="1798"/>Mr Stokes<Node id="1807"/> told the foreign investment review board that to allow the deal would demonstrate a &quot;naive approach to national security&quot;.<Node id="1930"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Key" >
+<Annotation Id="15" Type="Location" StartNode="696" EndNode="705">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="30" Type="Person" StartNode="1268" EndNode="1276">
+</Annotation>
+<Annotation Id="8" Type="Location" StartNode="277" EndNode="286">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="23" Type="Location" StartNode="1478" EndNode="1487">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[890, 910, 906, 901, 899]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="31" Type="Organization" StartNode="1713" EndNode="1720">
+</Annotation>
+<Annotation Id="16" Type="Person" StartNode="875" EndNode="887">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonFull</Value>
+</Feature>
+</Annotation>
+<Annotation Id="7" Type="Location" StartNode="177" EndNode="186">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="22" Type="Date" StartNode="1448" EndNode="1452">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">TempYear2</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">YearOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="9" Type="Organization" StartNode="369" EndNode="391">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXandY</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[892, 896, 913]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="21" Type="Date" StartNode="1370" EndNode="1381">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="6" Type="Location" StartNode="135" EndNode="144">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="1" Type="Money" StartNode="545" EndNode="550">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+<Annotation Id="29" Type="Organization" StartNode="740" EndNode="747">
+</Annotation>
+<Annotation Id="14" Type="Location" StartNode="611" EndNode="620">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[890, 910, 906, 901, 899]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="24" Type="Location" StartNode="1655" EndNode="1664">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="4" Type="Location" StartNode="40" EndNode="46">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[891, 888]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="19" Type="Location" StartNode="1322" EndNode="1331">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[890, 910, 906, 901, 899]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="26" Type="Person" StartNode="1798" EndNode="1807">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PersonFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gender</Name>
+  <Value className="java.lang.String">male</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">PersonTitle</Value>
+</Feature>
+</Annotation>
+<Annotation Id="11" Type="Location" StartNode="413" EndNode="422">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="18" Type="Organization" StartNode="1286" EndNode="1316">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXBase</Value>
+</Feature>
+</Annotation>
+<Annotation Id="3" Type="Location" StartNode="17" EndNode="26">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[890, 910, 906, 901, 899]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="12" Type="Location" StartNode="499" EndNode="508">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[890, 910, 906, 901, 899]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">city</Value>
+</Feature>
+</Annotation>
+<Annotation Id="27" Type="Organization" StartNode="1596" EndNode="1608">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">LocOrg</Value>
+</Feature>
+</Annotation>
+<Annotation Id="17" Type="Location" StartNode="1199" EndNode="1208">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="2" Type="Percent" StartNode="719" EndNode="722">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">PercentBasic</Value>
+</Feature>
+</Annotation>
+<Annotation Id="13" Type="Date" StartNode="584" EndNode="593">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">GazDateWords</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="28" Type="Organization" StartNode="93" EndNode="100">
+</Annotation>
+<Annotation Id="20" Type="Location" StartNode="1353" EndNode="1362">
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">LocFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">Location1</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[895, 894, 893, 887, 912, 907, 904, 902, 898]</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">locType</Name>
+  <Value className="java.lang.String">country</Value>
+</Feature>
+</Annotation>
+<Annotation Id="25" Type="Organization" StartNode="1731" EndNode="1753">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXandY</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[892, 896, 913]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="10" Type="Date" StartNode="397" EndNode="406">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">ModifierDate</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">DateOnlyFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">date</Value>
+</Feature>
+</Annotation>
+<Annotation Id="5" Type="Organization" StartNode="111" EndNode="133">
+<Feature>
+  <Name className="java.lang.String">rule1</Name>
+  <Value className="java.lang.String">OrgXandY</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">rule2</Name>
+  <Value className="java.lang.String">OrgFinal</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">matches</Name>
+  <Value className="java.lang.String">[892, 896, 913]</Value>
+</Feature>
+</Annotation>
+<Annotation Id="0" Type="Money" StartNode="538" EndNode="543">
+<Feature>
+  <Name className="java.lang.String">rule</Name>
+  <Value className="java.lang.String">MoneySymbolUnit</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">kind</Name>
+  <Value className="java.lang.String">number</Value>
+</Feature>
+</Annotation>
+</AnnotationSet>
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups" >
+<Annotation Id="32" Type="TEXT" StartNode="0" EndNode="1930">
+</Annotation>
+</AnnotationSet>
+</GateDocument>

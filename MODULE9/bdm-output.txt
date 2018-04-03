@@ -1,0 +1,22 @@
+##The following are the BDM scores for each pair of concepts in the ontology named test-ontology-bdm.owl_00062.
+key=http://gate.ac.uk/example#Entity, response=http://gate.ac.uk/example#Location, bdm=0.0, msca=Entity, cp=0, dpk=0, dpr=1, n0=1.6666666, n1=1.6666666, n2=2.0, bran=1.8000001
+key=http://gate.ac.uk/example#Country, response=http://gate.ac.uk/example#Leader, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=2, dpr=2, n0=1.6666666, n1=2.0, n2=2.0, bran=1.0
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Leader, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=2, n0=1.6666666, n1=1.0, n2=2.0, bran=1.2
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Person, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=1, n0=1.6666666, n1=1.0, n2=2.0, bran=1.8000001
+key=http://gate.ac.uk/example#Location, response=http://gate.ac.uk/example#Location, bdm=1.0, msca=http://gate.ac.uk/example#Location, cp=1, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Entity, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=0, n0=1.6666666, n1=1.0, n2=1.6666666, bran=1.8000001
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Organization, bdm=1.0, msca=http://gate.ac.uk/example#Organization, cp=1, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
+key=http://gate.ac.uk/example#Leader, response=http://gate.ac.uk/example#Location, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=2, dpr=1, n0=1.6666666, n1=2.0, n2=2.0, bran=1.2
+key=http://gate.ac.uk/example#Country, response=http://gate.ac.uk/example#Entity, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=2, dpr=0, n0=1.6666666, n1=2.0, n2=1.6666666, bran=1.2
+key=http://gate.ac.uk/example#Country, response=http://gate.ac.uk/example#Country, bdm=1.0, msca=http://gate.ac.uk/example#Country, cp=2, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
+key=http://gate.ac.uk/example#Entity, response=http://gate.ac.uk/example#Leader, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=0, dpr=2, n0=1.6666666, n1=1.6666666, n2=2.0, bran=1.2
+key=http://gate.ac.uk/example#Country, response=http://gate.ac.uk/example#Location, bdm=0.41860467, msca=http://gate.ac.uk/example#Location, cp=1, dpk=1, dpr=0, n0=1.6666666, n1=2.0, n2=2.0, bran=0.6
+key=http://gate.ac.uk/example#Person, response=http://gate.ac.uk/example#Leader, bdm=0.41860467, msca=http://gate.ac.uk/example#Person, cp=1, dpk=0, dpr=1, n0=1.6666666, n1=2.0, n2=2.0, bran=0.6
+key=http://gate.ac.uk/example#Person, response=http://gate.ac.uk/example#Entity, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=0, n0=1.6666666, n1=2.0, n2=1.6666666, bran=1.8000001
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Location, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=1, n0=1.6666666, n1=1.0, n2=2.0, bran=1.8000001
+key=http://gate.ac.uk/example#Organization, response=http://gate.ac.uk/example#Country, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=2, n0=1.6666666, n1=1.0, n2=2.0, bran=1.2
+key=http://gate.ac.uk/example#Entity, response=http://gate.ac.uk/example#Entity, bdm=1.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
+key=http://gate.ac.uk/example#Person, response=http://gate.ac.uk/example#Location, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=1, dpr=1, n0=1.6666666, n1=2.0, n2=2.0, bran=1.8000001
+key=http://gate.ac.uk/example#Country, response=http://gate.ac.uk/example#Person, bdm=0.0, msca=http://gate.ac.uk/example#Entity, cp=0, dpk=2, dpr=1, n0=1.6666666, n1=2.0, n2=2.0, bran=1.2
+key=http://gate.ac.uk/example#Leader, response=http://gate.ac.uk/example#Leader, bdm=1.0, msca=http://gate.ac.uk/example#Leader, cp=2, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
+key=http://gate.ac.uk/example#Person, response=http://gate.ac.uk/example#Person, bdm=1.0, msca=http://gate.ac.uk/example#Person, cp=1, dpk=0, dpr=0, n0=1.6666666, n1=1.0, n2=1.0, bran=1.0
